@@ -1,0 +1,527 @@
+(------------------------------------------------------------)
+(                                                            )
+(        ARTWORK LOG                                         )
+(                                                            )
+(        Drawing    : pc005-unplaced-g.brd                   )
+(        Date/Time  : Thu Jun 26 16:43:54 2003               )
+(                                                            )
+(------------------------------------------------------------)
+
+
+
+ ******************************************
+ WARNING: DRC OUT OF DATE on this layout.
+ ******************************************
+
+ ---- Photoplot outline rectangle not found ... using drawing extents
+
+
+Thu Jun 26 16:43:54 2003				Page     1
+
+Photoplot log file
+Results from parameter file ...
+
+DEVICE-TYPE           GERBER_RS274X
+OUTPUT-UNITS          INCHES
+FILM-SIZE             24000 16000
+FORMAT                5.3
+ABORT-ON-ERROR        NO
+SCALE                 1
+SUPPRESS-LEAD-ZEROES  YES
+SUPPRESS-TRAIL-ZEROES NO
+SUPPRESS-EQUAL        YES
+UNDEF-APT-CONT        NO
+
+ WARNING: Generating english output data from a metric database
+ may cause slight roundoff error of coordinates in output file.
+
+
+
+================================================================
+     PROCESSING FILM < top_assembly.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined Line Width                0.0000
+  Mirror Code                         NONE
+  Rotate Angle                        NONE
+  Offset X:                           0.0000
+  Offset Y:                           0.0000
+  Plot Negative                       NO
+  Suppress Unconnected Internal Pads  NO
+
+	WARNING: 0 width line found at X:-121.2850 Y:-42.6200
+	WARNING: ... ignored!
+
+	WARNING: Multiple 0 width lines; all will be treated the same as the first.
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-125.7500 Y:-29.3930
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-127.8930 Y:-25.2500
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-125.8930 Y:-25.2500
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-125.7500 Y:-21.1430
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-131.6430 Y:-14.7500
+	WARNING: ... ignored!
+
+	WARNING: rectangle composed of 0 width lines found at X:-123.9600 Y:-16.9050
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-127.1350 Y:-15.4445
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-126.3570 Y:-9.5000
+	WARNING: ... ignored!
+
+	WARNING: rectangle composed of 0 width lines found at X:-124.0000 Y:0.7500
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-129.7500 Y:8.2500
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-129.0000 Y:20.7780
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-119.3800 Y:-36.2700
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-123.6430 Y:-18.2500
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-125.0000 Y:-23.3930
+	WARNING: ... ignored!
+
+	WARNING: rectangle composed of 0 width lines found at X:-119.4050 Y:-25.5800
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-122.0000 Y:-12.1430
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-124.3570 Y:-9.5000
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-118.6430 Y:-6.5000
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-122.0000 Y:-7.8570
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-117.7500 Y:3.0200
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-117.7500 Y:5.5200
+	WARNING: ... ignored!
+
+	WARNING: rectangle composed of 0 width lines found at X:-118.9210 Y:10.7180
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-119.4720 Y:11.7660
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-117.0000 Y:-27.2220
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-116.8650 Y:-20.5000
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-110.8930 Y:-10.2500
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-114.3570 Y:-6.5000
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-116.6430 Y:-10.0000
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-116.3570 Y:-10.0000
+	WARNING: ... ignored!
+
+	WARNING: rectangle composed of 0 width lines found at X:-116.2700 Y:-3.0200
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-113.7300 Y:0.1550
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-113.7500 Y:0.6070
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-113.7500 Y:3.1070
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-116.7500 Y:9.5200
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-112.7500 Y:9.3930
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-116.0000 Y:15.0360
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-114.4840 Y:16.2220
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-107.6430 Y:-19.5000
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-109.0000 Y:-13.0860
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-105.2300 Y:-15.2500
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-105.5000 Y:-6.7500
+	WARNING: ... ignored!
+
+	WARNING: rectangle composed of 0 width lines found at X:-109.5000 Y:-5.1000
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-102.7500 Y:-7.3930
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-103.2500 Y:3.7700
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-105.5000 Y:-0.7500
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-107.5000 Y:1.3570
+	WARNING: ... ignored!
+
+	WARNING: rectangle composed of 0 width lines found at X:-94.6220 Y:20.8340
+	WARNING: ... ignored!
+
+	WARNING: rectangle composed of 0 width lines found at X:-106.4210 Y:3.9680
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-103.5000 Y:8.2860
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-102.7500 Y:16.1350
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-101.3800 Y:-36.2700
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-94.2500 Y:-9.6430
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-94.2500 Y:-9.3570
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-95.6070 Y:-9.5000
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-98.5000 Y:-6.3930
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-98.7500 Y:-1.6430
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-88.3800 Y:-36.2700
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-79.5000 Y:-28.8930
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-84.0000 Y:-26.6070
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-85.5120 Y:-8.5080
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-73.9450 Y:-40.0000
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-75.3800 Y:-36.2700
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-73.0000 Y:-26.7220
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-71.2500 Y:-33.1070
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-75.5000 Y:-9.1430
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-68.0000 Y:-35.3930
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-68.0000 Y:20.7780
+	WARNING: ... ignored!
+
+	WARNING: rectangle composed of 0 width lines found at X:-49.8570 Y:21.5490
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-55.4450 Y:-43.0940
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-49.6430 Y:4.0000
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-49.6430 Y:-0.7500
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-49.6430 Y:8.7500
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-45.3570 Y:1.2500
+	WARNING: ... ignored!
+
+	WARNING: rectangle composed of 0 width lines found at X:-43.6550 Y:-3.5400
+	WARNING: ... ignored!
+
+	WARNING: rectangle composed of 0 width lines found at X:-43.6550 Y:1.9600
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-45.3570 Y:6.2500
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-45.3570 Y:11.2500
+	WARNING: ... ignored!
+
+	WARNING: rectangle composed of 0 width lines found at X:-43.6550 Y:7.4600
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-34.5000 Y:-24.0000
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-42.1945 Y:-0.3650
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-42.1945 Y:5.1350
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-42.1945 Y:10.6350
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-21.7780 Y:-34.0160
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-21.7780 Y:-22.5160
+	WARNING: ... ignored!
+
+	WARNING: rectangle composed of 0 width lines found at X:-14.5000 Y:-39.5000
+	WARNING: ... ignored!
+
+	WARNING: rectangle composed of 0 width lines found at X:-9.4854 Y:-28.6268
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-15.3570 Y:-31.2500
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-15.1750 Y:-23.7500
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-16.2300 Y:4.2500
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-14.3570 Y:4.2500
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-7.0000 Y:-33.7500
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-3.2500 Y:11.8570
+	WARNING: ... ignored!
+
+	WARNING: rectangle composed of 0 width lines found at X:-2.1150 Y:-19.0268
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-2.7500 Y:-22.5320
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:3.0000 Y:-8.1430
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-1.2500 Y:-3.3930
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:1.2500 Y:-5.8930
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:1.0000 Y:15.6070
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-2.2500 Y:14.3570
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:4.2500 Y:16.8570
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:9.5000 Y:-34.8930
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:9.2500 Y:-11.8930
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:6.2500 Y:-9.8930
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:9.5000 Y:16.1070
+	WARNING: ... ignored!
+
+	WARNING: rectangle composed of 0 width lines found at X:11.2020 Y:-43.2090
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:16.7900 Y:21.4340
+	WARNING: ... ignored!
+
+	WARNING: rectangle composed of 0 width lines found at X:35.0480 Y:20.7090
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:29.4600 Y:-43.9340
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:36.3570 Y:-35.5000
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:38.6430 Y:-32.2500
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:39.0200 Y:0.2500
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:37.7500 Y:5.0200
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:37.7500 Y:7.2700
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:37.7500 Y:9.7700
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:43.2500 Y:-37.3570
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:45.8570 Y:-31.5000
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:48.1430 Y:-28.2500
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:47.5000 Y:-18.2320
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:46.0000 Y:3.9450
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:46.0000 Y:12.4450
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:46.0000 Y:20.9450
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:55.1070 Y:-28.0000
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:62.2500 Y:-37.3570
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:63.4820 Y:-25.1250
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:57.3930 Y:-24.7500
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:65.2500 Y:-3.7500
+	WARNING: ... ignored!
+
+	WARNING: rectangle composed of 0 width lines found at X:72.5000 Y:21.0000
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:65.0000 Y:15.2500
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:65.7680 Y:-21.8750
+	WARNING: ... ignored!
+
+	WARNING: rectangle composed of 0 width lines found at X:79.3650 Y:11.2768
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:80.0000 Y:14.7820
+	WARNING: ... ignored!
+
+	WARNING: rectangle composed of 0 width lines found at X:74.8732 Y:14.7354
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:79.7500 Y:20.4250
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:85.0000 Y:-4.0550
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:85.0000 Y:4.4450
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:85.9720 Y:17.7340
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:94.5000 Y:-4.0550
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:94.5000 Y:4.4450
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:94.5000 Y:13.9450
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:94.5000 Y:22.9450
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:101.5000 Y:4.0200
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:101.5000 Y:6.7700
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:101.5000 Y:9.7700
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:103.0200 Y:11.7500
+	WARNING: ... ignored!
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00787                                  DARK 
+  CIRCLE     0.03937                                  DARK 
+
+
+
+================================================================
+     PROCESSING FILM < top_pastemask.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined Line Width                0.0000
+  Mirror Code                         NONE
+  Rotate Angle                        NONE
+  Offset X:                           0.0000
+  Offset Y:                           0.0000
+  Plot Negative                       NO
+  Suppress Unconnected Internal Pads  NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  RECTANGLE  0.02500     x 0.04500       0.000 NO     DARK 
+  RECTANGLE  0.02500     x 0.04500      90.000 NO     DARK 
+  RECTANGLE  0.03600     x 0.06000       0.000 NO     DARK 
+  RECTANGLE  0.03600     x 0.06000      90.000 NO     DARK 
+

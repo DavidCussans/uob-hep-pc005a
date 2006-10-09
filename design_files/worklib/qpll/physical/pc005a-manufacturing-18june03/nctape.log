@@ -1,0 +1,64 @@
+(------------------------------------------------------------)
+(                                                            )
+(                    LOG FILE                                )
+(                                                            )
+(        Drawing    : #Taaaaab01212.tmp                      )
+(        Date/Time  : Wed Jun 11 08:47:23 2003               )
+(                                                            )
+(------------------------------------------------------------)
+
+
+
+     NCDRILL  PARAMETERS
+     -------------------
+
+ FORMAT   		2.3
+ MACHINE-OFFSET		x:0.000000	y:0.000000
+ FEEDRATE		1
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		ENGLISH
+ TOOL-ORDER		INCREASING
+ REPEAT-CODES		YES
+ SUPPRESS-LEAD-ZEROES	NO
+ SUPPRESS-TRAIL-ZEROES	NO
+ SUPPRESS-EQUAL		NO
+ TOOL-SELECT		NO
+ DIP-PATTERN		NO
+ HEADER			none
+ LEADER			12
+ CODE			ASCII
+ LENGTH			9999
+ UNIT-LENGTH		FEET
+ SEPARATE		NO
+ SCALE			1.000000
+
+
+
+
+
+     'ncdrill1.tap' created for holes connecting TOP and BOTTOM 
+     ---------------------------------------------
+
+     Num     Size         Plating   Quantity
+      1.   0.4064          PLATED        115
+      2.   0.6350          PLATED         16
+      3.   0.8128          PLATED        296
+      4.   0.9144          PLATED         39
+      5.   1.0160          PLATED          9
+      6.   1.2192          PLATED          9
+      7.   1.5240          PLATED         36
+      8.   2.7940          PLATED          8
+      9.   2.4892      NON_PLATED          4
+     ---- total holes:                   532
+
+     ---- total head travel:                22.22 ft. (6.77 m) 
+
+     ---- approx. length of paper tape:     55.0 feet  /  16.8 meters 
+
+
+
+**********Screen Output**********
+
+ Extracting drill data from database.
+ Sorting drill data.
+ Creating file ncdrill1.tap for holes connecting TOP and BOTTOM 

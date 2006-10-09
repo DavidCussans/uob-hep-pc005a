@@ -1,0 +1,91 @@
+ 
+Initializing tool communication modules... 
+Checking the presence of variant and BOM view. 
+Set the DDBPI message handlers and Tool start time. 
+Initialize jlg string table. 
+Start loading the design. 
+Loading logical design view of qpll 
+Setting design view directives...
+ 
+Loading pstX files...
+ 
+Loading... E:\UOB-HEP-PC005A\worklib\qpll\packaged\pstchip.dat
+ 
+Loading... E:\UOB-HEP-PC005A\worklib\qpll\packaged\pstxprt.dat
+ 
+Loading... E:\UOB-HEP-PC005A\worklib\qpll\packaged\pstxnet.dat
+ 
+packaging the design view... 
+End loading logical design view of qpll 
+Reading cell level PPTs... 
+Loading g:/cad/bris_cdslib/lib_psd14.x/cds_analogue/cds_analogue.ptf.
+ 
+Loading g:/cad/bris_cdslib/lib_psd14.x/cds_connectors/cds_connectors.ptf.
+ 
+Loading g:/cad/bris_cdslib/lib_psd14.x/cds_discrete/cds_discrete.ptf.
+ 
+Loading g:/cad/bris_cdslib/lib_psd14.x/cds_logic/cds_logic.ptf.
+ 
+Loading g:/cad/bris_cdslib/lib_psd14.x/cds_pld/cds_pld.ptf.
+ 
+Loading g:/cad/bris_cdslib/lib_psd14.x/cds_special/cds_special.ptf.
+ 
+Loading g:/cad/ral_cdslib/lib_psd14.x/cds_analogue/cds_analogue.ptf.
+ 
+Loading g:/cad/ral_cdslib/lib_psd14.x/cds_connectors/cds_connectors.ptf.
+ 
+Loading g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/cds_discrete.ptf.
+ 
+Loading g:/cad/ral_cdslib/lib_psd14.x/cds_logic/cds_logic.ptf.
+ 
+Loading g:/cad/ral_cdslib/lib_psd14.x/cds_memory/cds_memory.ptf.
+ 
+Loading g:/cad/ral_cdslib/lib_psd14.x/cds_pld/cds_pld.ptf.
+ 
+Loading g:/cad/ral_cdslib/lib_psd14.x/cds_special/cds_special.ptf.
+ 
+Loading g:/cad/ral_cdslib/lib_psd14.x/cds_switches/cds_switches.ptf.
+ 
+Error #324:  DDB_WARN: File 'g:\cad\bris_cdslib\lib_psd14.x/cds_analogue/cds_analogue.ptf' already loaded into PPT view.  Will not load again.
+
+ 
+Error #324:  DDB_WARN: File 'g:\cad\bris_cdslib\lib_psd14.x/cds_connectors/cds_connectors.ptf' already loaded into PPT view.  Will not load again.
+
+ 
+Error #324:  DDB_WARN: File 'g:\cad\bris_cdslib\lib_psd14.x/cds_discrete/cds_discrete.ptf' already loaded into PPT view.  Will not load again.
+
+ 
+Error #324:  DDB_WARN: File 'g:\cad\bris_cdslib\lib_psd14.x/cds_logic/cds_logic.ptf' already loaded into PPT view.  Will not load again.
+
+ 
+Error #324:  DDB_WARN: File 'g:\cad\bris_cdslib\lib_psd14.x/cds_pld/cds_pld.ptf' already loaded into PPT view.  Will not load again.
+
+ 
+Error #324:  DDB_WARN: File 'g:\cad\bris_cdslib\lib_psd14.x/cds_special/cds_special.ptf' already loaded into PPT view.  Will not load again.
+
+ 
+Error #324:  DDB_WARN: File 'g:\cad\ral_cdslib\lib_psd14.x/cds_analogue/cds_analogue.ptf' already loaded into PPT view.  Will not load again.
+
+ 
+Error #324:  DDB_WARN: File 'g:\cad\ral_cdslib\lib_psd14.x/cds_connectors/cds_connectors.ptf' already loaded into PPT view.  Will not load again.
+
+ 
+Error #324:  DDB_WARN: File 'g:\cad\ral_cdslib\lib_psd14.x/cds_discrete/cds_discrete.ptf' already loaded into PPT view.  Will not load again.
+
+ 
+Error #324:  DDB_WARN: File 'g:\cad\ral_cdslib\lib_psd14.x/cds_logic/cds_logic.ptf' already loaded into PPT view.  Will not load again.
+
+ 
+Error #324:  DDB_WARN: File 'g:\cad\ral_cdslib\lib_psd14.x/cds_memory/cds_memory.ptf' already loaded into PPT view.  Will not load again.
+
+ 
+Error #324:  DDB_WARN: File 'g:\cad\ral_cdslib\lib_psd14.x/cds_pld/cds_pld.ptf' already loaded into PPT view.  Will not load again.
+
+ 
+Error #324:  DDB_WARN: File 'g:\cad\ral_cdslib\lib_psd14.x/cds_special/cds_special.ptf' already loaded into PPT view.  Will not load again.
+
+ 
+Error #324:  DDB_WARN: File 'g:\cad\ral_cdslib\lib_psd14.x/cds_switches/cds_switches.ptf' already loaded into PPT view.  Will not load again.
+
+ 
+Design loaded successfully. 

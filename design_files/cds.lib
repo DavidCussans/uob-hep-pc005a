@@ -1,0 +1,4 @@
+DEFINE uob_hep_pc005a_lib worklib
+INCLUDE $RAL_CDSLIB/cds.lib
+INCLUDE $BRIS_CDSLIB/cds.lib
+INCLUDE $CONCEPT_INST_DIR/share/cdssetup/cds.lib

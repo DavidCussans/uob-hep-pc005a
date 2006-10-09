@@ -1,0 +1,175 @@
+Tue Jun 10 09:58:13 2003				Page     1
+
+Cadence Design Systems, Inc.
+
+Pad Stack Refresh Logfile
+
+------ Pad Stack Refresh Options ------
+
+OLD_LAYOUT_NAME = '#Taaaaaa00452.tmp';
+NEW_LAYOUT_NAME = '';
+
+
+------ Library Paths ------
+PSMPATH =  g:\cad\bris_cdslib\lib_psd14.x/symbols 
+           g:\cad\ral_cdslib\lib_psd14.x/symbols 
+           g:\cad\ral_cdslib\lib_psd14.x/formats 
+           . 
+           symbols 
+           .. 
+           ../symbols 
+           C:\Cadence\PSD_14.2\share\local\pcb/symbols 
+           C:\Cadence\PSD_14.2\share\pcb/pcb_lib/symbols 
+           C:\Cadence\PSD_14.2\share\pcb/allegrolib/symbols 
+
+PADPATH =  g:\cad\ral_cdslib\lib_psd14.x/pads 
+           g:\cad\bris_cdslib\lib_psd14.x/pads 
+           . 
+           symbols 
+           .. 
+           ../symbols 
+           C:\Cadence\PSD_14.2\share\local\pcb/padstacks 
+           C:\Cadence\PSD_14.2\share\pcb/pcb_lib/symbols 
+           C:\Cadence\PSD_14.2\share\pcb/allegrolib/symbols 
+
+
+------ Pad Stack Refresh Messages ------
+
+Attempting to refresh pad stack 'PAD76SQ1-2D'.
+
+     Completed refreshing pad stack 'PAD76SQ1-2D' successfully.
+     
+Attempting to refresh pad stack 'PAD76RD1-2D'.
+
+     Completed refreshing pad stack 'PAD76RD1-2D' successfully.
+     
+Attempting to refresh pad stack 'PAD55CIR25D'.
+
+     Completed refreshing pad stack 'PAD55CIR25D' successfully.
+     
+Attempting to refresh pad stack 'PAD55SQ25D'.
+
+     Completed refreshing pad stack 'PAD55SQ25D' successfully.
+     
+Attempting to refresh pad stack 'PAD68RD1-0D'.
+
+     Completed refreshing pad stack 'PAD68RD1-0D' successfully.
+     
+Attempting to refresh pad stack 'PAD88RD1-5D'.
+
+     Completed refreshing pad stack 'PAD88RD1-5D' successfully.
+     
+Attempting to refresh pad stack 'SMD1010UX1450U'.
+
+     Completed refreshing pad stack 'SMD1010UX1450U' successfully.
+     
+Attempting to refresh pad stack 'SMD35X20'.
+
+     Completed refreshing pad stack 'SMD35X20' successfully.
+     
+Attempting to refresh pad stack 'SMD25X20'.
+
+     Completed refreshing pad stack 'SMD25X20' successfully.
+     
+Attempting to refresh pad stack 'SMD3800UX3800U'.
+
+     Completed refreshing pad stack 'SMD3800UX3800U' successfully.
+     
+Attempting to refresh pad stack 'SMD250UX450U'.
+
+     Completed refreshing pad stack 'SMD250UX450U' successfully.
+     
+Attempting to refresh pad stack 'HOLE2-8P'.
+
+     Completed refreshing pad stack 'HOLE2-8P' successfully.
+     
+Attempting to refresh pad stack 'PAD60SQ0-8D'.
+
+     Completed refreshing pad stack 'PAD60SQ0-8D' successfully.
+     
+Attempting to refresh pad stack 'PAD60RD0-8D'.
+
+     Completed refreshing pad stack 'PAD60RD0-8D' successfully.
+     
+Attempting to refresh pad stack 'SMD40X68'.
+
+     Completed refreshing pad stack 'SMD40X68' successfully.
+     
+Attempting to refresh pad stack 'SMD70X90'.
+
+     Completed refreshing pad stack 'SMD70X90' successfully.
+     
+Attempting to refresh pad stack 'SMD350X420'.
+
+     Completed refreshing pad stack 'SMD350X420' successfully.
+     
+Attempting to refresh pad stack 'SMD80X145'.
+
+     Completed refreshing pad stack 'SMD80X145' successfully.
+     
+Attempting to refresh pad stack 'PAD64RD0-9D'.
+
+     Completed refreshing pad stack 'PAD64RD0-9D' successfully.
+     
+Attempting to refresh pad stack 'PAD64SQ0-9D'.
+
+     Completed refreshing pad stack 'PAD64SQ0-9D' successfully.
+     
+Attempting to refresh pad stack 'SMD150X167'.
+
+     Completed refreshing pad stack 'SMD150X167' successfully.
+     
+Attempting to refresh pad stack 'SMD20_17'.
+
+     Completed refreshing pad stack 'SMD20_17' successfully.
+     
+Attempting to refresh pad stack 'SMD2300UX4200U'.
+
+     Completed refreshing pad stack 'SMD2300UX4200U' successfully.
+     
+Attempting to refresh pad stack 'SMD100X90'.
+Tue Jun 10 09:58:13 2003				Page     2
+
+Cadence Design Systems, Inc.
+
+Pad Stack Refresh Logfile
+
+
+     Completed refreshing pad stack 'SMD100X90' successfully.
+     
+Attempting to refresh pad stack 'SMD930UX1000U'.
+
+     Completed refreshing pad stack 'SMD930UX1000U' successfully.
+     
+Attempting to refresh pad stack 'SMD28X50'.
+
+     Completed refreshing pad stack 'SMD28X50' successfully.
+     
+Attempting to refresh pad stack 'SMD49X30'.
+
+     Completed refreshing pad stack 'SMD49X30' successfully.
+     
+Attempting to refresh pad stack 'SMD25_50'.
+
+     Completed refreshing pad stack 'SMD25_50' successfully.
+     
+Attempting to refresh pad stack 'SMD50_25'.
+
+     Completed refreshing pad stack 'SMD50_25' successfully.
+     
+Attempting to refresh pad stack 'PAD60CIR36D'.
+
+     Completed refreshing pad stack 'PAD60CIR36D' successfully.
+     
+Attempting to refresh pad stack 'PAD60SQ36D'.
+
+     Completed refreshing pad stack 'PAD60SQ36D' successfully.
+     
+Completed refreshing all pad stacks successfully.
+
+
+**********Screen Output**********
+
+Performing a partial database check before saving.
+Writing database to disk.
+'#Taaaaaa00452.tmp' saved to disk.

@@ -1,0 +1,4 @@
+
+DEFINE cds_discrete g:/cad/bris_cdslib/lib_psd14.x//cds_discrete
+
+DEFINE standard $CDS_INST_DIR/share/library/standard

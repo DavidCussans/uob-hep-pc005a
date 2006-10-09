@@ -1,0 +1,8 @@
+\t (00:00:01) enved  unreleased i86
+\t (00:00:01) Internal version = v14-2-56A
+\t (00:00:01) 
+
+\i (00:00:03) setwindow form.prfedit
+\i (00:00:03) FORM prfedit treelist  Design_paths 
+\i (00:00:05) FORM prfedit psmpath  
+\i (00:00:17) FORM prfedit done  

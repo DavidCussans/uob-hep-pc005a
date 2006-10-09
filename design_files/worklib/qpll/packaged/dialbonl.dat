@@ -1,0 +1,454 @@
+BODY ORDERED NET LIST - 1  
+C1               CAPACITOR_CASE-C-22U,+/-10%,AVA 1        GND                     
+                                  2        UNNAMED_1_CAPACITOR_I77_B
+C2               CAPACITOR_0603-100N,+/-10%,AVXA 1        UNNAMED_1_CAPACITOR_I15_A
+                                  2        UNNAMED_1_100EL16_I3_D  
+C3               CAPACITOR_0603-100N,+/-10%,AVXA 1        UNNAMED_1_CAPACITOR_I16_A
+                                  2        UNNAMED_1_100EL16_I3_DBAR
+C4               CAPACITOR_0603-10N,+/-10%,AVX-A 1        GND                     
+                                  2        UNNAMED_1_100EL16_I3_VBB
+C5               CAPACITOR_0603-1U0,+/-10%,MURAA 1        VCC                     
+                                  2        GND                     
+C6               CAPACITOR_0603-100N,+/-10%,AVXA 1        GND                     
+                                  2        VCC                     
+C7               CAPACITOR_CASE-C-22U,+/-10%,AVA 1        GND                     
+                                  2        UNNAMED_1_CAPACITOR_I76_A
+C8               CAPACITOR_0603-100N,+/-10%,AVXA 1        UNNAMED_1_CAPACITOR_I25_A
+                                  2        UNNAMED_1_100EL16_I3_QBAR
+C9               CAPACITOR_0603-1U0,+/-10%,MURAA 1        UNNAMED_1_CAPACITOR_I76_A
+                                  2        GND                     
+C10              CAPACITOR_0603-100N,+/-10%,AVXA 1        UNNAMED_1_100EL16_I3_Q  
+                                  2        UNNAMED_1_CAPACITOR_I24_B
+C11              CAPACITOR_0603-47N,+/-10%,AVX-A 1        GND                     
+                                  2        2V5                     
+C12              CAPACITOR_0603-47N,+/-10%,AVX-A 1        GND                     
+                                  2        2V5                     
+C13              CAPACITOR_0603-100N,+/-10%,AVXA 1        GND                     
+                                  2        UNNAMED_1_CAPACITOR_I31_B
+C14              CAPACITOR_0603-10N,+/-10%,AVX-A 1        GND                     
+                                  2        2V5                     
+C15              CAPACITOR_0603-10N,+/-10%,AVX-A 1        GND                     
+                                  2        2V5                     
+C16              CAPACITOR_0603-100N,+/-10%,AVXA 1        UNNAMED_1_100E111_I60_IN_1
+                                  2        UNNAMED_1_CAPACITOR_I50_B
+C17              CAPACITOR_0603-10N,+/-10%,AVX-A 1        GND                     
+                                  2        UNNAMED_1_100E111_I60_VBB
+C18              CAPACITOR_0603-100N,+/-10%,AVXA 1        UNNAMED_1_CAPACITOR_I49_A
+                                  2        UNNAMED_1_100E111_I60_IN
+C19              CAPACITOR_0603-10N,+/-10%,AVX-A 1        GND                     
+                                  2        VCC                     
+C20              CAPACITOR_0603-100N,+/-10%,AVXA 1        GND                     
+                                  2        VCC                     
+C21              CAPACITOR_0603-100N,+/-10%,AVXA 1        GND                     
+                                  2        VCC                     
+C22              CAPACITOR_CASE-C-47U/10V,+/-10A 1        GND                     
+                                  2        VCC                     
+C23              CAPACITOR_CASE-C-47U/10V,+/-10A 1        VEE                     
+                                  2        GND                     
+C24              CAPACITOR_0603-100N,+/-10%,AVXA 1        GND                     
+                                  2        VCC                     
+C25              CAPACITOR_0603-100N,+/-10%,AVXA 1        GND                     
+                                  2        VCC                     
+C26              CAPACITOR_0603-100N,+/-10%,AVXA 1        GND                     
+                                  2        VCC                     
+C27              CAPACITOR_0603-100N,+/-10%,AVXA 1        VEE                     
+                                  2        GND                     
+C28              CAPACITOR_0603-100N,+/-10%,AVXA 1        VEE                     
+                                  2        GND                     
+C29              CAPACITOR_0603-100N,+/-10%,AVXA 1        GND                     
+                                  2        VCC                     
+C30              CAPACITOR_0603-100N,+/-10%,AVXA 1        VEE                     
+                                  2        GND                     
+C31              CAPACITOR_CASE-C-47U/10V,+/-10A 1        VEE                     
+                                  2        GND                     
+C32              CAPACITOR_0603-100N,+/-10%,AVXA 1        VEE                     
+                                  2        GND                     
+C33              CAPACITOR_0603-100N,+/-10%,AVXA 1        VEE                     
+                                  2        GND                     
+C34              CAPACITOR_0603-100N,+/-10%,AVXA 1        VEE                     
+                                  2        GND                     
+D1               DIODE_SMD-SOT-ZHCS750,ZETEX 2        UNNAMED_2_TEN-5-DUALOP_I13_VINN
+                                  3        UNNAMED_2_TEN-5-DUALOP_I13_VINP
+D2               DIODE_SMD-SOT-ZHCS750,ZETEX 2        UNNAMED_3_DIODE_I53_A   
+                                  3        UNNAMED_3_DIODE_I53_K   
+DS1              LED-SMD_0805-RED,ROHM 1        VCC                     
+                                  2        UNNAMED_1_LED-SMD_I94_K1
+DS2              LED-SMD_0805-RED,ROHM 1        2V5                     
+                                  2        UNNAMED_1_LED-SMD_I95_K1
+DS3              LED-SMD_0805-RED,ROHM 1        UNNAMED_1_LED-SMD_I35_A1
+                                  2        UNNAMED_1_LED-SMD_I35_K1
+FS1              FUSE-SMD_SMF-250MA,LITTELFUSE 1        UNNAMED_2_FUSE-SMD_I54_A
+                                  2        UNNAMED_2_TEN-5-DUALOP_I13_VINP
+FS2              FUSE-SMD_SMF-250MA,LITTELFUSE 1        UNNAMED_3_FUSE-SMD_I54_A
+                                  2        UNNAMED_3_DIODE_I53_K   
+L1               INDUCTOR_SMD-4.7U,MEC 1        UNNAMED_1_CAPACITOR_I77_B
+                                  2        VCC                     
+L2               INDUCTOR_SMD-1.0U,MEGGIT 1        UNNAMED_1_CAPACITOR_I76_A
+                                  2        2V5                     
+PL1              HEADER2X1_STR-HARWIN 1        GND                     
+                                  2        UNNAMED_1_HEADER2X1_I79_B
+R1               RESISTOR_0805-10R,1%,MULTICOMP 1        UNNAMED_1_CAPACITOR_I77_B
+                                  2        VCC                     
+R2               RESISTOR_0603-100R,5%,ROHM 1        UNNAMED_1_CAPACITOR_I16_A
+                                  2        UNNAMED_1_CAPACITOR_I15_A
+R3               RESISTOR_0603-430R,1%,MULTICOMP 1        GND                     
+                                  2        UNNAMED_1_LED-SMD_I94_K1
+R4               RESISTOR_0603-1K0,1%,MULTICOMP 1        UNNAMED_1_100EL16_I3_VBB
+                                  2        UNNAMED_1_100EL16_I3_D  
+R5               RESISTOR_0603-1K0,1%,MULTICOMP 1        UNNAMED_1_100EL16_I3_VBB
+                                  2        UNNAMED_1_100EL16_I3_DBAR
+R6               RESISTOR_0603-270R,1%,MULTICOMP 1        GND                     
+                                  2        UNNAMED_1_100EL16_I3_QBAR
+R7               RESISTOR_0603-270R,1%,MULTICOMP 1        GND                     
+                                  2        UNNAMED_1_100EL16_I3_Q  
+R8               RESISTOR_0603-220R,1%,MULTICOMP 1        UNNAMED_1_CAPACITOR_I25_A
+                                  2        VCC                     
+R9               RESISTOR_0603-68R,1%,MULTICOMP 1        GND                     
+                                  2        UNNAMED_1_CAPACITOR_I25_A
+R10              RESISTOR_0805-2R2,1%,MULTICOMP 1        UNNAMED_1_CAPACITOR_I76_A
+                                  2        2V5                     
+R11              RESISTOR_0603-220R,1%,MULTICOMP 1        UNNAMED_1_CAPACITOR_I24_B
+                                  2        VCC                     
+R12              RESISTOR_0603-68R,1%,MULTICOMP 1        GND                     
+                                  2        UNNAMED_1_CAPACITOR_I24_B
+R13              RESISTOR_0603-100R,1%,ROHM 1        GND                     
+                                  2        UNNAMED_1_QPLL28-CERN_I2_INCMOS
+R14              RESISTOR_0603-100R,1%,ROHM 1        GND                     
+                                  2        UNNAMED_1_LED-SMD_I95_K1
+R15              RESISTOR_0603-100R,1%,ROHM 1        GND                     
+                                  2        UNNAMED_1_LED-SMD_I35_K1
+R16              RESISTOR_0603-100R,1%,ROHM 1        UNNAMED_1_CAPACITOR_I50_B
+                                  2        UNNAMED_1_CAPACITOR_I49_A
+R17              RESISTOR_0603-1K0,1%,MULTICOMP 1        UNNAMED_1_100E111_I60_IN_1
+                                  2        UNNAMED_1_100E111_I60_VBB
+R18              RESISTOR_0603-1K0,1%,MULTICOMP 1        UNNAMED_1_100E111_I60_IN
+                                  2        UNNAMED_1_100E111_I60_VBB
+R19              RESISTOR_0603-270R,1%,MULTICOMP 1        GND                     
+                                  2        UNNAMED_1_100E111_I60_Q1_1
+R20              RESISTOR_0603-270R,1%,MULTICOMP 1        GND                     
+                                  2        UNNAMED_1_100E111_I60_Q1
+R21              RESISTOR_0603-270R,1%,MULTICOMP 1        GND                     
+                                  2        UNNAMED_1_RESISTOR_I58_B
+R22              RESISTOR_0603-270R,1%,MULTICOMP 1        GND                     
+                                  2        UNNAMED_1_RESISTOR_I57_B
+R23              RESISTOR_0805-1K0,1%,CAT 1        UNNAMED_3_RESISTOR_I77_A
+                                  2        UNNAMED_3_RESISTOR_I84_B
+R24              RESISTOR_0805-1K0,1%,CAT 1        UNNAMED_3_RESISTOR_I76_A
+                                  2        UNNAMED_3_RESISTOR_I85_B
+R25              RESISTOR_0805-1K0,1%,CAT 1        UNNAMED_3_RESISTOR_I86_A
+                                  2        UNNAMED_3_RESISTOR_I78_A
+R26              RESISTOR_0805-56R,1%,MULTICOMP 1        UNNAMED_3_RESISTOR_I76_A
+                                  2        GND                     
+R27              RESISTOR_0805-56R,1%,MULTICOMP 1        UNNAMED_3_RESISTOR_I77_A
+                                  2        GND                     
+R28              RESISTOR_0805-33R,1%,MULTICOMP 1        UNNAMED_3_RESISTOR_I78_A
+                                  2        GND                     
+R29              RESISTOR_0805-20R,1%,MULTICOMP 1        UNNAMED_3_RESISTOR_I96_A
+                                  2        UNNAMED_3_RESISTOR_I83_B
+R30              RESISTOR_0805-10R,1%,MULTICOMP 1        UNNAMED_3_RESISTOR_I98_A
+                                  2        UNNAMED_3_RESISTOR_I81_A
+R31              RESISTOR_0805-10R,1%,MULTICOMP 1        UNNAMED_3_RESISTOR_I97_A
+                                  2        UNNAMED_3_RESISTOR_I82_A
+R32              RESISTOR_0805-1K0,1%,CAT 1        UNNAMED_3_RESISTOR_I81_A
+                                  2        UNNAMED_3_RESISTOR_I81_B
+R33              RESISTOR_0805-1K0,1%,CAT 1        UNNAMED_3_RESISTOR_I82_A
+                                  2        UNNAMED_3_RESISTOR_I82_B
+R34              RESISTOR_0805-1K0,1%,CAT 1        UNNAMED_3_RESISTOR_I83_A
+                                  2        UNNAMED_3_RESISTOR_I83_B
+R35              RESISTOR_0805-1K0,1%,CAT 1        UNNAMED_2_100324-DIP_I25_EN
+                                  2        VCC                     
+R36              RESISTOR_0603-270R,1%,MULTICOMP 1        VEE                     
+                                  2        UNNAMED_2_100324-DIP_I25_OP_1
+R37              RESISTOR_0603-270R,1%,MULTICOMP 1        VEE                     
+                                  2        UNNAMED_2_100324-DIP_I25_OP
+R38              RESISTOR_0603-270R,1%,MULTICOMP 1        VEE                     
+                                  2        UNNAMED_2_100324-DIP_I30_OP_1
+R39              RESISTOR_0603-270R,1%,MULTICOMP 1        VEE                     
+                                  2        UNNAMED_2_100324-DIP_I30_OP
+R40              RESISTOR_0603-270R,1%,MULTICOMP 1        VEE                     
+                                  2        UNNAMED_2_100324-DIP_I29_OP
+R41              RESISTOR_0603-270R,1%,MULTICOMP 1        VEE                     
+                                  2        UNNAMED_2_100324-DIP_I29_OP_1
+R42              RESISTOR_0603-270R,1%,MULTICOMP 1        VEE                     
+                                  2        UNNAMED_2_100324-DIP_I28_OP_1
+R43              RESISTOR_0603-270R,1%,MULTICOMP 1        VEE                     
+                                  2        UNNAMED_2_100324-DIP_I28_OP
+R44              RESISTOR_0603-270R,1%,MULTICOMP 1        VEE                     
+                                  2        UNNAMED_2_100324-DIP_I27_OP_1
+R45              RESISTOR_0603-270R,1%,MULTICOMP 1        VEE                     
+                                  2        UNNAMED_2_100324-DIP_I27_OP
+R46              RESISTOR_0603-270R,1%,MULTICOMP 1        VEE                     
+                                  2        UNNAMED_2_100324-DIP_I26_OP_1
+R47              RESISTOR_0603-270R,1%,MULTICOMP 1        VEE                     
+                                  2        UNNAMED_2_100324-DIP_I26_OP
+R48              RESISTOR_0603-270R,1%,MULTICOMP 1        VEE                     
+                                  2        UNNAMED_3_RESISTOR_I99_B
+R49              RESISTOR_0603-270R,1%,MULTICOMP 1        VEE                     
+                                  2        UNNAMED_3_RESISTOR_I114_B
+R50              RESISTOR_0603-270R,1%,MULTICOMP 1        VEE                     
+                                  2        UNNAMED_3_RESISTOR_I113_B
+R51              RESISTOR_0603-270R,1%,MULTICOMP 1        VEE                     
+                                  2        UNNAMED_3_RESISTOR_I112_B
+R52              RESISTOR_0603-270R,1%,MULTICOMP 1        VEE                     
+                                  2        UNNAMED_3_RESISTOR_I111_B
+R53              RESISTOR_0603-270R,1%,MULTICOMP 1        VEE                     
+                                  2        UNNAMED_3_RESISTOR_I110_B
+R54              RESISTOR_0603-270R,1%,MULTICOMP 1        VEE                     
+                                  2        UNNAMED_3_RESISTOR_I109_B
+R55              RESISTOR_0603-270R,1%,MULTICOMP 1        VEE                     
+                                  2        UNNAMED_3_RESISTOR_I108_B
+R56              RESISTOR_0603-270R,1%,MULTICOMP 1        VEE                     
+                                  2        UNNAMED_3_RESISTOR_I107_B
+R57              RESISTOR_0603-270R,1%,MULTICOMP 1        VEE                     
+                                  2        UNNAMED_3_RESISTOR_I106_B
+R58              RESISTOR_0603-270R,1%,MULTICOMP 1        VEE                     
+                                  2        UNNAMED_3_RESISTOR_I105_B
+R59              RESISTOR_0603-270R,1%,MULTICOMP 1        VEE                     
+                                  2        UNNAMED_3_RESISTOR_I104_B
+R60              RESISTOR_0603-270R,1%,MULTICOMP 1        VEE                     
+                                  2        UNNAMED_3_RESISTOR_I103_B
+R61              RESISTOR_0603-270R,1%,MULTICOMP 1        VEE                     
+                                  2        UNNAMED_3_RESISTOR_I102_B
+R62              RESISTOR_0603-270R,1%,MULTICOMP 1        VEE                     
+                                  2        UNNAMED_3_RESISTOR_I101_B
+R63              RESISTOR_0603-270R,1%,MULTICOMP 1        VEE                     
+                                  2        UNNAMED_3_RESISTOR_I100_B
+R64              RESISTOR_0603-120R,1%,MULTICOMP 1        UNNAMED_2_100ELT23_I10_D1
+                                  2        UNNAMED_2_100ELT23_I10_D1_1
+R65              RESISTOR_0603-120R,1%,MULTICOMP 1        UNNAMED_2_100ELT23_I11_D1
+                                  2        UNNAMED_2_100ELT23_I11_D1_1
+R66              RESISTOR_0603-120R,1%,MULTICOMP 1        UNNAMED_2_100ELT23_I12_D1
+                                  2        UNNAMED_2_100ELT23_I12_D1_1
+R67              RESISTOR_0603-120R,1%,MULTICOMP 1        UNNAMED_2_100ELT23_I10_D0
+                                  2        UNNAMED_2_100ELT23_I10_D0_1
+R68              RESISTOR_0603-120R,1%,MULTICOMP 1        UNNAMED_2_100ELT23_I12_D0
+                                  2        UNNAMED_2_100ELT23_I12_D0_1
+R69              RESISTOR_0603-120R,1%,MULTICOMP 1        UNNAMED_2_100ELT23_I11_D0
+                                  2        UNNAMED_2_100ELT23_I11_D0_1
+RN1              RESISTOR-NET-7C_SIL-1K,2%,BOURA 1        2V5                     
+                                  2        UNNAMED_1_8WAY-SPST_I4_B_1
+                                  3        UNNAMED_1_8WAY-SPST_I4_B
+                                  4        UNNAMED_1_8WAY-SPST_I4_B_5
+                                  5        UNNAMED_1_8WAY-SPST_I4_B_6
+                                  6        UNNAMED_1_8WAY-SPST_I4_B_3
+                                  7        UNNAMED_1_8WAY-SPST_I4_B_2
+                                  8        UNNAMED_1_8WAY-SPST_I4_B_4
+SK1              TERM-BLK-3_STR-LUMBERG 1        UNNAMED_1_CAPACITOR_I77_B
+                                  2        GND                     
+                                  3        GND                     
+SK2              SK-LEMO0B-2F-PCB_RT-ANG-LEMO 1        UNNAMED_1_CAPACITOR_I15_A
+                                  2        UNNAMED_1_CAPACITOR_I16_A
+SK3              SK-LEMO0B-2F-PCB_RT-ANG-LEMO 1        UNNAMED_1_QPLL28-CERN_I2_LVDS_1
+                                  2        UNNAMED_1_QPLL28-CERN_I2_LVDS16
+SK4              SK-LEMO0B-2F-PCB_RT-ANG-LEMO 1        UNNAMED_1_QPLL28-CERN_I2_LVDS_2
+                                  2        UNNAMED_1_QPLL28-CERN_I2_LVDS80
+SK5              SK-LEMO0B-2F-PCB_RT-ANG-LEMO 1        UNNAMED_1_RESISTOR_I58_B
+                                  2        UNNAMED_1_RESISTOR_I57_B
+SK6              SK-LEMO-00_RT-ANG-EPL,LEMO 1        UNNAMED_1_100E111_I60_Q1
+                                  2        GND                     
+                                  3        GND                     
+                                  4        GND                     
+                                  5        GND                     
+SK7              PL-AMP-050-68_RT-ANG-AMP 1        UNNAMED_2_100ELT23_I10_D0
+                                  3        UNNAMED_2_100ELT23_I10_D1
+                                  4        UNNAMED_2_100ELT23_I11_D0
+                                  6        UNNAMED_2_100ELT23_I11_D1
+                                  7        UNNAMED_2_100ELT23_I12_D0
+                                  9        UNNAMED_2_100ELT23_I12_D1
+                                  35       UNNAMED_2_100ELT23_I10_D0_1
+                                  37       UNNAMED_2_100ELT23_I10_D1_1
+                                  38       UNNAMED_2_100ELT23_I11_D0_1
+                                  40       UNNAMED_2_100ELT23_I11_D1_1
+                                  41       UNNAMED_2_100ELT23_I12_D0_1
+                                  43       UNNAMED_2_100ELT23_I12_D1_1
+SK8              TERM-BLK-3_STR-LUMBERG 1        UNNAMED_2_FUSE-SMD_I54_A
+                                  2        UNNAMED_2_TEN-5-DUALOP_I13_VINN
+                                  3        UNNAMED_2_TEN-5-DUALOP_I13_VINN
+SK9              SK-AMP-050-68_RT-ANG-787190-7,A 1        UNNAMED_2_100324-DIP_I25_OP
+                                  3        UNNAMED_2_100324-DIP_I30_OP
+                                  4        UNNAMED_2_100324-DIP_I29_OP_1
+                                  6        UNNAMED_2_100324-DIP_I28_OP
+                                  7        UNNAMED_2_100324-DIP_I27_OP
+                                  9        UNNAMED_2_100324-DIP_I26_OP
+                                  35       UNNAMED_2_100324-DIP_I25_OP_1
+                                  37       UNNAMED_2_100324-DIP_I30_OP_1
+                                  38       UNNAMED_2_100324-DIP_I29_OP
+                                  40       UNNAMED_2_100324-DIP_I28_OP_1
+                                  41       UNNAMED_2_100324-DIP_I27_OP_1
+                                  43       UNNAMED_2_100324-DIP_I26_OP_1
+SK10             SK-AMP-050-68_RT-ANG-787190-7,A 1        UNNAMED_3_RESISTOR_I99_B
+                                  2        UNNAMED_3_RESISTOR_I113_B
+                                  3        UNNAMED_3_RESISTOR_I111_B
+                                  4        UNNAMED_3_RESISTOR_I109_B
+                                  5        UNNAMED_3_RESISTOR_I107_B
+                                  6        UNNAMED_3_RESISTOR_I105_B
+                                  7        UNNAMED_3_RESISTOR_I103_B
+                                  8        UNNAMED_3_RESISTOR_I101_B
+                                  31       UNNAMED_3_RESISTOR_I76_A
+                                  33       UNNAMED_3_RESISTOR_I78_A
+                                  35       UNNAMED_3_RESISTOR_I114_B
+                                  36       UNNAMED_3_RESISTOR_I112_B
+                                  37       UNNAMED_3_RESISTOR_I110_B
+                                  38       UNNAMED_3_RESISTOR_I108_B
+                                  39       UNNAMED_3_RESISTOR_I106_B
+                                  40       UNNAMED_3_RESISTOR_I104_B
+                                  41       UNNAMED_3_RESISTOR_I102_B
+                                  42       UNNAMED_3_RESISTOR_I100_B
+                                  65       UNNAMED_3_RESISTOR_I77_A
+                                  67       UNNAMED_3_RESISTOR_I78_A
+SK11             TERM-BLK-3_STR-LUMBERG 1        UNNAMED_3_FUSE-SMD_I54_A
+                                  2        UNNAMED_3_DIODE_I53_A   
+                                  3        UNNAMED_3_DIODE_I53_A   
+SK12             SK-SMA-PCB_STR-RS 1        UNNAMED_3_RESISTOR_I86_A
+SK13             SK-SMA-PCB_STR-RS 1        UNNAMED_3_RESISTOR_I84_B
+SK14             SK-SMA-PCB_STR-RS 1        UNNAMED_3_RESISTOR_I85_B
+SK15             SK-SMA-PCB_STR-RS 1        UNNAMED_3_RESISTOR_I82_B
+SK16             SK-SMA-PCB_STR-RS 1        UNNAMED_3_RESISTOR_I81_B
+SK17             SK-SMA-PCB_STR-RS 1        UNNAMED_3_RESISTOR_I98_A
+SK18             SK-SMA-PCB_STR-RS 1        UNNAMED_3_RESISTOR_I97_A
+SK19             SK-SMA-PCB_STR-RS 1        UNNAMED_3_RESISTOR_I96_A
+SK20             SK-SMA-PCB_STR-RS 1        UNNAMED_3_RESISTOR_I83_A
+SK21             SK-AMP-050-68_RT-ANG-787190-7,A 1        UNNAMED_3_RESISTOR_I99_B
+                                  2        UNNAMED_3_RESISTOR_I113_B
+                                  3        UNNAMED_3_RESISTOR_I111_B
+                                  4        UNNAMED_3_RESISTOR_I109_B
+                                  5        UNNAMED_3_RESISTOR_I107_B
+                                  6        UNNAMED_3_RESISTOR_I105_B
+                                  7        UNNAMED_3_RESISTOR_I103_B
+                                  8        UNNAMED_3_RESISTOR_I101_B
+                                  31       UNNAMED_3_RESISTOR_I81_A
+                                  33       UNNAMED_3_RESISTOR_I83_B
+                                  35       UNNAMED_3_RESISTOR_I114_B
+                                  36       UNNAMED_3_RESISTOR_I112_B
+                                  37       UNNAMED_3_RESISTOR_I110_B
+                                  38       UNNAMED_3_RESISTOR_I108_B
+                                  39       UNNAMED_3_RESISTOR_I106_B
+                                  40       UNNAMED_3_RESISTOR_I104_B
+                                  41       UNNAMED_3_RESISTOR_I102_B
+                                  42       UNNAMED_3_RESISTOR_I100_B
+                                  65       UNNAMED_3_RESISTOR_I82_A
+                                  67       UNNAMED_3_RESISTOR_I83_B
+SW1              8WAY-SPST_SMD-HP-DIPTRONICS 2        GND                     
+                                  3        GND                     
+                                  4        GND                     
+                                  5        GND                     
+                                  6        GND                     
+                                  7        GND                     
+                                  8        GND                     
+                                  9        UNNAMED_1_8WAY-SPST_I4_B_1
+                                  10       UNNAMED_1_8WAY-SPST_I4_B
+                                  11       UNNAMED_1_8WAY-SPST_I4_B_5
+                                  12       UNNAMED_1_8WAY-SPST_I4_B_6
+                                  13       UNNAMED_1_8WAY-SPST_I4_B_3
+                                  14       UNNAMED_1_8WAY-SPST_I4_B_2
+                                  15       UNNAMED_1_8WAY-SPST_I4_B_4
+U1               100EL16_SOIC-SYNERGY 2        UNNAMED_1_100EL16_I3_D  
+                                  3        UNNAMED_1_100EL16_I3_DBAR
+                                  4        UNNAMED_1_100EL16_I3_VBB
+                                  5        GND                     
+                                  6        UNNAMED_1_100EL16_I3_QBAR
+                                  7        UNNAMED_1_100EL16_I3_Q  
+                                  8        VCC                     
+U2               QPLL28-CERN_LPCC-CERN 1        UNNAMED_1_CAPACITOR_I24_B
+                                  2        UNNAMED_1_CAPACITOR_I25_A
+                                  3        UNNAMED_1_QPLL28-CERN_I2_INCMOS
+                                  4        UNNAMED_1_8WAY-SPST_I4_B
+                                  5        UNNAMED_1_8WAY-SPST_I4_B_4
+                                  6        UNNAMED_1_HEADER2X1_I79_B
+                                  7        UNNAMED_1_8WAY-SPST_I4_B_2
+                                  9        UNNAMED_1_LED-SMD_I35_A1
+                                  10       GND                     
+                                  11       2V5                     
+                                  12       UNNAMED_1_QPLL28-CERN_I2_LVDS80
+                                  13       UNNAMED_1_QPLL28-CERN_I2_LVDS_2
+                                  14       UNNAMED_1_8WAY-SPST_I4_B_3
+                                  15       UNNAMED_1_QPLL28-CERN_I2_LVDS16
+                                  16       UNNAMED_1_QPLL28-CERN_I2_LVDS_1
+                                  17       GND                     
+                                  18       2V5                     
+                                  19       UNNAMED_1_CAPACITOR_I49_A
+                                  20       UNNAMED_1_CAPACITOR_I50_B
+                                  21       UNNAMED_1_8WAY-SPST_I4_B_6
+                                  22       2V5                     
+                                  23       UNNAMED_1_CAPACITOR_I31_B
+                                  24       UNNAMED_1_CC1F-T1A_I5_A2
+                                  25       GND                     
+                                  26       UNNAMED_1_CC1F-T1A_I5_A1
+                                  27       UNNAMED_1_8WAY-SPST_I4_B_1
+                                  28       UNNAMED_1_8WAY-SPST_I4_B_5
+                                  29       2V5                     
+U3               CC1F-T1A_SMD-40.08MHZ,MICRO CRA 1        UNNAMED_1_CC1F-T1A_I5_A1
+                                  2        UNNAMED_1_CC1F-T1A_I5_A2
+U4               100E111_PLCC-SYNERGY 1        VCC                     
+                                  2        UNNAMED_1_100E111_I60_IN
+                                  3        UNNAMED_1_100E111_I60_VBB
+                                  8        VCC                     
+                                  15       VCC                     
+                                  21       UNNAMED_1_100E111_I60_Q1_1
+                                  22       VCC                     
+                                  23       UNNAMED_1_100E111_I60_Q1
+                                  24       UNNAMED_1_RESISTOR_I57_B
+                                  25       UNNAMED_1_RESISTOR_I58_B
+                                  26       GND                     
+                                  28       UNNAMED_1_100E111_I60_IN_1
+U5               TEN-5-DUALOP_DIP-TRACO,48V/+-5V 2        UNNAMED_2_TEN-5-DUALOP_I13_VINN
+                                  3        UNNAMED_2_TEN-5-DUALOP_I13_VINN
+                                  9        GND                     
+                                  11       VEE                     
+                                  14       VCC                     
+                                  16       GND                     
+                                  22       UNNAMED_2_TEN-5-DUALOP_I13_VINP
+                                  23       UNNAMED_2_TEN-5-DUALOP_I13_VINP
+U6               100ELT23_SOIC-SYNERGY 1        UNNAMED_2_100ELT23_I10_D0
+                                  2        UNNAMED_2_100ELT23_I10_D0_1
+                                  3        UNNAMED_2_100ELT23_I10_D1_1
+                                  4        UNNAMED_2_100ELT23_I10_D1
+                                  5        GND                     
+                                  6        UNNAMED_2_100324-DIP_I30_D
+                                  7        UNNAMED_2_100324-DIP_I25_D
+                                  8        VCC                     
+U7               100ELT23_SOIC-SYNERGY 1        UNNAMED_2_100ELT23_I11_D0
+                                  2        UNNAMED_2_100ELT23_I11_D0_1
+                                  3        UNNAMED_2_100ELT23_I11_D1_1
+                                  4        UNNAMED_2_100ELT23_I11_D1
+                                  5        GND                     
+                                  6        UNNAMED_2_100324-DIP_I28_D
+                                  7        UNNAMED_2_100324-DIP_I29_D
+                                  8        VCC                     
+U8               100ELT23_SOIC-SYNERGY 1        UNNAMED_2_100ELT23_I12_D0
+                                  2        UNNAMED_2_100ELT23_I12_D0_1
+                                  3        UNNAMED_2_100ELT23_I12_D1_1
+                                  4        UNNAMED_2_100ELT23_I12_D1
+                                  5        GND                     
+                                  6        UNNAMED_2_100324-DIP_I26_D
+                                  7        UNNAMED_2_100324-DIP_I27_D
+                                  8        VCC                     
+U9               100324-DIP_DIP-FAIRCHILD 1        UNNAMED_2_100324-DIP_I25_OP_1
+                                  2        UNNAMED_2_100324-DIP_I30_OP
+                                  3        UNNAMED_2_100324-DIP_I30_OP_1
+                                  4        UNNAMED_2_100324-DIP_I29_OP
+                                  5        UNNAMED_2_100324-DIP_I29_OP_1
+                                  9        UNNAMED_2_100324-DIP_I28_OP
+                                  10       UNNAMED_2_100324-DIP_I28_OP_1
+                                  11       UNNAMED_2_100324-DIP_I27_OP_1
+                                  12       UNNAMED_2_100324-DIP_I27_OP
+                                  13       UNNAMED_2_100324-DIP_I26_OP_1
+                                  14       UNNAMED_2_100324-DIP_I26_OP
+                                  15       UNNAMED_2_100324-DIP_I26_D
+                                  16       UNNAMED_2_100324-DIP_I27_D
+                                  17       UNNAMED_2_100324-DIP_I28_D
+                                  19       UNNAMED_2_100324-DIP_I25_EN
+                                  21       UNNAMED_2_100324-DIP_I25_D
+                                  22       UNNAMED_2_100324-DIP_I30_D
+                                  23       UNNAMED_2_100324-DIP_I29_D
+                                  24       UNNAMED_2_100324-DIP_I25_OP
+U10              TEN-5_DIP-TRACO,48V/5V 2        UNNAMED_3_DIODE_I53_A   
+                                  3        UNNAMED_3_DIODE_I53_A   
+                                  14       GND                     
+                                  16       VEE                     
+                                  22       UNNAMED_3_DIODE_I53_K   
+                                  23       UNNAMED_3_DIODE_I53_K   
+VR1              LD1086_DDPAK-D2T25,STM 1        GND                     
+                                  2        UNNAMED_1_CAPACITOR_I76_A
+                                  3        VCC                     
+END BODY ORDERED NET LIST

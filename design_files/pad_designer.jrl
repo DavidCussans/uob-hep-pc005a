@@ -1,0 +1,42 @@
+\t (00:00:01) pad_designer 14.2 p010 i86
+\t (00:00:01) Internal version = v14-2-56A
+\t (00:00:01) 
+
+\i (00:00:04) setwindow form.padedit
+\i (00:00:04) pse_open 
+\i (00:00:55) fillin "G:\cad\ral_cdslib\lib_psd14.x\pads\via36rd0-4d.pad"
+\i (00:00:55) cd "G:\cad\ral_cdslib\lib_psd14.x\pads"
+\i (00:00:56) FORM padedit layers  
+\i (00:01:00) FORM padedit grid row default_internal 
+\i (00:01:01) FORM padedit grid row end_layer 
+\i (00:01:02) FORM padedit grid row begin_layer 
+\i (00:01:16) FORM padedit flash_th  
+\i (00:01:17) FORM padedit geometry_th Circle 
+\i (00:01:20) FORM padedit width_th 52 
+\i (00:01:22) FORM padedit grid row default_internal 
+\i (00:01:25) FORM padedit flash_th  
+\i (00:01:27) FORM padedit geometry_th Circle 
+\i (00:01:32) FORM padedit width_th 48 
+\i (00:01:33) FORM padedit grid row end_layer 
+\i (00:01:38) FORM padedit flash_th  
+\i (00:01:39) FORM padedit geometry_th Circle 
+\i (00:01:42) FORM padedit width_th 52 
+\i (00:01:49) pse_save 
+\f (00:01:49) G:\cad\ral_cdslib\lib_psd14.x\pads\via36rd0-4d.pad: File Exists. Overwrite? 
+\i (00:01:51) fillin yes 
+\i (00:04:10) pse_open 
+\i (00:04:16) fillin "via.pad"
+\i (00:04:32) FORM padedit flash_th  
+\i (00:04:34) FORM padedit geometry_th Circle 
+\i (00:04:39) FORM padedit width_th 80 
+\i (00:04:41) FORM padedit grid row default_internal 
+\i (00:04:45) FORM padedit flash_th  
+\i (00:04:47) FORM padedit geometry_th Circle 
+\i (00:04:50) FORM padedit width_th 76 
+\i (00:04:52) FORM padedit grid row begin_layer 
+\i (00:04:55) FORM padedit flash_th  
+\i (00:04:56) FORM padedit geometry_th Circle 
+\i (00:04:59) FORM padedit width_th 80 
+\i (00:05:03) pse_save 
+\f (00:05:03) G:\cad\ral_cdslib\lib_psd14.x\pads\via.pad: File Exists. Overwrite? 
+\i (00:05:06) fillin yes 

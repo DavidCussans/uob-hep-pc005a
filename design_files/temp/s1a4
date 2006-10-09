@@ -1,0 +1,20 @@
+(
+ (cell "LD1086" )
+ (pin "VIN" 
+  ("PIN_TEXT" "VIN" ))
+ (pin "VOUT" 
+  ("PIN_TEXT" "VOUT" ))
+ (pin "GND" 
+  ("PIN_TEXT" "GND" ))
+ (cell_properties 
+  ("NEEDS_NO_SIZE" "TRUE" )
+  ("$LOCATION" "?" )
+  ("PHYS_DES_PREFIX" "VR" )
+  ("SIZE" "1B" )
+  ("PATH" "?" )
+  ("MANUF" "LINEAR TECH" )
+  ("PACK_TYPE" "DDPAK" )
+  ("OL_COMMENTS" "-" )
+  ("KL_COMMENTS" "-" )
+  ("PL_COMMENTS" "-" )
+  ("PART_NAME" "LD1086" )))

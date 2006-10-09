@@ -1,0 +1,27 @@
+
+Spawning... C:/Cadence/PSD_14.2/tools/fet/bin/checkplus.exe   -gx -proj uob_hep_pc005.cpm -feature "PCB_librarian_expert 14.0"
+**************************************************
+*        CheckPlus 14.20-p004 27-Feb-2002        *
+*            Copyright (C) 1998-2002             *
+*   All  Rights  Reserved.  Licensed  Software.  *
+* Confidential and proprietary information which *
+* is the property of Cadence Design Systems, Inc.*
+*      Start Run: Mon Nov 03 12:02:51 2003       *
+**************************************************
+Loading rule file 'C:\Cadence\PSD_14.2\tools\checkplus_exp\concept\env\logical_env.rle' ...
+Loading rule file 'C:\Cadence\PSD_14.2\tools\checkplus_exp\concept\rules\electrical_checks.rle' ...
+Loading rule file 'C:\Cadence\PSD_14.2\tools\checkplus_exp\concept\rules\loading_io_checks.rle' ...
+Loading rule file 'C:\Cadence\PSD_14.2\tools\checkplus_exp\concept\rules\net_name_checks.rle' ...
+Reading I:\UOB-HEP-PC005A\cds.lib...
+
+** Error ![3072]Error in creating configuration for design...
+Please see I:\UOB-HEP-PC005A\checkplus\/mkdefcfg.log for details
+
+Cannot continue.
+**************************************************
+*      Stop Run: Mon Nov 03 12:02:52 2003        *
+**************************************************
+
+Exiting Checkplus.exe
+
+Exiting... C:/Cadence/PSD_14.2/tools/fet/bin/checkplus.exe

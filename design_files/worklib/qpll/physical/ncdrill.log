@@ -1,0 +1,18 @@
+(------------------------------------------------------------)
+(                                                            )
+(        NC DRILL                                            )
+(                                                            )
+(        Drawing    : pc005-unplaced-f.brd                   )
+(        Date/Time  : Wed Jun 11 08:47:07 2003               )
+(                                                            )
+(------------------------------------------------------------)
+
+
+
+Begin processing drill template file : C:\Cadence\PSD_14.2\share\pcb\text\nclegend\default-mm.dlt.
+End processing drill template file : C:\Cadence\PSD_14.2\share\pcb\text\nclegend\default-mm.dlt. 
+
+
+Begin processing drill holes.
+Warning : Hole 0.9144-P uses multiple drill figures.
+End processing drill holes.

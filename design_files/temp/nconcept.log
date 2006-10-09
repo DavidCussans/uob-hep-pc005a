@@ -1,0 +1,263 @@
+Concept-HDL 14.20-p001 22-Oct-2001
+
+mpsdeclare> 
+mpsdeclare> 
+set ORTHOG_wire
+set> 
+You must specify a window that contains a drawing.
+set move_ORTHOG
+set> 
+set autoroute ON
+set> 
+set autoheavy ON
+set> 
+set attributes_dir "C:\Cadence\PSD_14.2/tools/fet/concept/attributes"
+set> 
+set dots_FILLED
+set> 
+set autodot ON
+set> 
+set logic_dot_radius 20
+set> 
+set body_dot_radius 13
+set> 
+set tap_body CTAP
+set> 
+set size 1.000
+set> 
+set LEFT
+set> 
+set capslock_ON
+set> 
+set inline_textedit ON
+set> 
+set user_editor "notepad"
+set> 
+set prop_display VALUE
+set> 
+set pinprop_vis OFF
+set> 
+set pin_size 0.800
+set> 
+set rotate ON
+set> 
+set autopath ON
+set> 
+set sticky_OFF
+set> 
+set rmb OFF
+set> 
+set autopan OFF
+set> 
+set color_wire yellow
+set> 
+Using color YELLOW
+set color_dot white
+set> 
+Using color WHITE
+set color_body green
+set> 
+Using color GREEN
+set color_arc yellow
+set> 
+Using color YELLOW
+set color_prop orange
+set> 
+Using color ORANGE
+set occ_color red
+set> 
+Using color RED
+set color_note purple
+set> 
+Using color PURPLE
+set background_color black
+set> 
+set DECIMAL
+set> 
+set default_grid OFF
+set> 
+You must specify a window that contains a drawing.
+set default_grid DOTS
+set> 
+You must specify a window that contains a drawing.
+set default_body_grid OFF
+set> 
+You must specify a window that contains a drawing.
+set default_body_grid DOTS
+set> 
+You must specify a window that contains a drawing.
+set default_doc_grid OFF
+set> 
+You must specify a window that contains a drawing.
+set default_doc_grid DOTS
+set> 
+You must specify a window that contains a drawing.
+set check_on_write ON
+set> 
+set check_missing_pins ON
+set> 
+set check_shorted_pin ON
+set> 
+set check_unconn_wires ON
+set> 
+set check_parts_at_same_loc ON
+set> 
+set check_arcs_at_same_loc ON
+set> 
+set check_hidden_wires ON
+set> 
+set check_pins_at_origin ON
+set> 
+set check_pin_near_wire_endpt ON
+set> 
+set check_two_wires_at_pins ON
+set> 
+set check_signames ON
+set> 
+set check_signame_in_body ON
+set> 
+set check_body_place_holders ON
+set> 
+set check_prop_place_holders ON
+set> 
+set check_pack_sec_type_props ON
+set> 
+set confirm_write OFF
+set> 
+set ascii
+set> 
+set binary
+set> 
+set nodependency
+set> 
+set hdl_direct on
+set> 
+set click_to_type ON
+set> 
+set save_workspace ON
+set> 
+set addform ON
+set> 
+set editform ON
+set> 
+set libform ON
+set> 
+set catpath 
+set> 
+Unknown project directive : FATAL_MESSAGES
+Unknown project directive : ERROR_MESSAGES
+Unknown project directive : INFORMATIONAL_MESSAGES
+Unknown project directive : WARNING_MESSAGES
+set wplot_thin_width 1
+set> 
+set wplot_thick_width 10
+set> 
+set wplot_scale 100
+set> 
+set wplot_fit_to_page
+set> 
+set wplot_sheet
+set> 
+set multiformat_vectors ON
+set> 
+set ppt_optionset_path ""
+set> 
+PPT_OPTIONSET_PATH does not exist.
+set ppt_browser OFF
+set> 
+set lmb ON
+set> 
+Unknown project directive : PLOTTER_FACILITY
+set default_grid 0.100 5
+set> 
+You must specify a window that contains a drawing.
+You must specify a window that contains a drawing.
+set default_body_grid 0.050 2
+set> 
+You must specify a window that contains a drawing.
+You must specify a window that contains a drawing.
+set default_doc_grid 0.100 5
+set> 
+You must specify a window that contains a drawing.
+You must specify a window that contains a drawing.
+Reading .\cds.lib file.
+nmapedit qpll
+nmapedit> 
+_!editincontext> 
+You must specify a window that contains a drawing.
+New schematic QPLL.SCH.1.1 started as drawing #1.
+library> 
+library> 
+library> 
+library> 
+library> 
+library> 
+library> 
+library> 
+library> 
+library> 
+library> 
+library> 
+library> 
+library> 
+library> 
+library> 
+library> 
+library> 
+library> 
+pptadd> 
+pptadd> 
+pptadd> 
+pptadd> 
+pptadd> 
+pptadd> 
+pptadd> 
+pptadd> 
+pptadd> 
+pptadd> 
+pptadd> 
+pptadd> 
+pptadd> 
+pptadd> 
+get> 
+Reading QPLL.SCH.1.1 into drawing #1.
+backannotate> 
+writing <uob_hep_pc005a_lib>QPLL.SCH.1.1:
+writing binary file...
+writing ASCII file...
+writing connectivity file...
+...written
+Reading QPLL.SCH.1.2 into drawing #1.
+writing <uob_hep_pc005a_lib>QPLL.SCH.1.2:
+writing binary file...
+writing ASCII file...
+Appending master.tag page1.csa with page2.csa
+writing connectivity file...
+...written
+Reading QPLL.SCH.1.3 into drawing #1.
+writing <uob_hep_pc005a_lib>QPLL.SCH.1.3:
+writing binary file...
+writing ASCII file...
+Appending master.tag page1.csa with page3.csa
+writing connectivity file...
+...written
+writing HDL files...
+ HDL Direct 14.20-p006 14-Mar-2002 
+Copyright (C) 1996 Cadence Design Systems, Inc.
+
+Processing cell view:   QPLL(SCH_1)
+
+Generating for languages: Verilog 
+Processing page 1
+Processing page 2
+Processing page 3
+Total number of pages: 3
+
+
+Generating Output File lib.cell:view uob_hep_pc005a_lib.qpll:sch_1
+
+Concept HDL Direct: Created Netlist.
+
+No HDL Direct errors found. 
+...HDL written
+exit> 

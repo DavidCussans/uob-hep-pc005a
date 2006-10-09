@@ -1,0 +1,20 @@
+(
+ (cell "TEN-5-DUALOP" )
+ (pin "VIN_P1" 
+  ("PIN_TEXT" "VIN_P" ))
+ (pin "VIN_P2" 
+  ("PIN_TEXT" "VIN_P" ))
+ (pin "VIN_N1" 
+  ("PIN_TEXT" "VIN_N" ))
+ (pin "VIN_N2" 
+  ("PIN_TEXT" "VIN_N" ))
+ (pin "VOUT_GND1" 
+  ("PIN_TEXT" "VOUT_GND1" ))
+ (pin "VOUT_GND2" 
+  ("PIN_TEXT" "VOUT_GND2" ))
+ (pin "VOUT_P1" 
+  ("PIN_TEXT" "VOUT_P" ))
+ (pin "VOUT_N1" 
+  ("PIN_TEXT" "VOUT_N" ))
+ (cell_properties 
+  ("NEEDS_NO_SIZE" "TRUE" )))

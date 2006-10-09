@@ -1,0 +1,46 @@
+\t (00:00:02) allegro 14.2 p020 i86
+\t (00:00:02) Internal version = v14-2-56C
+\t (00:00:02) 
+
+\t (00:00:03) Opening existing drawing...
+\i (00:00:03) setwindow pcb
+\i (00:00:03) trapsize 3350
+\i (00:00:03) trapsize 4104
+\i (00:01:59) zoom fit 
+\i (00:01:59) trapsize 13401
+\i (00:02:04) zoom points 
+\t (00:02:04) Pick 1st Corner Of New Window.
+\i (00:02:06) drag_start -60.7880 27.1760
+\i (00:02:07) drag_stop -5.0418 -46.5270
+\i (00:02:07) trapsize 6091
+\i (00:02:19) color 
+\i (00:02:19) setwindow form.cvf_main
+\i (00:02:19) FORM cvf_main class_list Stack-Up
+\i (00:02:22) FORM cvf_main class_list Geometry 
+\i (00:02:25) FORM cvf_main package_geometry/place_bound_top/visible NO 
+\i (00:02:26) FORM cvf_main package_geometry/place_bound_bottom/visible NO 
+\i (00:02:31) FORM cvf_main apply  
+\i (00:02:44) FORM cvf_main ok  
+\i (00:02:48) setwindow pcb
+\i (00:02:48) plot setup 
+\i (00:02:50) setwindow form.fpfileplotsetup
+\i (00:02:50) FORM fpfileplotsetup fpplotcolor YES 
+\i (00:02:52) FORM fpfileplotsetup fpplotscreencontents YES 
+\i (00:02:57) FORM fpfileplotsetup done  
+\i (00:03:12) setwindow pcb
+\i (00:03:12) plot setup 
+\i (00:03:15) setwindow form.fpfileplotsetup
+\i (00:03:15) FORM fpfileplotsetup done  
+\i (00:03:17) setwindow pcb
+\i (00:03:17) plot 
+\i (00:04:07) plot 
+\i (00:04:24) plotwint initialize "\\pronto\hepcolour"
+\i (00:04:25) plotwint orientation 2
+\i (00:04:25) plotwint papersize 9
+\i (00:04:25) plotwint scale 100
+\i (00:04:25) plotwint copies 1
+\i (00:04:25) plotwint defaultsource 15
+\i (00:04:25) plotwint printquality 600
+\i (00:04:25) plotwint color 2
+\i (00:04:25) plotwint duplex 1
+\i (00:04:25) plotwint execute

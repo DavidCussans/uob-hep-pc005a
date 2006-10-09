@@ -1,0 +1,240 @@
+#ISCELL
+  bris_cds_standard a2-2000 *
+  *
+#CELL
+  bris_cds_discrete resistor *
+  page1_i10
+#CELL
+  bris_cds_discrete resistor *
+  page1_i11
+#CELL
+  cds_discrete capacitor *
+  page1_i15
+#CELL
+  cds_discrete capacitor *
+  page1_i16
+#CELL
+  bris_cds_discrete resistor *
+  page1_i17
+#CELL
+  bris_cds_discrete resistor *
+  page1_i18
+#CELL
+  bris_cds_discrete resistor *
+  page1_i19
+#CELL
+  cds_special qpll28-cern *
+  page1_i2
+#CELL
+  bris_cds_discrete resistor *
+  page1_i20
+#CELL
+  bris_cds_discrete resistor *
+  page1_i21
+#CELL
+  bris_cds_discrete resistor *
+  page1_i22
+#ISCELL
+  cds_standard vcc *
+  page1_i23
+#CELL
+  cds_discrete capacitor *
+  page1_i24
+#CELL
+  cds_discrete capacitor *
+  page1_i25
+#ISCELL
+  cds_standard 2v5 *
+  page1_i26
+#CELL
+  cds_discrete resistor *
+  page1_i28
+#ISCELL
+  cds_standard gnd *
+  page1_i29
+#CELL
+  bris_cds_logic 100el16 *
+  page1_i3
+#CELL
+  cds_discrete capacitor *
+  page1_i31
+#ISCELL
+  cds_standard 2v5 *
+  page1_i33
+#CELL
+  cds_discrete led-smd *
+  page1_i35
+#ISCELL
+  cds_standard gnd *
+  page1_i36
+#CELL
+  cds_discrete resistor *
+  page1_i37
+#CELL
+  cds_switches 8way-spst *
+  page1_i4
+#CELL
+  cds_discrete capacitor *
+  page1_i40
+#CELL
+  cds_discrete capacitor *
+  page1_i43
+#ISCELL
+  cds_standard gnd *
+  page1_i44
+#ISCELL
+  cds_standard gnd *
+  page1_i45
+#ISCELL
+  cds_standard vcc *
+  page1_i46
+#CELL
+  cds_discrete capacitor *
+  page1_i47
+#ISCELL
+  cds_standard gnd *
+  page1_i48
+#CELL
+  cds_discrete capacitor *
+  page1_i49
+#CELL
+  cds_special cc1f-t1a *
+  page1_i5
+#CELL
+  cds_discrete capacitor *
+  page1_i50
+#CELL
+  bris_cds_discrete resistor *
+  page1_i51
+#CELL
+  bris_cds_discrete resistor *
+  page1_i52
+#CELL
+  cds_discrete capacitor *
+  page1_i53
+#CELL
+  cds_discrete capacitor *
+  page1_i54
+#ISCELL
+  cds_standard gnd *
+  page1_i55
+#CELL
+  bris_cds_discrete resistor *
+  page1_i57
+#CELL
+  bris_cds_discrete resistor *
+  page1_i58
+#ISCELL
+  cds_standard gnd *
+  page1_i59
+#CELL
+  cds_discrete capacitor *
+  page1_i6
+#CELL
+  cds_logic 100e111 *
+  page1_i60
+#CELL
+  cds_discrete capacitor *
+  page1_i61
+#CELL
+  cds_discrete resistor *
+  page1_i62
+#CELL
+  bris_cds_discrete resistor *
+  page1_i63
+#ISCELL
+  cds_standard gnd *
+  page1_i64
+#CELL
+  bris_cds_discrete resistor *
+  page1_i65
+#CELL
+  bris_cds_analogue ld1086 *
+  page1_i69
+#ISCELL
+  cds_standard gnd *
+  page1_i7
+#ISCELL
+  cds_standard vcc *
+  page1_i70
+#ISCELL
+  cds_standard 2v5 *
+  page1_i71
+#ISCELL
+  cds_standard gnd *
+  page1_i72
+#CELL
+  cds_discrete capacitor *
+  page1_i75
+#CELL
+  cds_discrete capacitor *
+  page1_i76
+#CELL
+  cds_discrete capacitor *
+  page1_i77
+#CELL
+  cds_discrete capacitor *
+  page1_i78
+#CELL
+  cds_connectors header2x1 *
+  page1_i79
+#ISCELL
+  cds_standard vcc *
+  page1_i8
+#CELL
+  cds_discrete resistor-net-7c *
+  page1_i80
+#CELL
+  cds_connectors sk-lemo-00 *
+  page1_i81
+#CELL
+  cds_connectors sk-lemo0b-2f-pcb *
+  page1_i82
+#CELL
+  cds_connectors sk-lemo0b-2f-pcb *
+  page1_i83
+#CELL
+  cds_connectors sk-lemo0b-2f-pcb *
+  page1_i84
+#CELL
+  cds_connectors sk-lemo0b-2f-pcb *
+  page1_i85
+#CELL
+  cds_discrete inductor *
+  page1_i86
+#CELL
+  cds_discrete resistor *
+  page1_i87
+#CELL
+  cds_discrete capacitor *
+  page1_i88
+#CELL
+  cds_discrete capacitor *
+  page1_i89
+#CELL
+  bris_cds_discrete resistor *
+  page1_i9
+#CELL
+  cds_discrete inductor *
+  page1_i90
+#CELL
+  cds_discrete resistor *
+  page1_i91
+#CELL
+  cds_connectors term-blk-3 *
+  page1_i93
+#CELL
+  cds_discrete led-smd *
+  page1_i94
+#CELL
+  cds_discrete led-smd *
+  page1_i95
+#CELL
+  cds_discrete resistor *
+  page1_i96
+#CELL
+  cds_discrete resistor *
+  page1_i97
+#ISCELL
+  cds_standard 2v5 *
+  page1_i98

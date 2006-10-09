@@ -1,0 +1,3 @@
+Reading Configuration: uob_hep_pc005a_lib qpll cfg_package
+
+van.exe -q -nolinks -sironly -cdslib cds.lib "E:\UOB-HEP-PC005A\worklib\qpll\sch_1\verilog.v" -lib "uob_hep_pc005a_lib" -view sch_1 -instanceview sch_1 -instanceview entity -define VAN -globals "uob_hep_pc005a_lib.glbl:qpll_cfg_package"

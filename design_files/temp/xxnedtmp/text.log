@@ -1,0 +1,91 @@
+Concept-HDL 14.20-p005 18-Mar-2002
+Copyright (C) 1998-2002
+You must specify a window that contains a drawing.
+Using color YELLOW
+Using color WHITE
+Using color GREEN
+Using color YELLOW
+Using color ORANGE
+Using color RED
+Using color PURPLE
+You must specify a window that contains a drawing.
+You must specify a window that contains a drawing.
+You must specify a window that contains a drawing.
+You must specify a window that contains a drawing.
+You must specify a window that contains a drawing.
+You must specify a window that contains a drawing.
+PPT_OPTIONSET_PATH does not exist.
+You must specify a window that contains a drawing.
+You must specify a window that contains a drawing.
+You must specify a window that contains a drawing.
+You must specify a window that contains a drawing.
+You must specify a window that contains a drawing.
+You must specify a window that contains a drawing.
+Reading .\cds.lib file.
+Error(s) in E:\UOB-HEP-PC005A\cds.lib
+  Permission denied on file: "g:\cad\ral_cdslib\lib_psd14.x\cds.lib" on line 2.
+  Permission denied on file: "g:\cad\bris_cdslib\lib_psd14.x\cds.lib" on line 3.
+Library bris_cds_standard not found in cds.lib list.
+Library bris_cds_switches not found in cds.lib list.
+Library cds_analogue not found in cds.lib list.
+Library bris_cds_analogue not found in cds.lib list.
+Library cds_connectors not found in cds.lib list.
+Library bris_cds_connectors not found in cds.lib list.
+Library cds_discrete not found in cds.lib list.
+Library bris_cds_discrete not found in cds.lib list.
+Library cds_logic not found in cds.lib list.
+Library bris_cds_logic not found in cds.lib list.
+Library cds_memory not found in cds.lib list.
+Library bris_cds_memory not found in cds.lib list.
+Library cds_pld not found in cds.lib list.
+Library bris_cds_pld not found in cds.lib list.
+Library cds_special not found in cds.lib list.
+Library bris_cds_special not found in cds.lib list.
+Library cds_standard not found in cds.lib list.
+Library cds_switches not found in cds.lib list.
+You must specify a window that contains a drawing.
+Reading QPLL.SCH.1.1 into drawing #1.
+Design Name: <uob_hep_pc005a_lib>QPLL.SCH.1.1
+
+All required libraries are not included in your cds.lib.
+Make sure your project setup has the necessary libraries.
+Exit concept and use the project setup utility in the project
+manager to add the necessary libraries to your project.The parts that have not been found in the available libraries are :
+   QPLL28-CERN.SYM.1.1
+   100EL16.SYM.1.1
+   LED-SMD.SYM.1.1
+   8WAY-SPST.SYM.1.1
+   CC1F-T1A.SYM.1.1
+   100E111.SYM.1.1
+   LD1086.SYM.1.1
+   2V5.SYM.1.1
+   GND.SYM.1.1
+   CAPACITOR.SYM.1.1
+   CAPACITOR.SYM.2.1
+   HEADER2X1.SYM.1.1
+   VCC.SYM.1.1
+   RESISTOR-NET-7C.SYM.2.1
+   SK-LEMO-00.SYM.1.1
+   SK-LEMO0B-2F-PCB.SYM.1.1
+   RESISTOR.SYM.1.1
+   A2-2000.SYM.1.1
+Design Name: <uob_hep_pc005a_lib>QPLL.SCH.1.1
+
+Drawing #1 has property SIG_NAME attached to pin that no longer exists.
+You should run the CHECK command to see these errors.
+To delete the dangling properties from the schematic..
+In the schematic type SET STICKY_ON; GET; SET STICKY_OFF.
+pptadd: Illegal path: g:\cad\bris_cdslib\lib_psd14.x/cds_analogue/cds_analogue.ptf
+pptadd: Illegal path: g:\cad\bris_cdslib\lib_psd14.x/cds_connectors/cds_connectors.ptf
+pptadd: Illegal path: g:\cad\bris_cdslib\lib_psd14.x/cds_discrete/cds_discrete.ptf
+pptadd: Illegal path: g:\cad\bris_cdslib\lib_psd14.x/cds_logic/cds_logic.ptf
+pptadd: Illegal path: g:\cad\bris_cdslib\lib_psd14.x/cds_pld/cds_pld.ptf
+pptadd: Illegal path: g:\cad\bris_cdslib\lib_psd14.x/cds_special/cds_special.ptf
+pptadd: Illegal path: g:\cad\ral_cdslib\lib_psd14.x/cds_analogue/cds_analogue.ptf
+pptadd: Illegal path: g:\cad\ral_cdslib\lib_psd14.x/cds_connectors/cds_connectors.ptf
+pptadd: Illegal path: g:\cad\ral_cdslib\lib_psd14.x/cds_discrete/cds_discrete.ptf
+pptadd: Illegal path: g:\cad\ral_cdslib\lib_psd14.x/cds_logic/cds_logic.ptf
+pptadd: Illegal path: g:\cad\ral_cdslib\lib_psd14.x/cds_memory/cds_memory.ptf
+pptadd: Illegal path: g:\cad\ral_cdslib\lib_psd14.x/cds_pld/cds_pld.ptf
+pptadd: Illegal path: g:\cad\ral_cdslib\lib_psd14.x/cds_special/cds_special.ptf
+pptadd: Illegal path: g:\cad\ral_cdslib\lib_psd14.x/cds_switches/cds_switches.ptf

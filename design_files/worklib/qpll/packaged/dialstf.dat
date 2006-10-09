@@ -1,0 +1,278 @@
+STUFF LIST - 1  
+100324-DIP_DIP-FAIRCHILD Fairchild 100324         U9              
+
+----------------
+
+100E111_PLCC-SYNERGY Synergy SY100E111AJC     U4              
+
+----------------
+
+100EL16_SOIC-SYNERGY sy100el16v               U1              
+
+----------------
+
+100ELT23_SOIC-SYNERGY Synergy SY100ELT23ZC     U6              
+100ELT23_SOIC-SYNERGY Synergy SY100ELT23ZC     U7              
+100ELT23_SOIC-SYNERGY Synergy SY100ELT23ZC     U8              
+
+----------------
+
+8WAY-SPST_SMD-HP-DIPTRONICS RS 377-8728              SW1             
+
+----------------
+
+CAPACITOR_0603-100N,+/-10%,AVXA AVX-KYOCERA CM105X7R104K16VAT C2              
+CAPACITOR_0603-100N,+/-10%,AVXA AVX-KYOCERA CM105X7R104K16VAT C3              
+CAPACITOR_0603-100N,+/-10%,AVXA AVX-KYOCERA CM105X7R104K16VAT C6              
+CAPACITOR_0603-100N,+/-10%,AVXA AVX-KYOCERA CM105X7R104K16VAT C8              
+CAPACITOR_0603-100N,+/-10%,AVXA AVX-KYOCERA CM105X7R104K16VAT C10             
+CAPACITOR_0603-100N,+/-10%,AVXA AVX-KYOCERA CM105X7R104K16VAT C13             
+CAPACITOR_0603-100N,+/-10%,AVXA AVX-KYOCERA CM105X7R104K16VAT C16             
+CAPACITOR_0603-100N,+/-10%,AVXA AVX-KYOCERA CM105X7R104K16VAT C18             
+CAPACITOR_0603-100N,+/-10%,AVXA AVX-KYOCERA CM105X7R104K16VAT C20             
+CAPACITOR_0603-100N,+/-10%,AVXA AVX-KYOCERA CM105X7R104K16VAT C21             
+CAPACITOR_0603-100N,+/-10%,AVXA AVX-KYOCERA CM105X7R104K16VAT C24             
+CAPACITOR_0603-100N,+/-10%,AVXA AVX-KYOCERA CM105X7R104K16VAT C25             
+CAPACITOR_0603-100N,+/-10%,AVXA AVX-KYOCERA CM105X7R104K16VAT C26             
+CAPACITOR_0603-100N,+/-10%,AVXA AVX-KYOCERA CM105X7R104K16VAT C27             
+CAPACITOR_0603-100N,+/-10%,AVXA AVX-KYOCERA CM105X7R104K16VAT C28             
+CAPACITOR_0603-100N,+/-10%,AVXA AVX-KYOCERA CM105X7R104K16VAT C29             
+CAPACITOR_0603-100N,+/-10%,AVXA AVX-KYOCERA CM105X7R104K16VAT C30             
+CAPACITOR_0603-100N,+/-10%,AVXA AVX-KYOCERA CM105X7R104K16VAT C32             
+CAPACITOR_0603-100N,+/-10%,AVXA AVX-KYOCERA CM105X7R104K16VAT C33             
+CAPACITOR_0603-100N,+/-10%,AVXA AVX-KYOCERA CM105X7R104K16VAT C34             
+
+----------------
+
+CAPACITOR_0603-10N,+/-10%,AVX-A AVX-KYOCERA 06033C103KAT00J C4              
+CAPACITOR_0603-10N,+/-10%,AVX-A AVX-KYOCERA 06033C103KAT00J C14             
+CAPACITOR_0603-10N,+/-10%,AVX-A AVX-KYOCERA 06033C103KAT00J C15             
+CAPACITOR_0603-10N,+/-10%,AVX-A AVX-KYOCERA 06033C103KAT00J C17             
+CAPACITOR_0603-10N,+/-10%,AVX-A AVX-KYOCERA 06033C103KAT00J C19             
+
+----------------
+
+CAPACITOR_0603-1U0,+/-10%,MURAA RS367-3522               C5              
+CAPACITOR_0603-1U0,+/-10%,MURAA RS367-3522               C9              
+
+----------------
+
+CAPACITOR_0603-47N,+/-10%,AVX-A Farnell 578-186          C11             
+CAPACITOR_0603-47N,+/-10%,AVX-A Farnell 578-186          C12             
+
+----------------
+
+CAPACITOR_CASE-C-22U,+/-10%,AVA AVX-KYOCERA TPSC226K016R0375 C1              
+CAPACITOR_CASE-C-22U,+/-10%,AVA AVX-KYOCERA TPSC226K016R0375 C7              
+
+----------------
+
+CAPACITOR_CASE-C-47U/10V,+/-10A AVX TAJC476K010R         C22             
+CAPACITOR_CASE-C-47U/10V,+/-10A AVX TAJC476K010R         C23             
+CAPACITOR_CASE-C-47U/10V,+/-10A AVX TAJC476K010R         C31             
+
+----------------
+
+CC1F-T1A_SMD-40.08MHZ,MICRO CRA MCS CC1F-T1A 40.08MHz    U3              
+
+----------------
+
+DIODE_SMD-SOT-ZHCS750,ZETEX Zetex ZHCS750            D1              
+DIODE_SMD-SOT-ZHCS750,ZETEX Zetex ZHCS750            D2              
+
+----------------
+
+FUSE-SMD_SMF-250MA,LITTELFUSE Littelfuse 154.250       FS1             
+FUSE-SMD_SMF-250MA,LITTELFUSE Littelfuse 154.250       FS2             
+
+----------------
+
+HEADER2X1_STR-HARWIN Harwin M20-999 02 05     PL1             
+
+----------------
+
+INDUCTOR_SMD-1.0U,MEGGIT Farnell 106-845          L2              
+
+----------------
+
+INDUCTOR_SMD-4.7U,MEC Farnell 106-848          L1              
+
+----------------
+
+LD1086_DDPAK-D2T25,STM STM LD1086D2T25          VR1             
+
+----------------
+
+LED-SMD_0805-RED,ROHM Rohm SML-210VTT86        DS1             
+LED-SMD_0805-RED,ROHM Rohm SML-210VTT86        DS2             
+LED-SMD_0805-RED,ROHM Rohm SML-210VTT86        DS3             
+
+----------------
+
+PL-AMP-050-68_RT-ANG-AMP Amp 174341-5             SK7             
+
+----------------
+
+QPLL28-CERN_LPCC-CERN CERN QPLL28              U2              
+
+----------------
+
+RESISTOR-NET-7C_SIL-1K,2%,BOURA Farnell 148-970          RN1             
+
+----------------
+
+RESISTOR_0603-100R,1%,ROHM Rohm MCR03EZPF101        R13             
+RESISTOR_0603-100R,1%,ROHM Rohm MCR03EZPF101        R14             
+RESISTOR_0603-100R,1%,ROHM Rohm MCR03EZPF101        R15             
+RESISTOR_0603-100R,1%,ROHM Rohm MCR03EZPF101        R16             
+
+----------------
+
+RESISTOR_0603-100R,5%,ROHM Rohm MCR03EZHJ101        R2              
+
+----------------
+
+RESISTOR_0603-120R,1%,MULTICOMP Farnell 911-124          R64             
+RESISTOR_0603-120R,1%,MULTICOMP Farnell 911-124          R65             
+RESISTOR_0603-120R,1%,MULTICOMP Farnell 911-124          R66             
+RESISTOR_0603-120R,1%,MULTICOMP Farnell 911-124          R67             
+RESISTOR_0603-120R,1%,MULTICOMP Farnell 911-124          R68             
+RESISTOR_0603-120R,1%,MULTICOMP Farnell 911-124          R69             
+
+----------------
+
+RESISTOR_0603-1K0,1%,MULTICOMP Farnell 911-239          R4              
+RESISTOR_0603-1K0,1%,MULTICOMP Farnell 911-239          R5              
+RESISTOR_0603-1K0,1%,MULTICOMP Farnell 911-239          R17             
+RESISTOR_0603-1K0,1%,MULTICOMP Farnell 911-239          R18             
+
+----------------
+
+RESISTOR_0603-220R,1%,MULTICOMP Farnell 911-150          R8              
+RESISTOR_0603-220R,1%,MULTICOMP Farnell 911-150          R11             
+
+----------------
+
+RESISTOR_0603-270R,1%,MULTICOMP Farnell 911-161          R6              
+RESISTOR_0603-270R,1%,MULTICOMP Farnell 911-161          R7              
+RESISTOR_0603-270R,1%,MULTICOMP Farnell 911-161          R19             
+RESISTOR_0603-270R,1%,MULTICOMP Farnell 911-161          R20             
+RESISTOR_0603-270R,1%,MULTICOMP Farnell 911-161          R21             
+RESISTOR_0603-270R,1%,MULTICOMP Farnell 911-161          R22             
+RESISTOR_0603-270R,1%,MULTICOMP Farnell 911-161          R36             
+RESISTOR_0603-270R,1%,MULTICOMP Farnell 911-161          R37             
+RESISTOR_0603-270R,1%,MULTICOMP Farnell 911-161          R38             
+RESISTOR_0603-270R,1%,MULTICOMP Farnell 911-161          R39             
+RESISTOR_0603-270R,1%,MULTICOMP Farnell 911-161          R40             
+RESISTOR_0603-270R,1%,MULTICOMP Farnell 911-161          R41             
+RESISTOR_0603-270R,1%,MULTICOMP Farnell 911-161          R42             
+RESISTOR_0603-270R,1%,MULTICOMP Farnell 911-161          R43             
+RESISTOR_0603-270R,1%,MULTICOMP Farnell 911-161          R44             
+RESISTOR_0603-270R,1%,MULTICOMP Farnell 911-161          R45             
+RESISTOR_0603-270R,1%,MULTICOMP Farnell 911-161          R46             
+RESISTOR_0603-270R,1%,MULTICOMP Farnell 911-161          R47             
+RESISTOR_0603-270R,1%,MULTICOMP Farnell 911-161          R48             
+RESISTOR_0603-270R,1%,MULTICOMP Farnell 911-161          R49             
+RESISTOR_0603-270R,1%,MULTICOMP Farnell 911-161          R50             
+RESISTOR_0603-270R,1%,MULTICOMP Farnell 911-161          R51             
+RESISTOR_0603-270R,1%,MULTICOMP Farnell 911-161          R52             
+RESISTOR_0603-270R,1%,MULTICOMP Farnell 911-161          R53             
+RESISTOR_0603-270R,1%,MULTICOMP Farnell 911-161          R54             
+RESISTOR_0603-270R,1%,MULTICOMP Farnell 911-161          R55             
+RESISTOR_0603-270R,1%,MULTICOMP Farnell 911-161          R56             
+RESISTOR_0603-270R,1%,MULTICOMP Farnell 911-161          R57             
+RESISTOR_0603-270R,1%,MULTICOMP Farnell 911-161          R58             
+RESISTOR_0603-270R,1%,MULTICOMP Farnell 911-161          R59             
+RESISTOR_0603-270R,1%,MULTICOMP Farnell 911-161          R60             
+RESISTOR_0603-270R,1%,MULTICOMP Farnell 911-161          R61             
+RESISTOR_0603-270R,1%,MULTICOMP Farnell 911-161          R62             
+RESISTOR_0603-270R,1%,MULTICOMP Farnell 911-161          R63             
+
+----------------
+
+RESISTOR_0603-430R,1%,MULTICOMP Farnell 357-1350         R3              
+
+----------------
+
+RESISTOR_0603-68R,1%,MULTICOMP Farnell 911-064          R9              
+RESISTOR_0603-68R,1%,MULTICOMP Farnell 911-064          R12             
+
+----------------
+
+RESISTOR_0805-10R,1%,MULTICOMP Farnell 911-616          R1              
+RESISTOR_0805-10R,1%,MULTICOMP Farnell 911-616          R30             
+RESISTOR_0805-10R,1%,MULTICOMP Farnell 911-616          R31             
+
+----------------
+
+RESISTOR_0805-1K0,1%,CAT Farnell 911-859          R23             
+RESISTOR_0805-1K0,1%,CAT Farnell 911-859          R24             
+RESISTOR_0805-1K0,1%,CAT Farnell 911-859          R25             
+RESISTOR_0805-1K0,1%,CAT Farnell 911-859          R32             
+RESISTOR_0805-1K0,1%,CAT Farnell 911-859          R33             
+RESISTOR_0805-1K0,1%,CAT Farnell 911-859          R34             
+RESISTOR_0805-1K0,1%,CAT Farnell 911-859          R35             
+
+----------------
+
+RESISTOR_0805-20R,1%,MULTICOMP Farnell 321-7851         R29             
+
+----------------
+
+RESISTOR_0805-2R2,1%,MULTICOMP Farnell 321-7784         R10             
+
+----------------
+
+RESISTOR_0805-33R,1%,MULTICOMP Farnell 911-677          R28             
+
+----------------
+
+RESISTOR_0805-56R,1%,MULTICOMP Farnell 911-707          R26             
+RESISTOR_0805-56R,1%,MULTICOMP Farnell 911-707          R27             
+
+----------------
+
+SK-AMP-050-68_RT-ANG-787190-7,A Amplimite 787190-7       SK9             
+SK-AMP-050-68_RT-ANG-787190-7,A Amplimite 787190-7       SK10            
+SK-AMP-050-68_RT-ANG-787190-7,A Amplimite 787190-7       SK21            
+
+----------------
+
+SK-LEMO-00_RT-ANG-EPL,LEMO Lemo EPL.00.250.DTN      SK6             
+
+----------------
+
+SK-LEMO0B-2F-PCB_RT-ANG-LEMO Lemo EPG.302.HLN         SK2             
+SK-LEMO0B-2F-PCB_RT-ANG-LEMO Lemo EPG.302.HLN         SK3             
+SK-LEMO0B-2F-PCB_RT-ANG-LEMO Lemo EPG.302.HLN         SK4             
+SK-LEMO0B-2F-PCB_RT-ANG-LEMO Lemo EPG.302.HLN         SK5             
+
+----------------
+
+SK-SMA-PCB_STR-RS RS 414-1379              SK12            
+SK-SMA-PCB_STR-RS RS 414-1379              SK13            
+SK-SMA-PCB_STR-RS RS 414-1379              SK14            
+SK-SMA-PCB_STR-RS RS 414-1379              SK15            
+SK-SMA-PCB_STR-RS RS 414-1379              SK16            
+SK-SMA-PCB_STR-RS RS 414-1379              SK17            
+SK-SMA-PCB_STR-RS RS 414-1379              SK18            
+SK-SMA-PCB_STR-RS RS 414-1379              SK19            
+SK-SMA-PCB_STR-RS RS 414-1379              SK20            
+
+----------------
+
+TEN-5-DUALOP_DIP-TRACO,48V/+-5V TEN-5-4821               U5              
+
+----------------
+
+TEN-5_DIP-TRACO,48V/5V TEN-5-4811               U10             
+
+----------------
+
+TERM-BLK-3_STR-LUMBERG Farnell 151-786          SK1             
+TERM-BLK-3_STR-LUMBERG Farnell 151-786          SK8             
+TERM-BLK-3_STR-LUMBERG Farnell 151-786          SK11            
+
+----------------
+
+END STUFF LIST

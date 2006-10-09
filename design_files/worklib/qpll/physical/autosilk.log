@@ -1,0 +1,77 @@
+(------------------------------------------------------------)
+(                                                            )
+(        Auto Silkscreen Log File                            )
+(                                                            )
+(        Drawing    : pc005-unplaced-e.brd                   )
+(        Date/Time  : Wed Jun 11 00:35:36 2003               )
+(                                                            )
+(------------------------------------------------------------)
+
+
+Generating Auto Silkscreen for both sides of the board.
+
+Copying all elements.
+
+Element to Pad clearance is 0.1500
+Max Text displacement is 5.0000
+Min Line Length is 0.0000
+Allowing 0, 90, 180 and 270 degree text rotations.
+No Text Allowed Under Components.
+Subclass Selections:
+ Board Geometry       : Silkscreen
+ Component Value      : None
+ Device Type          : None
+ Package Geometry     : Silkscreen
+ Reference Designator : Silkscreen
+ Tolerance            : None
+ User Part Number     : None
+
+
+     ----- Top Silkscreen -----
+
+A suitable location could not be found for text string 'SK19'
+(location: 947500, 139450)
+A suitable location could not be found for text string 'SK13'
+(location: 460000,  39450)
+A suitable location could not be found for text string 'SK14'
+(location: 460000, 124450)
+A suitable location could not be found for text string 'SK17'
+(location: 945000,  44450)
+A suitable location could not be found for text string 'SK15'
+(location: 852500,  -5550)
+A suitable location could not be found for text string 'SK18'
+(location: 945000, -40550)
+A suitable location could not be found for text string 'SK11'
+(location: 650000, 127500)
+A suitable location could not be found for text string 'R69'
+(location: -453570,  62500)
+A suitable location could not be found for text string 'R65'
+(location: -496430,  40000)
+A suitable location could not be found for text string 'R68'
+(location: -453570,  12500)
+A suitable location could not be found for text string 'R16'
+(location: -956070, -95000)
+A suitable location could not be found for text string 'R13'
+(location: -1108930, -102500)
+A suitable location could not be found for text string 'SW1'
+(location: -1175000, -151660)
+
+     ----- Bottom Silkscreen -----
+
+A suitable location could not be found for text string 'SK19'
+(location: 947500, 139450)
+A suitable location could not be found for text string 'SK13'
+(location: 460000,  39450)
+A suitable location could not be found for text string 'SK14'
+(location: 460000, 124450)
+A suitable location could not be found for text string 'SK17'
+(location: 945000,  44450)
+A suitable location could not be found for text string 'SK15'
+(location: 852500,  -5550)
+A suitable location could not be found for text string 'SK18'
+(location: 945000, -40550)
+
+Total Failures: 19
+
+Log End
+

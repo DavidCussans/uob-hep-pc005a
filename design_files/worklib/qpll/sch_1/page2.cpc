@@ -1,0 +1,165 @@
+#ISCELL
+  bris_cds_standard a2-2000 *
+  *
+#CELL
+  cds_logic 100elt23 *
+  page2_i10
+#CELL
+  cds_logic 100elt23 *
+  page2_i11
+#CELL
+  cds_logic 100elt23 *
+  page2_i12
+#CELL
+  bris_cds_special ten-5-dualop *
+  page2_i13
+#CELL
+  cds_connectors term-blk-3 *
+  page2_i14
+#ISCELL
+  cds_standard vcc *
+  page2_i15
+#ISCELL
+  cds_standard vee *
+  page2_i16
+#ISCELL
+  cds_standard gnd *
+  page2_i17
+#CELL
+  cds_discrete capacitor *
+  page2_i18
+#CELL
+  cds_discrete capacitor *
+  page2_i19
+#CELL
+  cds_connectors pl-amp-050-68 *
+  page2_i2
+#CELL
+  cds_discrete capacitor *
+  page2_i20
+#CELL
+  cds_discrete capacitor *
+  page2_i21
+#CELL
+  cds_discrete capacitor *
+  page2_i22
+#ISCELL
+  cds_standard gnd *
+  page2_i23
+#ISCELL
+  cds_standard vcc *
+  page2_i24
+#CELL
+  bris_cds_logic 100324-dip *
+  page2_i25
+#CELL
+  bris_cds_logic 100324-dip *
+  page2_i26
+#CELL
+  bris_cds_logic 100324-dip *
+  page2_i27
+#CELL
+  bris_cds_logic 100324-dip *
+  page2_i28
+#CELL
+  bris_cds_logic 100324-dip *
+  page2_i29
+#CELL
+  cds_connectors sk-amp-050-68 *
+  page2_i3
+#CELL
+  bris_cds_logic 100324-dip *
+  page2_i30
+#ISCELL
+  cds_standard vee *
+  page2_i43
+#CELL
+  cds_discrete capacitor *
+  page2_i44
+#CELL
+  cds_discrete capacitor *
+  page2_i46
+#ISCELL
+  cds_standard gnd *
+  page2_i47
+#CELL
+  cds_discrete capacitor *
+  page2_i48
+#CELL
+  cds_discrete capacitor *
+  page2_i49
+#CELL
+  cds_discrete capacitor *
+  page2_i50
+#ISCELL
+  cds_standard vee *
+  page2_i51
+#ISCELL
+  cds_standard vcc *
+  page2_i52
+#CELL
+  cds_discrete diode *
+  page2_i53
+#CELL
+  cds_special fuse-smd *
+  page2_i54
+#CELL
+  cds_discrete resistor *
+  page2_i64
+#ISCELL
+  cds_standard vcc *
+  page2_i65
+#CELL
+  cds_discrete resistor *
+  page2_i73
+#CELL
+  cds_discrete resistor *
+  page2_i78
+#CELL
+  cds_discrete resistor *
+  page2_i79
+#CELL
+  cds_discrete resistor *
+  page2_i80
+#CELL
+  cds_discrete resistor *
+  page2_i81
+#CELL
+  cds_discrete resistor *
+  page2_i82
+#CELL
+  cds_discrete resistor *
+  page2_i83
+#CELL
+  cds_discrete resistor *
+  page2_i84
+#CELL
+  cds_discrete resistor *
+  page2_i85
+#CELL
+  cds_discrete resistor *
+  page2_i86
+#CELL
+  cds_discrete resistor *
+  page2_i87
+#CELL
+  cds_discrete resistor *
+  page2_i88
+#CELL
+  cds_discrete resistor *
+  page2_i89
+#CELL
+  cds_discrete resistor *
+  page2_i90
+#CELL
+  cds_discrete resistor *
+  page2_i91
+#CELL
+  cds_discrete resistor *
+  page2_i92
+#CELL
+  cds_discrete resistor *
+  page2_i93
+#CELL
+  cds_discrete resistor *
+  page2_i94

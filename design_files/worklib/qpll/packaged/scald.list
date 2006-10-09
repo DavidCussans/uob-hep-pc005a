@@ -1,0 +1,46 @@
+Starting to read E:/UOB-HEP-PC005A/worklib/qpll/packaged/pstchip.dat 
+   Finished reading E:/UOB-HEP-PC005A/worklib/qpll/packaged/pstchip.dat (00:00:00.17)
+Starting to read E:/UOB-HEP-PC005A/worklib/qpll/packaged/pstxprt.dat 
+   Finished reading E:/UOB-HEP-PC005A/worklib/qpll/packaged/pstxprt.dat (00:00:00.03)
+Starting to read E:/UOB-HEP-PC005A/worklib/qpll/packaged/pstxnet.dat 
+   Finished reading E:/UOB-HEP-PC005A/worklib/qpll/packaged/pstxnet.dat (00:00:00.03)
+Starting to generate E:/UOB-HEP-PC005A/worklib/qpll/packaged/dialcnet.dat 
+   Finished generating E:/UOB-HEP-PC005A/worklib/qpll/packaged/dialcnet.dat (00:00:00.06)
+Starting to generate E:/UOB-HEP-PC005A/worklib/qpll/packaged/dialbonl.dat 
+   Finished generating E:/UOB-HEP-PC005A/worklib/qpll/packaged/dialbonl.dat (00:00:00.04)
+Starting to generate E:/UOB-HEP-PC005A/worklib/qpll/packaged/dialcprt.dat 
+   Finished generating E:/UOB-HEP-PC005A/worklib/qpll/packaged/dialcprt.dat (00:00:00.01)
+Starting to generate E:/UOB-HEP-PC005A/worklib/qpll/packaged/dialstf.dat 
+   Finished generating E:/UOB-HEP-PC005A/worklib/qpll/packaged/dialstf.dat (00:00:00.01)
+Starting to generate E:/UOB-HEP-PC005A/worklib/qpll/packaged/dialpgnd.dat 
+   Finished generating E:/UOB-HEP-PC005A/worklib/qpll/packaged/dialpgnd.dat (00:00:00.00)
+Starting to generate E:/UOB-HEP-PC005A/worklib/qpll/packaged/dialpgnd_new.dat 
+   Finished generating E:/UOB-HEP-PC005A/worklib/qpll/packaged/dialpgnd_new.dat (00:00:00.01)
+Starting to generate E:/UOB-HEP-PC005A/worklib/qpll/packaged/scald.xref 
+   Finished generating E:/UOB-HEP-PC005A/worklib/qpll/packaged/scald.xref (00:00:00.14)
+
+SCALD Lists Interface run on Jun 11 9:49:37 2003
+   DESIGN NAME : 'QPLL'
+   PACKAGING ON 10-Jun-2003 AT 22:43:05
+
+   DIRECTORIES  <none>
+   LIBRARIES  'bris_cds_standard' 'bris_cds_switches' 'cds_analogue'
+              'bris_cds_analogue' 'cds_connectors' 'bris_cds_connectors'
+              'cds_discrete' 'bris_cds_discrete' 'cds_logic' 'bris_cds_logic'
+              'cds_memory' 'bris_cds_memory' 'cds_pld' 'bris_cds_pld'
+              'cds_special' 'bris_cds_special' 'cds_standard' 'cds_switches'
+              'uob_hep_pc005a_lib'
+   MASTER_LIBRARIES  <none>
+   MAX_ERRORS 500
+   OVERSIGHTS ON
+   SINGLE_NODE_NETS OFF
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:00:53
+elapsed time  0:00:01
+

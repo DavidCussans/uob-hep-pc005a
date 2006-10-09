@@ -1,0 +1,165 @@
+#ISCELL
+  bris_cds_standard a2-2000 *
+  *
+#CELL
+  cds_discrete resistor *
+  page3_i100
+#CELL
+  cds_discrete resistor *
+  page3_i101
+#CELL
+  cds_discrete resistor *
+  page3_i102
+#CELL
+  cds_discrete resistor *
+  page3_i103
+#CELL
+  cds_discrete resistor *
+  page3_i104
+#CELL
+  cds_discrete resistor *
+  page3_i105
+#CELL
+  cds_discrete resistor *
+  page3_i106
+#CELL
+  cds_discrete resistor *
+  page3_i107
+#CELL
+  cds_discrete resistor *
+  page3_i108
+#CELL
+  cds_discrete resistor *
+  page3_i109
+#CELL
+  cds_discrete resistor *
+  page3_i110
+#CELL
+  cds_discrete resistor *
+  page3_i111
+#CELL
+  cds_discrete resistor *
+  page3_i112
+#CELL
+  cds_discrete resistor *
+  page3_i113
+#CELL
+  cds_discrete resistor *
+  page3_i114
+#CELL
+  cds_connectors term-blk-3 *
+  page3_i14
+#ISCELL
+  cds_standard vee *
+  page3_i16
+#ISCELL
+  cds_standard gnd *
+  page3_i17
+#CELL
+  cds_discrete capacitor *
+  page3_i19
+#ISCELL
+  cds_standard gnd *
+  page3_i47
+#CELL
+  cds_discrete capacitor *
+  page3_i48
+#CELL
+  cds_discrete capacitor *
+  page3_i49
+#CELL
+  cds_discrete capacitor *
+  page3_i50
+#ISCELL
+  cds_standard vee *
+  page3_i51
+#CELL
+  cds_discrete diode *
+  page3_i53
+#CELL
+  cds_special fuse-smd *
+  page3_i54
+#CELL
+  bris_cds_special ten-5 *
+  page3_i55
+#CELL
+  cds_connectors sk-amp-050-68 *
+  page3_i73
+#CELL
+  cds_connectors sk-amp-050-68 *
+  page3_i74
+#ISCELL
+  cds_standard vee *
+  page3_i75
+#CELL
+  cds_discrete resistor *
+  page3_i76
+#CELL
+  cds_discrete resistor *
+  page3_i77
+#CELL
+  cds_discrete resistor *
+  page3_i78
+#ISCELL
+  cds_standard gnd *
+  page3_i79
+#ISCELL
+  cds_standard gnd *
+  page3_i80
+#CELL
+  cds_discrete resistor *
+  page3_i81
+#CELL
+  cds_discrete resistor *
+  page3_i82
+#CELL
+  cds_discrete resistor *
+  page3_i83
+#CELL
+  cds_discrete resistor *
+  page3_i84
+#CELL
+  cds_discrete resistor *
+  page3_i85
+#CELL
+  cds_discrete resistor *
+  page3_i86
+#CELL
+  cds_connectors sk-sma-pcb *
+  page3_i87
+#CELL
+  cds_connectors sk-sma-pcb *
+  page3_i88
+#CELL
+  cds_connectors sk-sma-pcb *
+  page3_i89
+#CELL
+  cds_connectors sk-sma-pcb *
+  page3_i90
+#CELL
+  cds_connectors sk-sma-pcb *
+  page3_i91
+#CELL
+  cds_connectors sk-sma-pcb *
+  page3_i92
+#CELL
+  cds_connectors sk-sma-pcb *
+  page3_i93
+#CELL
+  cds_connectors sk-sma-pcb *
+  page3_i94
+#CELL
+  cds_connectors sk-sma-pcb *
+  page3_i95
+#CELL
+  cds_discrete resistor *
+  page3_i96
+#CELL
+  cds_discrete resistor *
+  page3_i97
+#CELL
+  cds_discrete resistor *
+  page3_i98
+#CELL
+  cds_discrete resistor *
+  page3_i99

@@ -1,0 +1,3231 @@
+FILE_TYPE=EXPANDEDPARTLIST;
+{ Packager-XL run on 10-Jun-2003 AT 22:43:05 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='QPLL';
+ POST_TIME='10-Jun-2003 AT 22:43:05';
+ SOURCE_TOOL='PACKAGER_XL';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAPACITOR_CASE-C-22U,+/-10%,AVA':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I77@CDS_DISCRETE.CAPACITOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i77@cds_discrete.capacitor(chips)~
+',
+ PATH='I77',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(-6250,3150)',
+ VER='2',
+ ROT='1',
+ PACK_TYPE='CASE-C',
+ TOLERANCE='+/-10%',
+ VALUE='22U',
+ MANUF='AVX-KYOCERA',
+ CDS_LIB='cds_discrete',
+ SIZE='1',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/capacitor/chips/chips.prt~
+';
+
+PART_NAME
+ C2 'CAPACITOR_0603-100N,+/-10%,AVXA':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I15@CDS_DISCRETE.CAPACITOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i15@cds_discrete.capacitor(chips)~
+',
+ PATH='I15',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(-5550,1100)',
+ VER='1',
+ ROT='0',
+ VALUE='100N',
+ TOLERANCE='+/-10%',
+ PACK_TYPE='0603',
+ MANUF='AVX-KYOCERA',
+ CDS_LIB='cds_discrete',
+ SIZE='1',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/capacitor/chips/chips.prt~
+';
+
+PART_NAME
+ C3 'CAPACITOR_0603-100N,+/-10%,AVXA':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I16@CDS_DISCRETE.CAPACITOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i16@cds_discrete.capacitor(chips)~
+',
+ PATH='I16',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(-5550,750)',
+ VER='1',
+ ROT='0',
+ VALUE='100N',
+ PACK_TYPE='0603',
+ TOLERANCE='+/-10%',
+ SIZE='1',
+ CDS_LIB='cds_discrete',
+ MANUF='AVX-KYOCERA',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/capacitor/chips/chips.prt~
+';
+
+PART_NAME
+ C4 'CAPACITOR_0603-10N,+/-10%,AVX-A':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I53@CDS_DISCRETE.CAPACITOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i53@cds_discrete.capacitor(chips)~
+',
+ PATH='I53',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(-5400,50)',
+ VER='1',
+ ROT='1',
+ PACK_TYPE='0603',
+ VALUE='10N',
+ TOLERANCE='+/-10%',
+ MANUF='AVX-KYOCERA',
+ SIZE='1',
+ CDS_LIB='cds_discrete',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/capacitor/chips/chips.prt~
+';
+
+PART_NAME
+ C5 'CAPACITOR_0603-1U0,+/-10%,MURAA':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I75@CDS_DISCRETE.CAPACITOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i75@cds_discrete.capacitor(chips)~
+',
+ PATH='I75',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(-5050,3150)',
+ VER='1',
+ ROT='3',
+ VALUE='1U0',
+ TOLERANCE='+/-10%',
+ PACK_TYPE='0603',
+ MANUF='MURATA',
+ CDS_LIB='cds_discrete',
+ SIZE='1',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/capacitor/chips/chips.prt~
+';
+
+PART_NAME
+ C6 'CAPACITOR_0603-100N,+/-10%,AVXA':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I6@CDS_DISCRETE.CAPACITOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i6@cds_discrete.capacitor(chips)',
+ PATH='I6',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(-4900,50)',
+ VER='1',
+ ROT='1',
+ PACK_TYPE='0603',
+ VALUE='100N',
+ TOLERANCE='+/-10%',
+ MANUF='AVX-KYOCERA',
+ CDS_LIB='cds_discrete',
+ SIZE='1',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/capacitor/chips/chips.prt~
+';
+
+PART_NAME
+ C7 'CAPACITOR_CASE-C-22U,+/-10%,AVA':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I78@CDS_DISCRETE.CAPACITOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i78@cds_discrete.capacitor(chips)~
+',
+ PATH='I78',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(-4050,3150)',
+ VER='2',
+ ROT='1',
+ PACK_TYPE='CASE-C',
+ VALUE='22U',
+ TOLERANCE='+/-10%',
+ MANUF='AVX-KYOCERA',
+ CDS_LIB='cds_discrete',
+ SIZE='1',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/capacitor/chips/chips.prt~
+';
+
+PART_NAME
+ C8 'CAPACITOR_0603-100N,+/-10%,AVXA':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I25@CDS_DISCRETE.CAPACITOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i25@cds_discrete.capacitor(chips)~
+',
+ PATH='I25',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(-3750,950)',
+ VER='1',
+ ROT='2',
+ PACK_TYPE='0603',
+ VALUE='100N',
+ TOLERANCE='+/-10%',
+ CDS_LIB='cds_discrete',
+ MANUF='AVX-KYOCERA',
+ SIZE='1',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/capacitor/chips/chips.prt~
+';
+
+PART_NAME
+ C9 'CAPACITOR_0603-1U0,+/-10%,MURAA':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I76@CDS_DISCRETE.CAPACITOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i76@cds_discrete.capacitor(chips)~
+',
+ PATH='I76',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(-3700,3150)',
+ VER='1',
+ ROT='3',
+ PACK_TYPE='0603',
+ VALUE='1U0',
+ TOLERANCE='+/-10%',
+ MANUF='MURATA',
+ CDS_LIB='cds_discrete',
+ SIZE='1',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/capacitor/chips/chips.prt~
+';
+
+PART_NAME
+ C10 'CAPACITOR_0603-100N,+/-10%,AVXA':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I24@CDS_DISCRETE.CAPACITOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i24@cds_discrete.capacitor(chips)~
+',
+ PATH='I24',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(-3600,900)',
+ VER='1',
+ ROT='0',
+ TOLERANCE='+/-10%',
+ PACK_TYPE='0603',
+ VALUE='100N',
+ CDS_LIB='cds_discrete',
+ MANUF='AVX-KYOCERA',
+ SIZE='1',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/capacitor/chips/chips.prt~
+';
+
+PART_NAME
+ C11 'CAPACITOR_0603-47N,+/-10%,AVX-A':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I88@CDS_DISCRETE.CAPACITOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i88@cds_discrete.capacitor(chips)~
+',
+ PATH='I88',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(-2750,3100)',
+ VER='1',
+ ROT='1',
+ PACK_TYPE='0603',
+ VALUE='47N',
+ TOLERANCE='+/-10%',
+ MANUF='AVX-KYOCERA',
+ CDS_LIB='cds_discrete',
+ SIZE='1',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/capacitor/chips/chips.prt~
+';
+
+PART_NAME
+ C12 'CAPACITOR_0603-47N,+/-10%,AVX-A':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I89@CDS_DISCRETE.CAPACITOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i89@cds_discrete.capacitor(chips)~
+',
+ PATH='I89',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(-2350,3100)',
+ VER='1',
+ ROT='1',
+ TOLERANCE='+/-10%',
+ VALUE='47N',
+ PACK_TYPE='0603',
+ MANUF='AVX-KYOCERA',
+ CDS_LIB='cds_discrete',
+ SIZE='1',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/capacitor/chips/chips.prt~
+';
+
+PART_NAME
+ C13 'CAPACITOR_0603-100N,+/-10%,AVXA':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I31@CDS_DISCRETE.CAPACITOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i31@cds_discrete.capacitor(chips)~
+',
+ PATH='I31',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(-2000,-350)',
+ VER='1',
+ ROT='1',
+ TOLERANCE='+/-10%',
+ PACK_TYPE='0603',
+ VALUE='100N',
+ CDS_LIB='cds_discrete',
+ SIZE='1',
+ MANUF='AVX-KYOCERA',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/capacitor/chips/chips.prt~
+';
+
+PART_NAME
+ C14 'CAPACITOR_0603-10N,+/-10%,AVX-A':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I43@CDS_DISCRETE.CAPACITOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i43@cds_discrete.capacitor(chips)~
+',
+ PATH='I43',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(-1250,1600)',
+ VER='1',
+ ROT='1',
+ VALUE='10N',
+ PACK_TYPE='0603',
+ TOLERANCE='+/-10%',
+ MANUF='AVX-KYOCERA',
+ SIZE='1',
+ CDS_LIB='cds_discrete',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/capacitor/chips/chips.prt~
+';
+
+PART_NAME
+ C15 'CAPACITOR_0603-10N,+/-10%,AVX-A':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I40@CDS_DISCRETE.CAPACITOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i40@cds_discrete.capacitor(chips)~
+',
+ PATH='I40',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(-900,1600)',
+ VER='1',
+ ROT='1',
+ TOLERANCE='+/-10%',
+ VALUE='10N',
+ PACK_TYPE='0603',
+ SIZE='1',
+ MANUF='AVX-KYOCERA',
+ CDS_LIB='cds_discrete',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/capacitor/chips/chips.prt~
+';
+
+PART_NAME
+ C16 'CAPACITOR_0603-100N,+/-10%,AVXA':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I50@CDS_DISCRETE.CAPACITOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i50@cds_discrete.capacitor(chips)~
+',
+ PATH='I50',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(700,650)',
+ VER='1',
+ ROT='2',
+ PACK_TYPE='0603',
+ VALUE='100N',
+ TOLERANCE='+/-10%',
+ CDS_LIB='cds_discrete',
+ MANUF='AVX-KYOCERA',
+ SIZE='1',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/capacitor/chips/chips.prt~
+';
+
+PART_NAME
+ C17 'CAPACITOR_0603-10N,+/-10%,AVX-A':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I54@CDS_DISCRETE.CAPACITOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i54@cds_discrete.capacitor(chips)~
+',
+ PATH='I54',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(850,1150)',
+ VER='1',
+ ROT='1',
+ VALUE='10N',
+ TOLERANCE='+/-10%',
+ PACK_TYPE='0603',
+ CDS_LIB='cds_discrete',
+ MANUF='AVX-KYOCERA',
+ SIZE='1',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/capacitor/chips/chips.prt~
+';
+
+PART_NAME
+ C18 'CAPACITOR_0603-100N,+/-10%,AVXA':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I49@CDS_DISCRETE.CAPACITOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i49@cds_discrete.capacitor(chips)~
+',
+ PATH='I49',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(850,600)',
+ VER='1',
+ ROT='0',
+ TOLERANCE='+/-10%',
+ PACK_TYPE='0603',
+ VALUE='100N',
+ CDS_LIB='cds_discrete',
+ MANUF='AVX-KYOCERA',
+ SIZE='1',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/capacitor/chips/chips.prt~
+';
+
+PART_NAME
+ C19 'CAPACITOR_0603-10N,+/-10%,AVX-A':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I61@CDS_DISCRETE.CAPACITOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i61@cds_discrete.capacitor(chips)~
+',
+ PATH='I61',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(2000,1450)',
+ VER='1',
+ ROT='1',
+ TOLERANCE='+/-10%',
+ VALUE='10N',
+ PACK_TYPE='0603',
+ CDS_LIB='cds_discrete',
+ SIZE='1',
+ MANUF='AVX-KYOCERA',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/capacitor/chips/chips.prt~
+';
+
+PART_NAME
+ C20 'CAPACITOR_0603-100N,+/-10%,AVXA':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I47@CDS_DISCRETE.CAPACITOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i47@cds_discrete.capacitor(chips)~
+',
+ PATH='I47',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(2300,1450)',
+ VER='1',
+ ROT='1',
+ VALUE='100N',
+ PACK_TYPE='0603',
+ TOLERANCE='+/-10%',
+ MANUF='AVX-KYOCERA',
+ SIZE='1',
+ CDS_LIB='cds_discrete',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/capacitor/chips/chips.prt~
+';
+
+PART_NAME
+ C21 'CAPACITOR_0603-100N,+/-10%,AVXA':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2_I20@CDS_DISCRETE.CAPACITOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page2_i20@cds_discrete.capacitor(chips)~
+',
+ PATH='I20',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2',
+ XY='(-3700,450)',
+ VER='1',
+ ROT='1',
+ TOLERANCE='+/-10%',
+ PACK_TYPE='0603',
+ VALUE='100N',
+ CDS_LIB='cds_discrete',
+ MANUF='AVX-KYOCERA',
+ SIZE='1',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/capacitor/chips/chips.prt~
+';
+
+PART_NAME
+ C22 'CAPACITOR_CASE-C-47U/10V,+/-10A':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2_I18@CDS_DISCRETE.CAPACITOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page2_i18@cds_discrete.capacitor(chips)~
+',
+ PATH='I18',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2',
+ XY='(-3700,-1250)',
+ VER='2',
+ ROT='1',
+ PACK_TYPE='CASE-C',
+ VALUE='47U/10V',
+ TOLERANCE='+/-10%',
+ MANUF='AVX-KYO',
+ CDS_LIB='cds_discrete',
+ SIZE='1',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/capacitor/chips/chips.prt~
+';
+
+PART_NAME
+ C23 'CAPACITOR_CASE-C-47U/10V,+/-10A':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2_I19@CDS_DISCRETE.CAPACITOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page2_i19@cds_discrete.capacitor(chips)~
+',
+ PATH='I19',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2',
+ XY='(-3700,-1750)',
+ VER='2',
+ ROT='1',
+ PACK_TYPE='CASE-C',
+ VALUE='47U/10V',
+ TOLERANCE='+/-10%',
+ MANUF='AVX-KYO',
+ CDS_LIB='cds_discrete',
+ SIZE='1',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/capacitor/chips/chips.prt~
+';
+
+PART_NAME
+ C24 'CAPACITOR_0603-100N,+/-10%,AVXA':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2_I21@CDS_DISCRETE.CAPACITOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page2_i21@cds_discrete.capacitor(chips)~
+',
+ PATH='I21',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2',
+ XY='(-3250,450)',
+ VER='1',
+ ROT='1',
+ PACK_TYPE='0603',
+ TOLERANCE='+/-10%',
+ VALUE='100N',
+ CDS_LIB='cds_discrete',
+ SIZE='1',
+ MANUF='AVX-KYOCERA',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/capacitor/chips/chips.prt~
+';
+
+PART_NAME
+ C25 'CAPACITOR_0603-100N,+/-10%,AVXA':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2_I22@CDS_DISCRETE.CAPACITOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page2_i22@cds_discrete.capacitor(chips)~
+',
+ PATH='I22',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2',
+ XY='(-2800,450)',
+ VER='1',
+ ROT='1',
+ TOLERANCE='+/-10%',
+ VALUE='100N',
+ PACK_TYPE='0603',
+ CDS_LIB='cds_discrete',
+ SIZE='1',
+ MANUF='AVX-KYOCERA',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/capacitor/chips/chips.prt~
+';
+
+PART_NAME
+ C26 'CAPACITOR_0603-100N,+/-10%,AVXA':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2_I46@CDS_DISCRETE.CAPACITOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page2_i46@cds_discrete.capacitor(chips)~
+',
+ PATH='I46',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2',
+ XY='(-1600,-1100)',
+ VER='1',
+ ROT='1',
+ TOLERANCE='+/-10%',
+ VALUE='100N',
+ PACK_TYPE='0603',
+ CDS_LIB='cds_discrete',
+ SIZE='1',
+ MANUF='AVX-KYOCERA',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/capacitor/chips/chips.prt~
+';
+
+PART_NAME
+ C27 'CAPACITOR_0603-100N,+/-10%,AVXA':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2_I50@CDS_DISCRETE.CAPACITOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page2_i50@cds_discrete.capacitor(chips)~
+',
+ PATH='I50',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2',
+ XY='(-1600,-1500)',
+ VER='1',
+ ROT='1',
+ VALUE='100N',
+ PACK_TYPE='0603',
+ TOLERANCE='+/-10%',
+ SIZE='1',
+ MANUF='AVX-KYOCERA',
+ CDS_LIB='cds_discrete',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/capacitor/chips/chips.prt~
+';
+
+PART_NAME
+ C28 'CAPACITOR_0603-100N,+/-10%,AVXA':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2_I49@CDS_DISCRETE.CAPACITOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page2_i49@cds_discrete.capacitor(chips)~
+',
+ PATH='I49',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2',
+ XY='(-1150,-1500)',
+ VER='1',
+ ROT='1',
+ PACK_TYPE='0603',
+ VALUE='100N',
+ TOLERANCE='+/-10%',
+ MANUF='AVX-KYOCERA',
+ SIZE='1',
+ CDS_LIB='cds_discrete',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/capacitor/chips/chips.prt~
+';
+
+PART_NAME
+ C29 'CAPACITOR_0603-100N,+/-10%,AVXA':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2_I44@CDS_DISCRETE.CAPACITOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page2_i44@cds_discrete.capacitor(chips)~
+',
+ PATH='I44',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2',
+ XY='(-700,-1100)',
+ VER='1',
+ ROT='1',
+ PACK_TYPE='0603',
+ VALUE='100N',
+ TOLERANCE='+/-10%',
+ CDS_LIB='cds_discrete',
+ MANUF='AVX-KYOCERA',
+ SIZE='1',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/capacitor/chips/chips.prt~
+';
+
+PART_NAME
+ C30 'CAPACITOR_0603-100N,+/-10%,AVXA':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2_I48@CDS_DISCRETE.CAPACITOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page2_i48@cds_discrete.capacitor(chips)~
+',
+ PATH='I48',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2',
+ XY='(-700,-1500)',
+ VER='1',
+ ROT='1',
+ PACK_TYPE='0603',
+ VALUE='100N',
+ TOLERANCE='+/-10%',
+ MANUF='AVX-KYOCERA',
+ SIZE='1',
+ CDS_LIB='cds_discrete',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/capacitor/chips/chips.prt~
+';
+
+PART_NAME
+ C31 'CAPACITOR_CASE-C-47U/10V,+/-10A':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3_I19@CDS_DISCRETE.CAPACITOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page3_i19@cds_discrete.capacitor(chips)~
+',
+ PATH='I19',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3',
+ XY='(-3450,-1350)',
+ VER='2',
+ ROT='1',
+ TOLERANCE='+/-10%',
+ VALUE='47U/10V',
+ PACK_TYPE='CASE-C',
+ SIZE='1',
+ CDS_LIB='cds_discrete',
+ MANUF='AVX-KYO',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/capacitor/chips/chips.prt~
+';
+
+PART_NAME
+ C32 'CAPACITOR_0603-100N,+/-10%,AVXA':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3_I50@CDS_DISCRETE.CAPACITOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page3_i50@cds_discrete.capacitor(chips)~
+',
+ PATH='I50',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3',
+ XY='(-1600,-1500)',
+ VER='1',
+ ROT='1',
+ VALUE='100N',
+ PACK_TYPE='0603',
+ TOLERANCE='+/-10%',
+ SIZE='1',
+ MANUF='AVX-KYOCERA',
+ CDS_LIB='cds_discrete',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/capacitor/chips/chips.prt~
+';
+
+PART_NAME
+ C33 'CAPACITOR_0603-100N,+/-10%,AVXA':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3_I49@CDS_DISCRETE.CAPACITOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page3_i49@cds_discrete.capacitor(chips)~
+',
+ PATH='I49',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3',
+ XY='(-1150,-1500)',
+ VER='1',
+ ROT='1',
+ PACK_TYPE='0603',
+ VALUE='100N',
+ TOLERANCE='+/-10%',
+ MANUF='AVX-KYOCERA',
+ SIZE='1',
+ CDS_LIB='cds_discrete',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/capacitor/chips/chips.prt~
+';
+
+PART_NAME
+ C34 'CAPACITOR_0603-100N,+/-10%,AVXA':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3_I48@CDS_DISCRETE.CAPACITOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page3_i48@cds_discrete.capacitor(chips)~
+',
+ PATH='I48',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3',
+ XY='(-700,-1500)',
+ VER='1',
+ ROT='1',
+ PACK_TYPE='0603',
+ VALUE='100N',
+ TOLERANCE='+/-10%',
+ MANUF='AVX-KYOCERA',
+ SIZE='1',
+ CDS_LIB='cds_discrete',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/capacitor/chips/chips.prt~
+';
+
+PART_NAME
+ D1 'DIODE_SMD-SOT-ZHCS750,ZETEX':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2_I53@CDS_DISCRETE.DIODE(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page2_i53@cds_discrete.diode(chips)',
+ PATH='I53',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2',
+ XY='(-5100,-1250)',
+ VER='1',
+ ROT='0',
+ VALUE='ZHCS750',
+ PACK_TYPE='SMD-SOT',
+ MANUF='ZETEX',
+ CDS_LIB='cds_discrete',
+ KL_COMMENTS='-',
+ OL_COMMENTS='-',
+ PL_COMMENTS='-',
+ SIZE='1',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/diode/chips/chips.prt';
+
+PART_NAME
+ D2 'DIODE_SMD-SOT-ZHCS750,ZETEX':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3_I53@CDS_DISCRETE.DIODE(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page3_i53@cds_discrete.diode(chips)',
+ PATH='I53',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3',
+ XY='(-5100,-1250)',
+ VER='1',
+ ROT='0',
+ VALUE='ZHCS750',
+ PACK_TYPE='SMD-SOT',
+ MANUF='ZETEX',
+ CDS_LIB='cds_discrete',
+ KL_COMMENTS='-',
+ OL_COMMENTS='-',
+ PL_COMMENTS='-',
+ SIZE='1',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/diode/chips/chips.prt';
+
+PART_NAME
+ DS1 'LED-SMD_0805-RED,ROHM':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I94@CDS_DISCRETE.LED-SMD(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i94@cds_discrete.\led-smd\(chips)~
+',
+ PATH='I94',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(-5400,3250)',
+ VER='1',
+ ROT='3',
+ VALUE='RED',
+ PACK_TYPE='0805',
+ MANUF='ROHM',
+ KL_COMMENTS='-',
+ OL_COMMENTS='-',
+ PL_COMMENTS='-',
+ SIZE='1',
+ CDS_LIB='cds_discrete',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/led#2dsmd/chips/chips.prt~
+';
+
+PART_NAME
+ DS2 'LED-SMD_0805-RED,ROHM':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I95@CDS_DISCRETE.LED-SMD(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i95@cds_discrete.\led-smd\(chips)~
+',
+ PATH='I95',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(-2000,3200)',
+ VER='1',
+ ROT='3',
+ VALUE='RED',
+ PACK_TYPE='0805',
+ MANUF='ROHM',
+ KL_COMMENTS='-',
+ OL_COMMENTS='-',
+ PL_COMMENTS='-',
+ SIZE='1',
+ CDS_LIB='cds_discrete',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/led#2dsmd/chips/chips.prt~
+';
+
+PART_NAME
+ DS3 'LED-SMD_0805-RED,ROHM':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I35@CDS_DISCRETE.LED-SMD(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i35@cds_discrete.\led-smd\(chips)~
+',
+ PATH='I35',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(250,-100)',
+ VER='1',
+ ROT='3',
+ VALUE='RED',
+ PACK_TYPE='0805',
+ MANUF='ROHM',
+ KL_COMMENTS='-',
+ OL_COMMENTS='-',
+ PL_COMMENTS='-',
+ SIZE='1',
+ CDS_LIB='cds_discrete',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/led#2dsmd/chips/chips.prt~
+';
+
+PART_NAME
+ FS1 'FUSE-SMD_SMF-250MA,LITTELFUSE':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2_I54@CDS_SPECIAL.FUSE-SMD(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page2_i54@cds_special.\fuse-smd\(chips)~
+',
+ PATH='I54',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2',
+ XY='(-5250,-950)',
+ VER='1',
+ ROT='0',
+ PACK_TYPE='SMF',
+ VALUE='250MA',
+ MANUF='LITTELFUSE',
+ CDS_LIB='cds_special',
+ SIZE='1',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_special/fuse#2dsmd/chips/chips.prt~
+';
+
+PART_NAME
+ FS2 'FUSE-SMD_SMF-250MA,LITTELFUSE':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3_I54@CDS_SPECIAL.FUSE-SMD(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page3_i54@cds_special.\fuse-smd\(chips)~
+',
+ PATH='I54',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3',
+ XY='(-5250,-950)',
+ VER='1',
+ ROT='0',
+ PACK_TYPE='SMF',
+ VALUE='250MA',
+ MANUF='LITTELFUSE',
+ CDS_LIB='cds_special',
+ SIZE='1',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_special/fuse#2dsmd/chips/chips.prt~
+';
+
+PART_NAME
+ L1 'INDUCTOR_SMD-4.7U,MEC':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I90@CDS_DISCRETE.INDUCTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i90@cds_discrete.inductor(chips)',
+ PATH='I90',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(-5850,3400)',
+ VER='1',
+ ROT='0',
+ VALUE='4.7U',
+ PACK_TYPE='SMD',
+ MANUF='MEC',
+ CDS_LIB='cds_discrete',
+ KL_COMMENTS='-',
+ OL_COMMENTS='-',
+ PL_COMMENTS='-',
+ SIZE='1',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/inductor/chips/chips.prt';
+
+PART_NAME
+ L2 'INDUCTOR_SMD-1.0U,MEGGIT':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I86@CDS_DISCRETE.INDUCTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i86@cds_discrete.inductor(chips)',
+ PATH='I86',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(-3200,3400)',
+ VER='1',
+ ROT='0',
+ VALUE='1.0U',
+ PACK_TYPE='SMD',
+ MANUF='MEGGIT',
+ CDS_LIB='cds_discrete',
+ SIZE='1',
+ PL_COMMENTS='-',
+ OL_COMMENTS='-',
+ KL_COMMENTS='-',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/inductor/chips/chips.prt';
+
+PART_NAME
+ PL1 'HEADER2X1_STR-HARWIN':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I79@CDS_CONNECTORS.HEADER2X1(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i79@cds_connectors.header2x1(chip~
+s)',
+ PATH='I79',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(-2200,-350)',
+ VER='1',
+ ROT='1',
+ PL_COMMENTS='-',
+ KL_COMMENTS='-',
+ OL_COMMENTS='-',
+ SIZE='1',
+ CDS_LIB='cds_connectors',
+ MANUF='HARWIN',
+ PACK_TYPE='STR',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_connectors/header2x1/chips/chips.p~
+rt';
+
+PART_NAME
+ R1 'RESISTOR_0805-10R,1%,MULTICOMP':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I91@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i91@cds_discrete.resistor(chips)',
+ PATH='I91',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(-5850,3700)',
+ VER='1',
+ ROT='0',
+ TOLERANCE='1%',
+ VALUE='10R',
+ PACK_TYPE='0805',
+ SIZE='1',
+ CDS_LIB='cds_discrete',
+ MANUF='MULTICOMP',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R2 'RESISTOR_0603-100R,5%,ROHM':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I9@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i9@cds_discrete.resistor(chips)',
+ PATH='I9',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(-5800,900)',
+ VER='1',
+ ROT='1',
+ VALUE='100R',
+ PACK_TYPE='0603',
+ TOLERANCE='5%',
+ SIZE='1',
+ CDS_LIB='bris_cds_discrete',
+ MANUF='ROHM',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R3 'RESISTOR_0603-430R,1%,MULTICOMP':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I97@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i97@cds_discrete.resistor(chips)',
+ PATH='I97',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(-5400,3100)',
+ VER='1',
+ ROT='1',
+ VALUE='430R',
+ PACK_TYPE='0603',
+ TOLERANCE='1%',
+ MANUF='MULTICOMP',
+ CDS_LIB='cds_discrete',
+ SIZE='1',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R4 'RESISTOR_0603-1K0,1%,MULTICOMP':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I10@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i10@cds_discrete.resistor(chips)',
+ PATH='I10',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(-5400,550)',
+ VER='1',
+ ROT='1',
+ TOLERANCE='1%',
+ VALUE='1K0',
+ PACK_TYPE='0603',
+ SIZE='1',
+ CDS_LIB='bris_cds_discrete',
+ MANUF='MULTICOMP',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R5 'RESISTOR_0603-1K0,1%,MULTICOMP':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I11@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i11@cds_discrete.resistor(chips)',
+ PATH='I11',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(-5200,550)',
+ VER='1',
+ ROT='1',
+ TOLERANCE='1%',
+ VALUE='1K0',
+ PACK_TYPE='0603',
+ SIZE='1',
+ CDS_LIB='bris_cds_discrete',
+ MANUF='MULTICOMP',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R6 'RESISTOR_0603-270R,1%,MULTICOMP':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I17@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i17@cds_discrete.resistor(chips)',
+ PATH='I17',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(-4200,450)',
+ VER='1',
+ ROT='1',
+ PACK_TYPE='0603',
+ TOLERANCE='1%',
+ VALUE='270R',
+ SIZE='1',
+ MANUF='MULTICOMP',
+ CDS_LIB='bris_cds_discrete',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R7 'RESISTOR_0603-270R,1%,MULTICOMP':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I18@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i18@cds_discrete.resistor(chips)',
+ PATH='I18',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(-3950,450)',
+ VER='1',
+ ROT='1',
+ VALUE='270R',
+ PACK_TYPE='0603',
+ TOLERANCE='1%',
+ SIZE='1',
+ CDS_LIB='bris_cds_discrete',
+ MANUF='MULTICOMP',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R8 'RESISTOR_0603-220R,1%,MULTICOMP':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I21@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i21@cds_discrete.resistor(chips)',
+ PATH='I21',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(-3300,1200)',
+ VER='1',
+ ROT='1',
+ PACK_TYPE='0603',
+ VALUE='220R',
+ TOLERANCE='1%',
+ MANUF='MULTICOMP',
+ CDS_LIB='bris_cds_discrete',
+ SIZE='1',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R9 'RESISTOR_0603-68R,1%,MULTICOMP':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I19@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i19@cds_discrete.resistor(chips)',
+ PATH='I19',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(-3300,350)',
+ VER='1',
+ ROT='1',
+ TOLERANCE='1%',
+ PACK_TYPE='0603',
+ VALUE='68R',
+ MANUF='MULTICOMP',
+ CDS_LIB='bris_cds_discrete',
+ SIZE='1',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R10 'RESISTOR_0805-2R2,1%,MULTICOMP':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I87@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i87@cds_discrete.resistor(chips)',
+ PATH='I87',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(-3200,3200)',
+ VER='1',
+ ROT='0',
+ PACK_TYPE='0805',
+ TOLERANCE='1%',
+ VALUE='2R2',
+ MANUF='MULTICOMP',
+ CDS_LIB='cds_discrete',
+ SIZE='1',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R11 'RESISTOR_0603-220R,1%,MULTICOMP':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I22@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i22@cds_discrete.resistor(chips)',
+ PATH='I22',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(-3050,1200)',
+ VER='1',
+ ROT='1',
+ TOLERANCE='1%',
+ VALUE='220R',
+ PACK_TYPE='0603',
+ MANUF='MULTICOMP',
+ CDS_LIB='bris_cds_discrete',
+ SIZE='1',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R12 'RESISTOR_0603-68R,1%,MULTICOMP':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I20@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i20@cds_discrete.resistor(chips)',
+ PATH='I20',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(-3050,350)',
+ VER='1',
+ ROT='1',
+ PACK_TYPE='0603',
+ VALUE='68R',
+ TOLERANCE='1%',
+ MANUF='MULTICOMP',
+ CDS_LIB='bris_cds_discrete',
+ SIZE='1',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R13 'RESISTOR_0603-100R,1%,ROHM':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I28@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i28@cds_discrete.resistor(chips)',
+ PATH='I28',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(-2800,350)',
+ VER='1',
+ ROT='1',
+ VALUE='100R',
+ TOLERANCE='1%',
+ PACK_TYPE='0603',
+ SIZE='1',
+ MANUF='ROHM',
+ CDS_LIB='cds_discrete',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R14 'RESISTOR_0603-100R,1%,ROHM':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I96@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i96@cds_discrete.resistor(chips)',
+ PATH='I96',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(-2000,3000)',
+ VER='1',
+ ROT='1',
+ PACK_TYPE='0603',
+ TOLERANCE='1%',
+ VALUE='100R',
+ SIZE='1',
+ MANUF='ROHM',
+ CDS_LIB='cds_discrete',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R15 'RESISTOR_0603-100R,1%,ROHM':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I37@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i37@cds_discrete.resistor(chips)',
+ PATH='I37',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(250,-300)',
+ VER='1',
+ ROT='1',
+ PACK_TYPE='0603',
+ TOLERANCE='1%',
+ VALUE='100R',
+ SIZE='1',
+ MANUF='ROHM',
+ CDS_LIB='cds_discrete',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R16 'RESISTOR_0603-100R,1%,ROHM':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I62@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i62@cds_discrete.resistor(chips)',
+ PATH='I62',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(400,850)',
+ VER='1',
+ ROT='0',
+ VALUE='100R',
+ TOLERANCE='1%',
+ PACK_TYPE='0603',
+ MANUF='ROHM',
+ SIZE='1',
+ CDS_LIB='cds_discrete',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R17 'RESISTOR_0603-1K0,1%,MULTICOMP':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I52@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i52@cds_discrete.resistor(chips)',
+ PATH='I52',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(1150,1150)',
+ VER='1',
+ ROT='1',
+ TOLERANCE='1%',
+ VALUE='1K0',
+ PACK_TYPE='0603',
+ SIZE='1',
+ CDS_LIB='bris_cds_discrete',
+ MANUF='MULTICOMP',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R18 'RESISTOR_0603-1K0,1%,MULTICOMP':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I51@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i51@cds_discrete.resistor(chips)',
+ PATH='I51',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(1400,1150)',
+ VER='1',
+ ROT='1',
+ TOLERANCE='1%',
+ PACK_TYPE='0603',
+ VALUE='1K0',
+ MANUF='MULTICOMP',
+ CDS_LIB='bris_cds_discrete',
+ SIZE='1',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R19 'RESISTOR_0603-270R,1%,MULTICOMP':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I65@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i65@cds_discrete.resistor(chips)',
+ PATH='I65',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(3100,-700)',
+ VER='1',
+ ROT='1',
+ PACK_TYPE='0603',
+ VALUE='270R',
+ TOLERANCE='1%',
+ CDS_LIB='bris_cds_discrete',
+ MANUF='MULTICOMP',
+ SIZE='1',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R20 'RESISTOR_0603-270R,1%,MULTICOMP':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I63@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i63@cds_discrete.resistor(chips)',
+ PATH='I63',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(3350,-700)',
+ VER='1',
+ ROT='1',
+ TOLERANCE='1%',
+ VALUE='270R',
+ PACK_TYPE='0603',
+ CDS_LIB='bris_cds_discrete',
+ SIZE='1',
+ MANUF='MULTICOMP',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R21 'RESISTOR_0603-270R,1%,MULTICOMP':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I58@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i58@cds_discrete.resistor(chips)',
+ PATH='I58',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(3550,600)',
+ VER='1',
+ ROT='1',
+ PACK_TYPE='0603',
+ VALUE='270R',
+ TOLERANCE='1%',
+ MANUF='MULTICOMP',
+ SIZE='1',
+ CDS_LIB='bris_cds_discrete',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R22 'RESISTOR_0603-270R,1%,MULTICOMP':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I57@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i57@cds_discrete.resistor(chips)',
+ PATH='I57',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(3800,600)',
+ VER='1',
+ ROT='1',
+ PACK_TYPE='0603',
+ TOLERANCE='1%',
+ VALUE='270R',
+ SIZE='1',
+ MANUF='MULTICOMP',
+ CDS_LIB='bris_cds_discrete',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R23 'RESISTOR_0805-1K0,1%,CAT':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3_I84@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page3_i84@cds_discrete.resistor(chips)',
+ PATH='I84',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3',
+ XY='(-4800,2000)',
+ VER='1',
+ ROT='1',
+ TOLERANCE='1%',
+ VALUE='1K0',
+ PACK_TYPE='0805',
+ SIZE='1',
+ CDS_LIB='cds_discrete',
+ MANUF='CAT',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R24 'RESISTOR_0805-1K0,1%,CAT':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3_I85@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page3_i85@cds_discrete.resistor(chips)',
+ PATH='I85',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3',
+ XY='(-4600,2000)',
+ VER='1',
+ ROT='1',
+ TOLERANCE='1%',
+ VALUE='1K0',
+ PACK_TYPE='0805',
+ SIZE='1',
+ CDS_LIB='cds_discrete',
+ MANUF='CAT',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R25 'RESISTOR_0805-1K0,1%,CAT':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3_I86@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page3_i86@cds_discrete.resistor(chips)',
+ PATH='I86',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3',
+ XY='(-4550,1150)',
+ VER='1',
+ ROT='1',
+ TOLERANCE='1%',
+ VALUE='1K0',
+ PACK_TYPE='0805',
+ SIZE='1',
+ CDS_LIB='cds_discrete',
+ MANUF='CAT',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R26 'RESISTOR_0805-56R,1%,MULTICOMP':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3_I76@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page3_i76@cds_discrete.resistor(chips)',
+ PATH='I76',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3',
+ XY='(-4450,1650)',
+ VER='1',
+ ROT='0',
+ PACK_TYPE='0805',
+ VALUE='56R',
+ TOLERANCE='1%',
+ CDS_LIB='cds_discrete',
+ SIZE='1',
+ MANUF='MULTICOMP',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R27 'RESISTOR_0805-56R,1%,MULTICOMP':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3_I77@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page3_i77@cds_discrete.resistor(chips)',
+ PATH='I77',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3',
+ XY='(-4150,1600)',
+ VER='1',
+ ROT='0',
+ TOLERANCE='1%',
+ VALUE='56R',
+ PACK_TYPE='0805',
+ CDS_LIB='cds_discrete',
+ MANUF='MULTICOMP',
+ SIZE='1',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R28 'RESISTOR_0805-33R,1%,MULTICOMP':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3_I78@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page3_i78@cds_discrete.resistor(chips)',
+ PATH='I78',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3',
+ XY='(-4150,1450)',
+ VER='1',
+ ROT='0',
+ TOLERANCE='1%',
+ VALUE='33R',
+ PACK_TYPE='0805',
+ SIZE='1',
+ CDS_LIB='cds_discrete',
+ MANUF='MULTICOMP',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R29 'RESISTOR_0805-20R,1%,MULTICOMP':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3_I96@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page3_i96@cds_discrete.resistor(chips)',
+ PATH='I96',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3',
+ XY='(2600,1450)',
+ VER='1',
+ ROT='0',
+ TOLERANCE='1%',
+ VALUE='20R',
+ PACK_TYPE='0805',
+ SIZE='1',
+ CDS_LIB='cds_discrete',
+ MANUF='MULTICOMP',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R30 'RESISTOR_0805-10R,1%,MULTICOMP':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3_I98@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page3_i98@cds_discrete.resistor(chips)',
+ PATH='I98',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3',
+ XY='(2650,1650)',
+ VER='1',
+ ROT='0',
+ TOLERANCE='1%',
+ VALUE='10R',
+ PACK_TYPE='0805',
+ SIZE='1',
+ CDS_LIB='cds_discrete',
+ MANUF='MULTICOMP',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R31 'RESISTOR_0805-10R,1%,MULTICOMP':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3_I97@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page3_i97@cds_discrete.resistor(chips)',
+ PATH='I97',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3',
+ XY='(2850,1600)',
+ VER='1',
+ ROT='0',
+ TOLERANCE='1%',
+ VALUE='10R',
+ PACK_TYPE='0805',
+ SIZE='1',
+ CDS_LIB='cds_discrete',
+ MANUF='MULTICOMP',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R32 'RESISTOR_0805-1K0,1%,CAT':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3_I81@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page3_i81@cds_discrete.resistor(chips)',
+ PATH='I81',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3',
+ XY='(2900,1900)',
+ VER='1',
+ ROT='1',
+ TOLERANCE='1%',
+ VALUE='1K0',
+ PACK_TYPE='0805',
+ SIZE='1',
+ CDS_LIB='cds_discrete',
+ MANUF='CAT',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R33 'RESISTOR_0805-1K0,1%,CAT':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3_I82@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page3_i82@cds_discrete.resistor(chips)',
+ PATH='I82',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3',
+ XY='(3100,1900)',
+ VER='1',
+ ROT='1',
+ TOLERANCE='1%',
+ VALUE='1K0',
+ PACK_TYPE='0805',
+ SIZE='1',
+ CDS_LIB='cds_discrete',
+ MANUF='CAT',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R34 'RESISTOR_0805-1K0,1%,CAT':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3_I83@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page3_i83@cds_discrete.resistor(chips)',
+ PATH='I83',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3',
+ XY='(3100,1100)',
+ VER='1',
+ ROT='1',
+ TOLERANCE='1%',
+ VALUE='1K0',
+ PACK_TYPE='0805',
+ SIZE='1',
+ CDS_LIB='cds_discrete',
+ MANUF='CAT',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R35 'RESISTOR_0805-1K0,1%,CAT':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2_I64@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page2_i64@cds_discrete.resistor(chips)',
+ PATH='I64',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2',
+ XY='(-1350,3200)',
+ VER='1',
+ ROT='1',
+ TOLERANCE='1%',
+ VALUE='1K0',
+ PACK_TYPE='0805',
+ SIZE='1',
+ CDS_LIB='cds_discrete',
+ MANUF='CAT',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R36 'RESISTOR_0603-270R,1%,MULTICOMP':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2_I73@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page2_i73@cds_discrete.resistor(chips)',
+ PATH='I73',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2',
+ XY='(-550,0)',
+ VER='1',
+ ROT='1',
+ TOLERANCE='1%',
+ PACK_TYPE='0603',
+ VALUE='270R',
+ MANUF='MULTICOMP',
+ SIZE='1',
+ CDS_LIB='cds_discrete',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R37 'RESISTOR_0603-270R,1%,MULTICOMP':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2_I88@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page2_i88@cds_discrete.resistor(chips)',
+ PATH='I88',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2',
+ XY='(-300,0)',
+ VER='1',
+ ROT='1',
+ TOLERANCE='1%',
+ PACK_TYPE='0603',
+ VALUE='270R',
+ CDS_LIB='cds_discrete',
+ MANUF='MULTICOMP',
+ SIZE='1',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R38 'RESISTOR_0603-270R,1%,MULTICOMP':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2_I87@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page2_i87@cds_discrete.resistor(chips)',
+ PATH='I87',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2',
+ XY='(-50,0)',
+ VER='1',
+ ROT='1',
+ TOLERANCE='1%',
+ PACK_TYPE='0603',
+ VALUE='270R',
+ CDS_LIB='cds_discrete',
+ MANUF='MULTICOMP',
+ SIZE='1',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R39 'RESISTOR_0603-270R,1%,MULTICOMP':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2_I86@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page2_i86@cds_discrete.resistor(chips)',
+ PATH='I86',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2',
+ XY='(200,0)',
+ VER='1',
+ ROT='1',
+ TOLERANCE='1%',
+ PACK_TYPE='0603',
+ VALUE='270R',
+ CDS_LIB='cds_discrete',
+ MANUF='MULTICOMP',
+ SIZE='1',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R40 'RESISTOR_0603-270R,1%,MULTICOMP':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2_I85@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page2_i85@cds_discrete.resistor(chips)',
+ PATH='I85',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2',
+ XY='(450,0)',
+ VER='1',
+ ROT='1',
+ TOLERANCE='1%',
+ PACK_TYPE='0603',
+ VALUE='270R',
+ CDS_LIB='cds_discrete',
+ MANUF='MULTICOMP',
+ SIZE='1',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R41 'RESISTOR_0603-270R,1%,MULTICOMP':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2_I84@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page2_i84@cds_discrete.resistor(chips)',
+ PATH='I84',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2',
+ XY='(700,0)',
+ VER='1',
+ ROT='1',
+ TOLERANCE='1%',
+ PACK_TYPE='0603',
+ VALUE='270R',
+ CDS_LIB='cds_discrete',
+ MANUF='MULTICOMP',
+ SIZE='1',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R42 'RESISTOR_0603-270R,1%,MULTICOMP':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2_I83@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page2_i83@cds_discrete.resistor(chips)',
+ PATH='I83',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2',
+ XY='(950,0)',
+ VER='1',
+ ROT='1',
+ TOLERANCE='1%',
+ PACK_TYPE='0603',
+ VALUE='270R',
+ CDS_LIB='cds_discrete',
+ MANUF='MULTICOMP',
+ SIZE='1',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R43 'RESISTOR_0603-270R,1%,MULTICOMP':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2_I82@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page2_i82@cds_discrete.resistor(chips)',
+ PATH='I82',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2',
+ XY='(1200,0)',
+ VER='1',
+ ROT='1',
+ TOLERANCE='1%',
+ PACK_TYPE='0603',
+ VALUE='270R',
+ CDS_LIB='cds_discrete',
+ MANUF='MULTICOMP',
+ SIZE='1',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R44 'RESISTOR_0603-270R,1%,MULTICOMP':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2_I81@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page2_i81@cds_discrete.resistor(chips)',
+ PATH='I81',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2',
+ XY='(1450,0)',
+ VER='1',
+ ROT='1',
+ TOLERANCE='1%',
+ PACK_TYPE='0603',
+ VALUE='270R',
+ CDS_LIB='cds_discrete',
+ MANUF='MULTICOMP',
+ SIZE='1',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R45 'RESISTOR_0603-270R,1%,MULTICOMP':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2_I80@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page2_i80@cds_discrete.resistor(chips)',
+ PATH='I80',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2',
+ XY='(1700,0)',
+ VER='1',
+ ROT='1',
+ TOLERANCE='1%',
+ PACK_TYPE='0603',
+ VALUE='270R',
+ CDS_LIB='cds_discrete',
+ MANUF='MULTICOMP',
+ SIZE='1',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R46 'RESISTOR_0603-270R,1%,MULTICOMP':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2_I79@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page2_i79@cds_discrete.resistor(chips)',
+ PATH='I79',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2',
+ XY='(1950,0)',
+ VER='1',
+ ROT='1',
+ TOLERANCE='1%',
+ PACK_TYPE='0603',
+ VALUE='270R',
+ CDS_LIB='cds_discrete',
+ MANUF='MULTICOMP',
+ SIZE='1',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R47 'RESISTOR_0603-270R,1%,MULTICOMP':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2_I78@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page2_i78@cds_discrete.resistor(chips)',
+ PATH='I78',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2',
+ XY='(2200,0)',
+ VER='1',
+ ROT='1',
+ TOLERANCE='1%',
+ PACK_TYPE='0603',
+ VALUE='270R',
+ CDS_LIB='cds_discrete',
+ MANUF='MULTICOMP',
+ SIZE='1',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R48 'RESISTOR_0603-270R,1%,MULTICOMP':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3_I99@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page3_i99@cds_discrete.resistor(chips)',
+ PATH='I99',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3',
+ XY='(-4900,3550)',
+ VER='1',
+ ROT='1',
+ VALUE='270R',
+ PACK_TYPE='0603',
+ TOLERANCE='1%',
+ CDS_LIB='cds_discrete',
+ SIZE='1',
+ MANUF='MULTICOMP',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R49 'RESISTOR_0603-270R,1%,MULTICOMP':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3_I114@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page3_i114@cds_discrete.resistor(chips)~
+',
+ PATH='I114',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3',
+ XY='(-4700,3550)',
+ VER='1',
+ ROT='1',
+ VALUE='270R',
+ PACK_TYPE='0603',
+ TOLERANCE='1%',
+ SIZE='1',
+ MANUF='MULTICOMP',
+ CDS_LIB='cds_discrete',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R50 'RESISTOR_0603-270R,1%,MULTICOMP':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3_I113@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page3_i113@cds_discrete.resistor(chips)~
+',
+ PATH='I113',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3',
+ XY='(-4500,3550)',
+ VER='1',
+ ROT='1',
+ VALUE='270R',
+ PACK_TYPE='0603',
+ TOLERANCE='1%',
+ SIZE='1',
+ MANUF='MULTICOMP',
+ CDS_LIB='cds_discrete',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R51 'RESISTOR_0603-270R,1%,MULTICOMP':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3_I112@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page3_i112@cds_discrete.resistor(chips)~
+',
+ PATH='I112',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3',
+ XY='(-4300,3550)',
+ VER='1',
+ ROT='1',
+ VALUE='270R',
+ PACK_TYPE='0603',
+ TOLERANCE='1%',
+ SIZE='1',
+ MANUF='MULTICOMP',
+ CDS_LIB='cds_discrete',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R52 'RESISTOR_0603-270R,1%,MULTICOMP':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3_I111@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page3_i111@cds_discrete.resistor(chips)~
+',
+ PATH='I111',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3',
+ XY='(-4100,3550)',
+ VER='1',
+ ROT='1',
+ VALUE='270R',
+ PACK_TYPE='0603',
+ TOLERANCE='1%',
+ SIZE='1',
+ MANUF='MULTICOMP',
+ CDS_LIB='cds_discrete',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R53 'RESISTOR_0603-270R,1%,MULTICOMP':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3_I110@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page3_i110@cds_discrete.resistor(chips)~
+',
+ PATH='I110',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3',
+ XY='(-3900,3550)',
+ VER='1',
+ ROT='1',
+ VALUE='270R',
+ PACK_TYPE='0603',
+ TOLERANCE='1%',
+ SIZE='1',
+ MANUF='MULTICOMP',
+ CDS_LIB='cds_discrete',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R54 'RESISTOR_0603-270R,1%,MULTICOMP':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3_I109@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page3_i109@cds_discrete.resistor(chips)~
+',
+ PATH='I109',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3',
+ XY='(-3700,3550)',
+ VER='1',
+ ROT='1',
+ VALUE='270R',
+ PACK_TYPE='0603',
+ TOLERANCE='1%',
+ SIZE='1',
+ MANUF='MULTICOMP',
+ CDS_LIB='cds_discrete',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R55 'RESISTOR_0603-270R,1%,MULTICOMP':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3_I108@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page3_i108@cds_discrete.resistor(chips)~
+',
+ PATH='I108',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3',
+ XY='(-3500,3550)',
+ VER='1',
+ ROT='1',
+ VALUE='270R',
+ PACK_TYPE='0603',
+ TOLERANCE='1%',
+ SIZE='1',
+ MANUF='MULTICOMP',
+ CDS_LIB='cds_discrete',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R56 'RESISTOR_0603-270R,1%,MULTICOMP':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3_I107@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page3_i107@cds_discrete.resistor(chips)~
+',
+ PATH='I107',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3',
+ XY='(-3300,3550)',
+ VER='1',
+ ROT='1',
+ VALUE='270R',
+ PACK_TYPE='0603',
+ TOLERANCE='1%',
+ SIZE='1',
+ MANUF='MULTICOMP',
+ CDS_LIB='cds_discrete',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R57 'RESISTOR_0603-270R,1%,MULTICOMP':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3_I106@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page3_i106@cds_discrete.resistor(chips)~
+',
+ PATH='I106',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3',
+ XY='(-3100,3550)',
+ VER='1',
+ ROT='1',
+ VALUE='270R',
+ PACK_TYPE='0603',
+ TOLERANCE='1%',
+ SIZE='1',
+ MANUF='MULTICOMP',
+ CDS_LIB='cds_discrete',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R58 'RESISTOR_0603-270R,1%,MULTICOMP':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3_I105@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page3_i105@cds_discrete.resistor(chips)~
+',
+ PATH='I105',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3',
+ XY='(-2900,3550)',
+ VER='1',
+ ROT='1',
+ VALUE='270R',
+ PACK_TYPE='0603',
+ TOLERANCE='1%',
+ SIZE='1',
+ MANUF='MULTICOMP',
+ CDS_LIB='cds_discrete',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R59 'RESISTOR_0603-270R,1%,MULTICOMP':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3_I104@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page3_i104@cds_discrete.resistor(chips)~
+',
+ PATH='I104',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3',
+ XY='(-2700,3550)',
+ VER='1',
+ ROT='1',
+ VALUE='270R',
+ PACK_TYPE='0603',
+ TOLERANCE='1%',
+ SIZE='1',
+ MANUF='MULTICOMP',
+ CDS_LIB='cds_discrete',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R60 'RESISTOR_0603-270R,1%,MULTICOMP':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3_I103@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page3_i103@cds_discrete.resistor(chips)~
+',
+ PATH='I103',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3',
+ XY='(-2500,3550)',
+ VER='1',
+ ROT='1',
+ VALUE='270R',
+ PACK_TYPE='0603',
+ TOLERANCE='1%',
+ SIZE='1',
+ MANUF='MULTICOMP',
+ CDS_LIB='cds_discrete',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R61 'RESISTOR_0603-270R,1%,MULTICOMP':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3_I102@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page3_i102@cds_discrete.resistor(chips)~
+',
+ PATH='I102',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3',
+ XY='(-2300,3550)',
+ VER='1',
+ ROT='1',
+ VALUE='270R',
+ PACK_TYPE='0603',
+ TOLERANCE='1%',
+ SIZE='1',
+ MANUF='MULTICOMP',
+ CDS_LIB='cds_discrete',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R62 'RESISTOR_0603-270R,1%,MULTICOMP':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3_I101@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page3_i101@cds_discrete.resistor(chips)~
+',
+ PATH='I101',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3',
+ XY='(-2100,3550)',
+ VER='1',
+ ROT='1',
+ VALUE='270R',
+ PACK_TYPE='0603',
+ TOLERANCE='1%',
+ SIZE='1',
+ MANUF='MULTICOMP',
+ CDS_LIB='cds_discrete',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R63 'RESISTOR_0603-270R,1%,MULTICOMP':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3_I100@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page3_i100@cds_discrete.resistor(chips)~
+',
+ PATH='I100',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3',
+ XY='(-1900,3550)',
+ VER='1',
+ ROT='1',
+ VALUE='270R',
+ PACK_TYPE='0603',
+ TOLERANCE='1%',
+ SIZE='1',
+ MANUF='MULTICOMP',
+ CDS_LIB='cds_discrete',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R64 'RESISTOR_0603-120R,1%,MULTICOMP':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2_I90@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page2_i90@cds_discrete.resistor(chips)',
+ PATH='I90',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2',
+ XY='(-5550,2150)',
+ VER='1',
+ ROT='0',
+ PACK_TYPE='0603',
+ TOLERANCE='1%',
+ VALUE='120R',
+ CDS_LIB='cds_discrete',
+ SIZE='1',
+ MANUF='MULTICOMP',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R65 'RESISTOR_0603-120R,1%,MULTICOMP':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2_I92@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page2_i92@cds_discrete.resistor(chips)',
+ PATH='I92',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2',
+ XY='(-5550,1850)',
+ VER='1',
+ ROT='0',
+ PACK_TYPE='0603',
+ TOLERANCE='1%',
+ VALUE='120R',
+ CDS_LIB='cds_discrete',
+ SIZE='1',
+ MANUF='MULTICOMP',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R66 'RESISTOR_0603-120R,1%,MULTICOMP':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2_I94@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page2_i94@cds_discrete.resistor(chips)',
+ PATH='I94',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2',
+ XY='(-5550,1550)',
+ VER='1',
+ ROT='0',
+ VALUE='120R',
+ TOLERANCE='1%',
+ PACK_TYPE='0603',
+ MANUF='MULTICOMP',
+ SIZE='1',
+ CDS_LIB='cds_discrete',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R67 'RESISTOR_0603-120R,1%,MULTICOMP':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2_I89@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page2_i89@cds_discrete.resistor(chips)',
+ PATH='I89',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2',
+ XY='(-5150,2350)',
+ VER='1',
+ ROT='0',
+ VALUE='120R',
+ TOLERANCE='1%',
+ PACK_TYPE='0603',
+ CDS_LIB='cds_discrete',
+ MANUF='MULTICOMP',
+ SIZE='1',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R68 'RESISTOR_0603-120R,1%,MULTICOMP':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2_I93@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page2_i93@cds_discrete.resistor(chips)',
+ PATH='I93',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2',
+ XY='(-5000,1850)',
+ VER='1',
+ ROT='0',
+ VALUE='120R',
+ TOLERANCE='1%',
+ PACK_TYPE='0603',
+ CDS_LIB='cds_discrete',
+ MANUF='MULTICOMP',
+ SIZE='1',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ R69 'RESISTOR_0603-120R,1%,MULTICOMP':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2_I91@CDS_DISCRETE.RESISTOR(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page2_i91@cds_discrete.resistor(chips)',
+ PATH='I91',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2',
+ XY='(-4850,2150)',
+ VER='1',
+ ROT='0',
+ VALUE='120R',
+ TOLERANCE='1%',
+ PACK_TYPE='0603',
+ CDS_LIB='cds_discrete',
+ MANUF='MULTICOMP',
+ SIZE='1',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor/chips/chips.prt';
+
+PART_NAME
+ RN1 'RESISTOR-NET-7C_SIL-1K,2%,BOURA':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I80@CDS_DISCRETE.RESISTOR-NET-7C(CHIPS)'(6):
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i80(6)@cds_discrete.\resistor-net~
+-7c\(chips)',
+ PATH='I80',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(-2950,-500)',
+ VER='2',
+ ROT='0',
+ VALUE='1K',
+ PL_COMMENTS='-',
+ OL_COMMENTS='-',
+ KL_COMMENTS='-',
+ HAS_FIXED_SIZE='7',
+ CDS_LIB='cds_discrete',
+ MANUF='BOURNS',
+ TOLERANCE='2%',
+ PACK_TYPE='SIL',
+ SIZE='7',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor#2dnet#2d7c/chips~
+/chips.prt';
+
+SECTION_NUMBER 2
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I80@CDS_DISCRETE.RESISTOR-NET-7C(CHIPS)'(5):
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i80(5)@cds_discrete.\resistor-net~
+-7c\(chips)',
+ PATH='I80',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(-2950,-500)',
+ VER='2',
+ ROT='0',
+ VALUE='1K',
+ PL_COMMENTS='-',
+ OL_COMMENTS='-',
+ KL_COMMENTS='-',
+ HAS_FIXED_SIZE='7',
+ CDS_LIB='cds_discrete',
+ MANUF='BOURNS',
+ TOLERANCE='2%',
+ PACK_TYPE='SIL',
+ SIZE='7',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor#2dnet#2d7c/chips~
+/chips.prt';
+
+SECTION_NUMBER 3
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I80@CDS_DISCRETE.RESISTOR-NET-7C(CHIPS)'(4):
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i80(4)@cds_discrete.\resistor-net~
+-7c\(chips)',
+ PATH='I80',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(-2950,-500)',
+ VER='2',
+ ROT='0',
+ VALUE='1K',
+ PL_COMMENTS='-',
+ OL_COMMENTS='-',
+ KL_COMMENTS='-',
+ HAS_FIXED_SIZE='7',
+ CDS_LIB='cds_discrete',
+ MANUF='BOURNS',
+ TOLERANCE='2%',
+ PACK_TYPE='SIL',
+ SIZE='7',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor#2dnet#2d7c/chips~
+/chips.prt';
+
+SECTION_NUMBER 4
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I80@CDS_DISCRETE.RESISTOR-NET-7C(CHIPS)'(3):
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i80(3)@cds_discrete.\resistor-net~
+-7c\(chips)',
+ PATH='I80',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(-2950,-500)',
+ VER='2',
+ ROT='0',
+ VALUE='1K',
+ PL_COMMENTS='-',
+ OL_COMMENTS='-',
+ KL_COMMENTS='-',
+ HAS_FIXED_SIZE='7',
+ CDS_LIB='cds_discrete',
+ MANUF='BOURNS',
+ TOLERANCE='2%',
+ PACK_TYPE='SIL',
+ SIZE='7',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor#2dnet#2d7c/chips~
+/chips.prt';
+
+SECTION_NUMBER 5
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I80@CDS_DISCRETE.RESISTOR-NET-7C(CHIPS)'(2):
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i80(2)@cds_discrete.\resistor-net~
+-7c\(chips)',
+ PATH='I80',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(-2950,-500)',
+ VER='2',
+ ROT='0',
+ VALUE='1K',
+ PL_COMMENTS='-',
+ OL_COMMENTS='-',
+ KL_COMMENTS='-',
+ HAS_FIXED_SIZE='7',
+ CDS_LIB='cds_discrete',
+ MANUF='BOURNS',
+ TOLERANCE='2%',
+ PACK_TYPE='SIL',
+ SIZE='7',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor#2dnet#2d7c/chips~
+/chips.prt';
+
+SECTION_NUMBER 6
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I80@CDS_DISCRETE.RESISTOR-NET-7C(CHIPS)'(1):
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i80(1)@cds_discrete.\resistor-net~
+-7c\(chips)',
+ PATH='I80',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(-2950,-500)',
+ VER='2',
+ ROT='0',
+ VALUE='1K',
+ PL_COMMENTS='-',
+ OL_COMMENTS='-',
+ KL_COMMENTS='-',
+ HAS_FIXED_SIZE='7',
+ CDS_LIB='cds_discrete',
+ MANUF='BOURNS',
+ TOLERANCE='2%',
+ PACK_TYPE='SIL',
+ SIZE='7',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor#2dnet#2d7c/chips~
+/chips.prt';
+
+SECTION_NUMBER 7
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I80@CDS_DISCRETE.RESISTOR-NET-7C(CHIPS)'(0):
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i80(0)@cds_discrete.\resistor-net~
+-7c\(chips)',
+ PATH='I80',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(-2950,-500)',
+ VER='2',
+ ROT='0',
+ VALUE='1K',
+ PL_COMMENTS='-',
+ OL_COMMENTS='-',
+ KL_COMMENTS='-',
+ HAS_FIXED_SIZE='7',
+ CDS_LIB='cds_discrete',
+ MANUF='BOURNS',
+ TOLERANCE='2%',
+ PACK_TYPE='SIL',
+ SIZE='7',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/resistor#2dnet#2d7c/chips~
+/chips.prt';
+
+PART_NAME
+ SK1 'TERM-BLK-3_STR-LUMBERG':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I93@CDS_CONNECTORS.TERM-BLK-3(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i93@cds_connectors.\term-blk-3\(c~
+hips)',
+ PATH='I93',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(-6550,3400)',
+ VER='1',
+ ROT='2',
+ KL_COMMENTS='-',
+ OL_COMMENTS='-',
+ PL_COMMENTS='-',
+ SIZE='1',
+ CDS_LIB='cds_connectors',
+ MANUF='LUMBERG',
+ PACK_TYPE='STR',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_connectors/term#2dblk#2d3/chips/ch~
+ips.prt';
+
+PART_NAME
+ SK2 'SK-LEMO0B-2F-PCB_RT-ANG-LEMO':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I85@CDS_CONNECTORS.SK-LEMO0B-2F-PCB(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i85@cds_connectors.\sk-lemo0b-2f-~
+pcb\(chips)',
+ PATH='I85',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(-6250,950)',
+ VER='1',
+ ROT='2',
+ CDS_LIB='cds_connectors',
+ PACK_TYPE='RT-ANG',
+ MANUF='LEMO',
+ SIZE='1',
+ PL_COMMENTS='-',
+ OL_COMMENTS='-',
+ KL_COMMENTS='-',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_connectors/sk#2dlemo0b#2d2f#2dpcb/~
+chips/chips.prt';
+
+PART_NAME
+ SK3 'SK-LEMO0B-2F-PCB_RT-ANG-LEMO':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I83@CDS_CONNECTORS.SK-LEMO0B-2F-PCB(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i83@cds_connectors.\sk-lemo0b-2f-~
+pcb\(chips)',
+ PATH='I83',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(50,2200)',
+ VER='1',
+ ROT='0',
+ KL_COMMENTS='-',
+ OL_COMMENTS='-',
+ PL_COMMENTS='-',
+ SIZE='1',
+ MANUF='LEMO',
+ PACK_TYPE='RT-ANG',
+ CDS_LIB='cds_connectors',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_connectors/sk#2dlemo0b#2d2f#2dpcb/~
+chips/chips.prt';
+
+PART_NAME
+ SK4 'SK-LEMO0B-2F-PCB_RT-ANG-LEMO':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I84@CDS_CONNECTORS.SK-LEMO0B-2F-PCB(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i84@cds_connectors.\sk-lemo0b-2f-~
+pcb\(chips)',
+ PATH='I84',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(50,1850)',
+ VER='1',
+ ROT='0',
+ KL_COMMENTS='-',
+ OL_COMMENTS='-',
+ PL_COMMENTS='-',
+ SIZE='1',
+ CDS_LIB='cds_connectors',
+ MANUF='LEMO',
+ PACK_TYPE='RT-ANG',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_connectors/sk#2dlemo0b#2d2f#2dpcb/~
+chips/chips.prt';
+
+PART_NAME
+ SK5 'SK-LEMO0B-2F-PCB_RT-ANG-LEMO':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I82@CDS_CONNECTORS.SK-LEMO0B-2F-PCB(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i82@cds_connectors.\sk-lemo0b-2f-~
+pcb\(chips)',
+ PATH='I82',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(4150,1000)',
+ VER='1',
+ ROT='0',
+ SIZE='1',
+ PL_COMMENTS='-',
+ OL_COMMENTS='-',
+ KL_COMMENTS='-',
+ CDS_LIB='cds_connectors',
+ MANUF='LEMO',
+ PACK_TYPE='RT-ANG',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_connectors/sk#2dlemo0b#2d2f#2dpcb/~
+chips/chips.prt';
+
+PART_NAME
+ SK6 'SK-LEMO-00_RT-ANG-EPL,LEMO':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I81@CDS_CONNECTORS.SK-LEMO-00(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i81@cds_connectors.\sk-lemo-00\(c~
+hips)',
+ PATH='I81',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(4200,-200)',
+ VER='1',
+ ROT='0',
+ VALUE='EPL',
+ PL_COMMENTS='-',
+ OL_COMMENTS='-',
+ KL_COMMENTS='-',
+ CDS_LIB='cds_connectors',
+ MANUF='LEMO',
+ PACK_TYPE='RT-ANG',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_connectors/sk#2dlemo#2d00/chips/ch~
+ips.prt';
+
+PART_NAME
+ SK7 'PL-AMP-050-68_RT-ANG-AMP':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2_I2@CDS_CONNECTORS.PL-AMP-050-68(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page2_i2@cds_connectors.\pl-amp-050-68\~
+(chips)',
+ PATH='I2',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2',
+ XY='(-6250,1500)',
+ VER='1',
+ ROT='2',
+ PACK_TYPE='RT-ANG',
+ MANUF='AMP',
+ CDS_LIB='cds_connectors',
+ SIZE='1',
+ OL_COMMENTS='-',
+ KL_COMMENTS='-',
+ PL_COMMENTS='-',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_connectors/pl#2damp#2d050#2d68/chi~
+ps/chips.prt';
+
+PART_NAME
+ SK8 'TERM-BLK-3_STR-LUMBERG':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2_I14@CDS_CONNECTORS.TERM-BLK-3(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page2_i14@cds_connectors.\term-blk-3\(c~
+hips)',
+ PATH='I14',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2',
+ XY='(-5450,-950)',
+ VER='1',
+ ROT='2',
+ PACK_TYPE='STR',
+ MANUF='LUMBERG',
+ CDS_LIB='cds_connectors',
+ SIZE='1',
+ PL_COMMENTS='-',
+ OL_COMMENTS='-',
+ KL_COMMENTS='-',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_connectors/term#2dblk#2d3/chips/ch~
+ips.prt';
+
+PART_NAME
+ SK9 'SK-AMP-050-68_RT-ANG-787190-7,A':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2_I3@CDS_CONNECTORS.SK-AMP-050-68(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page2_i3@cds_connectors.\sk-amp-050-68\~
+(chips)',
+ PATH='I3',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2',
+ XY='(4550,2500)',
+ VER='1',
+ ROT='0',
+ VALUE='787190-7',
+ PACK_TYPE='RT-ANG',
+ MANUF='AMPLIMITE',
+ CDS_LIB='cds_connectors',
+ SIZE='1',
+ OL_COMMENTS='-',
+ KL_COMMENTS='-',
+ PL_COMMENTS='-',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_connectors/sk#2damp#2d050#2d68/chi~
+ps/chips.prt';
+
+PART_NAME
+ SK10 'SK-AMP-050-68_RT-ANG-787190-7,A':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3_I73@CDS_CONNECTORS.SK-AMP-050-68(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page3_i73@cds_connectors.\sk-amp-050-68~
+\(chips)',
+ PATH='I73',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3',
+ XY='(-5550,3850)',
+ VER='1',
+ ROT='2',
+ VALUE='787190-7',
+ SIZE='1',
+ OL_COMMENTS='-',
+ KL_COMMENTS='-',
+ PL_COMMENTS='-',
+ CDS_LIB='cds_connectors',
+ MANUF='AMPLIMITE',
+ PACK_TYPE='RT-ANG',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_connectors/sk#2damp#2d050#2d68/chi~
+ps/chips.prt';
+
+PART_NAME
+ SK11 'TERM-BLK-3_STR-LUMBERG':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3_I14@CDS_CONNECTORS.TERM-BLK-3(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page3_i14@cds_connectors.\term-blk-3\(c~
+hips)',
+ PATH='I14',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3',
+ XY='(-5450,-950)',
+ VER='1',
+ ROT='2',
+ KL_COMMENTS='-',
+ OL_COMMENTS='-',
+ PL_COMMENTS='-',
+ SIZE='1',
+ CDS_LIB='cds_connectors',
+ MANUF='LUMBERG',
+ PACK_TYPE='STR',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_connectors/term#2dblk#2d3/chips/ch~
+ips.prt';
+
+PART_NAME
+ SK12 'SK-SMA-PCB_STR-RS':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3_I87@CDS_CONNECTORS.SK-SMA-PCB(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page3_i87@cds_connectors.\sk-sma-pcb\(c~
+hips)',
+ PATH='I87',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3',
+ XY='(-4250,950)',
+ VER='1',
+ ROT='2',
+ KL_COMMENTS='-',
+ OL_COMMENTS='-',
+ PL_COMMENTS='-',
+ SIZE='1',
+ CDS_LIB='cds_connectors',
+ MANUF='RS',
+ PACK_TYPE='STR',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_connectors/sk#2dsma#2dpcb/chips/ch~
+ips.prt';
+
+PART_NAME
+ SK13 'SK-SMA-PCB_STR-RS':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3_I89@CDS_CONNECTORS.SK-SMA-PCB(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page3_i89@cds_connectors.\sk-sma-pcb\(c~
+hips)',
+ PATH='I89',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3',
+ XY='(-4200,2550)',
+ VER='1',
+ ROT='2',
+ KL_COMMENTS='-',
+ OL_COMMENTS='-',
+ PL_COMMENTS='-',
+ SIZE='1',
+ CDS_LIB='cds_connectors',
+ MANUF='RS',
+ PACK_TYPE='STR',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_connectors/sk#2dsma#2dpcb/chips/ch~
+ips.prt';
+
+PART_NAME
+ SK14 'SK-SMA-PCB_STR-RS':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3_I88@CDS_CONNECTORS.SK-SMA-PCB(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page3_i88@cds_connectors.\sk-sma-pcb\(c~
+hips)',
+ PATH='I88',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3',
+ XY='(-4200,2300)',
+ VER='1',
+ ROT='2',
+ KL_COMMENTS='-',
+ OL_COMMENTS='-',
+ PL_COMMENTS='-',
+ SIZE='1',
+ CDS_LIB='cds_connectors',
+ MANUF='RS',
+ PACK_TYPE='STR',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_connectors/sk#2dsma#2dpcb/chips/ch~
+ips.prt';
+
+PART_NAME
+ SK15 'SK-SMA-PCB_STR-RS':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3_I94@CDS_CONNECTORS.SK-SMA-PCB(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page3_i94@cds_connectors.\sk-sma-pcb\(c~
+hips)',
+ PATH='I94',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3',
+ XY='(2050,2750)',
+ VER='1',
+ ROT='0',
+ SIZE='1',
+ PL_COMMENTS='-',
+ OL_COMMENTS='-',
+ KL_COMMENTS='-',
+ CDS_LIB='cds_connectors',
+ MANUF='RS',
+ PACK_TYPE='STR',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_connectors/sk#2dsma#2dpcb/chips/ch~
+ips.prt';
+
+PART_NAME
+ SK16 'SK-SMA-PCB_STR-RS':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3_I93@CDS_CONNECTORS.SK-SMA-PCB(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page3_i93@cds_connectors.\sk-sma-pcb\(c~
+hips)',
+ PATH='I93',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3',
+ XY='(2050,2400)',
+ VER='1',
+ ROT='0',
+ SIZE='1',
+ PL_COMMENTS='-',
+ OL_COMMENTS='-',
+ KL_COMMENTS='-',
+ CDS_LIB='cds_connectors',
+ MANUF='RS',
+ PACK_TYPE='STR',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_connectors/sk#2dsma#2dpcb/chips/ch~
+ips.prt';
+
+PART_NAME
+ SK17 'SK-SMA-PCB_STR-RS':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3_I91@CDS_CONNECTORS.SK-SMA-PCB(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page3_i91@cds_connectors.\sk-sma-pcb\(c~
+hips)',
+ PATH='I91',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3',
+ XY='(2050,2050)',
+ VER='1',
+ ROT='0',
+ KL_COMMENTS='-',
+ OL_COMMENTS='-',
+ PL_COMMENTS='-',
+ SIZE='1',
+ CDS_LIB='cds_connectors',
+ MANUF='RS',
+ PACK_TYPE='STR',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_connectors/sk#2dsma#2dpcb/chips/ch~
+ips.prt';
+
+PART_NAME
+ SK18 'SK-SMA-PCB_STR-RS':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3_I90@CDS_CONNECTORS.SK-SMA-PCB(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page3_i90@cds_connectors.\sk-sma-pcb\(c~
+hips)',
+ PATH='I90',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3',
+ XY='(2050,1800)',
+ VER='1',
+ ROT='0',
+ KL_COMMENTS='-',
+ OL_COMMENTS='-',
+ PL_COMMENTS='-',
+ SIZE='1',
+ CDS_LIB='cds_connectors',
+ MANUF='RS',
+ PACK_TYPE='STR',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_connectors/sk#2dsma#2dpcb/chips/ch~
+ips.prt';
+
+PART_NAME
+ SK19 'SK-SMA-PCB_STR-RS':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3_I95@CDS_CONNECTORS.SK-SMA-PCB(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page3_i95@cds_connectors.\sk-sma-pcb\(c~
+hips)',
+ PATH='I95',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3',
+ XY='(2050,1450)',
+ VER='1',
+ ROT='0',
+ SIZE='1',
+ PL_COMMENTS='-',
+ OL_COMMENTS='-',
+ KL_COMMENTS='-',
+ MANUF='RS',
+ PACK_TYPE='STR',
+ CDS_LIB='cds_connectors',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_connectors/sk#2dsma#2dpcb/chips/ch~
+ips.prt';
+
+PART_NAME
+ SK20 'SK-SMA-PCB_STR-RS':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3_I92@CDS_CONNECTORS.SK-SMA-PCB(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page3_i92@cds_connectors.\sk-sma-pcb\(c~
+hips)',
+ PATH='I92',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3',
+ XY='(2050,850)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='cds_connectors',
+ SIZE='1',
+ PL_COMMENTS='-',
+ OL_COMMENTS='-',
+ KL_COMMENTS='-',
+ MANUF='RS',
+ PACK_TYPE='STR',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_connectors/sk#2dsma#2dpcb/chips/ch~
+ips.prt';
+
+PART_NAME
+ SK21 'SK-AMP-050-68_RT-ANG-787190-7,A':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3_I74@CDS_CONNECTORS.SK-AMP-050-68(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page3_i74@cds_connectors.\sk-amp-050-68~
+\(chips)',
+ PATH='I74',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3',
+ XY='(4100,3850)',
+ VER='1',
+ ROT='0',
+ VALUE='787190-7',
+ SIZE='1',
+ OL_COMMENTS='-',
+ KL_COMMENTS='-',
+ PL_COMMENTS='-',
+ CDS_LIB='cds_connectors',
+ MANUF='AMPLIMITE',
+ PACK_TYPE='RT-ANG',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_connectors/sk#2damp#2d050#2d68/chi~
+ps/chips.prt';
+
+PART_NAME
+ SW1 '8WAY-SPST_SMD-HP-DIPTRONICS':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I4@CDS_SWITCHES.8WAY-SPST(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i4@cds_switches.\8way-spst\(chips~
+)',
+ PATH='I4',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(-2350,-950)',
+ VER='1',
+ ROT='1',
+ PACK_TYPE='SMD-HP',
+ SIZE='1',
+ PL_COMMENTS='-',
+ OL_COMMENTS='-',
+ KL_COMMENTS='-',
+ CDS_LIB='cds_switches',
+ MANUF='DIPTRONICS',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_switches/8way#2dspst/chips/chips.p~
+rt';
+
+PART_NAME
+ U1 '100EL16_SOIC-SYNERGY':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I3@BRIS_CDS_LOGIC.100EL16(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i3@bris_cds_logic.\100el16\(chips~
+)',
+ PATH='I3',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(-4650,900)',
+ VER='1',
+ ROT='0',
+ PACK_TYPE='SOIC',
+ MANUF='SYNERGY',
+ KL_COMMENTS='-',
+ OL_COMMENTS='-',
+ PL_COMMENTS='-',
+ SIZE='1',
+ CDS_LIB='bris_cds_logic',
+ PRIM_FILE='g:/cad/bris_cdslib/lib_psd14.x/cds_logic/100el16/chips/chips.prt';
+
+PART_NAME
+ U2 'QPLL28-CERN_LPCC-CERN':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I2@CDS_SPECIAL.QPLL28-CERN(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i2@cds_special.\qpll28-cern\(chip~
+s)',
+ PATH='I2',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(-1250,900)',
+ VER='1',
+ ROT='0',
+ OL_COMMENTS='-',
+ PACK_TYPE='LPCC',
+ MANUF='CERN',
+ SIZE='1',
+ PL_COMMENTS='-',
+ KL_COMMENTS='-',
+ CDS_LIB='cds_special',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_special/qpll28#2dcern/chips/chips.~
+prt';
+
+PART_NAME
+ U3 'CC1F-T1A_SMD-40.08MHZ,MICRO CRA':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I5@CDS_SPECIAL.CC1F-T1A(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i5@cds_special.\cc1f-t1a\(chips)',
+ PATH='I5',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(-500,-300)',
+ VER='1',
+ ROT='0',
+ VALUE='40.08MHZ',
+ SIZE='1',
+ PL_COMMENTS='-',
+ OL_COMMENTS='-',
+ KL_COMMENTS='-',
+ CDS_LIB='cds_special',
+ MANUF='MICRO CRYSTAL SWITZERLAND',
+ PACK_TYPE='SMD',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_special/cc1f#2dt1a/chips/chips.prt~
+';
+
+PART_NAME
+ U4 '100E111_PLCC-SYNERGY':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I60@CDS_LOGIC.100E111(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i60@cds_logic.\100e111\(chips)',
+ PATH='I60',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(2100,650)',
+ VER='1',
+ ROT='0',
+ KL_COMMENTS='-',
+ OL_COMMENTS='-',
+ PL_COMMENTS='-',
+ SIZE='1',
+ CDS_LIB='cds_logic',
+ MANUF='SYNERGY',
+ PACK_TYPE='PLCC',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_logic/100e111/chips/chips.prt';
+
+PART_NAME
+ U5 'TEN-5-DUALOP_DIP-TRACO,48V/+-5V':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2_I13@BRIS_CDS_SPECIAL.TEN-5-DUALOP(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page2_i13@bris_cds_special.\ten-5-dualo~
+p\(chips)',
+ PATH='I13',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2',
+ XY='(-4500,-1450)',
+ VER='1',
+ ROT='0',
+ VALUE='48V/+-5V',
+ MANUF='TRACO',
+ PACK_TYPE='DIP',
+ CDS_LIB='bris_cds_special',
+ PRIM_FILE='g:/cad/bris_cdslib/lib_psd14.x/cds_special/ten#2d5#2ddualop/chips/ch~
+ips.prt';
+
+PART_NAME
+ U6 '100ELT23_SOIC-SYNERGY':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2_I10@CDS_LOGIC.100ELT23(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page2_i10@cds_logic.\100elt23\(chips)',
+ PATH='I10',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2',
+ XY='(-3150,2700)',
+ VER='1',
+ ROT='0',
+ SIZE='1',
+ PL_COMMENTS='-',
+ OL_COMMENTS='-',
+ KL_COMMENTS='-',
+ CDS_LIB='cds_logic',
+ MANUF='SYNERGY',
+ PACK_TYPE='SOIC',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_logic/100elt23/chips/chips.prt';
+
+PART_NAME
+ U7 '100ELT23_SOIC-SYNERGY':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2_I11@CDS_LOGIC.100ELT23(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page2_i11@cds_logic.\100elt23\(chips)',
+ PATH='I11',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2',
+ XY='(-3150,1950)',
+ VER='1',
+ ROT='0',
+ PACK_TYPE='SOIC',
+ MANUF='SYNERGY',
+ CDS_LIB='cds_logic',
+ KL_COMMENTS='-',
+ OL_COMMENTS='-',
+ PL_COMMENTS='-',
+ SIZE='1',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_logic/100elt23/chips/chips.prt';
+
+PART_NAME
+ U8 '100ELT23_SOIC-SYNERGY':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2_I12@CDS_LOGIC.100ELT23(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page2_i12@cds_logic.\100elt23\(chips)',
+ PATH='I12',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2',
+ XY='(-3150,1200)',
+ VER='1',
+ ROT='0',
+ SIZE='1',
+ PL_COMMENTS='-',
+ OL_COMMENTS='-',
+ KL_COMMENTS='-',
+ CDS_LIB='cds_logic',
+ MANUF='SYNERGY',
+ PACK_TYPE='SOIC',
+ PRIM_FILE='g:/cad/ral_cdslib/lib_psd14.x/cds_logic/100elt23/chips/chips.prt';
+
+PART_NAME
+ U9 '100324-DIP_DIP-FAIRCHILD':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2_I25@BRIS_CDS_LOGIC.100324-DIP(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page2_i25@bris_cds_logic.\100324-dip\(c~
+hips)',
+ PATH='I25',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2',
+ XY='(-1000,2950)',
+ VER='1',
+ ROT='0',
+ SIZE='1',
+ PL_COMMENTS='-',
+ OL_COMMENTS='-',
+ KL_COMMENTS='-',
+ MANUF='FAIRCHILD',
+ PACK_TYPE='DIP',
+ CDS_LIB='bris_cds_logic',
+ PRIM_FILE='g:/cad/bris_cdslib/lib_psd14.x/cds_logic/100324#2ddip/chips/chips.pr~
+t';
+
+SECTION_NUMBER 2
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2_I30@BRIS_CDS_LOGIC.100324-DIP(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page2_i30@bris_cds_logic.\100324-dip\(c~
+hips)',
+ PATH='I30',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2',
+ XY='(-1000,2500)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='bris_cds_logic',
+ SIZE='1',
+ PL_COMMENTS='-',
+ OL_COMMENTS='-',
+ KL_COMMENTS='-',
+ MANUF='FAIRCHILD',
+ PACK_TYPE='DIP',
+ PRIM_FILE='g:/cad/bris_cdslib/lib_psd14.x/cds_logic/100324#2ddip/chips/chips.pr~
+t';
+
+SECTION_NUMBER 3
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2_I29@BRIS_CDS_LOGIC.100324-DIP(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page2_i29@bris_cds_logic.\100324-dip\(c~
+hips)',
+ PATH='I29',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2',
+ XY='(-1000,2050)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='bris_cds_logic',
+ SIZE='1',
+ PL_COMMENTS='-',
+ OL_COMMENTS='-',
+ KL_COMMENTS='-',
+ MANUF='FAIRCHILD',
+ PACK_TYPE='DIP',
+ PRIM_FILE='g:/cad/bris_cdslib/lib_psd14.x/cds_logic/100324#2ddip/chips/chips.pr~
+t';
+
+SECTION_NUMBER 4
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2_I28@BRIS_CDS_LOGIC.100324-DIP(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page2_i28@bris_cds_logic.\100324-dip\(c~
+hips)',
+ PATH='I28',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2',
+ XY='(-1000,1600)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='bris_cds_logic',
+ SIZE='1',
+ PL_COMMENTS='-',
+ OL_COMMENTS='-',
+ KL_COMMENTS='-',
+ MANUF='FAIRCHILD',
+ PACK_TYPE='DIP',
+ PRIM_FILE='g:/cad/bris_cdslib/lib_psd14.x/cds_logic/100324#2ddip/chips/chips.pr~
+t';
+
+SECTION_NUMBER 5
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2_I27@BRIS_CDS_LOGIC.100324-DIP(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page2_i27@bris_cds_logic.\100324-dip\(c~
+hips)',
+ PATH='I27',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2',
+ XY='(-1000,1150)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='bris_cds_logic',
+ SIZE='1',
+ PL_COMMENTS='-',
+ OL_COMMENTS='-',
+ KL_COMMENTS='-',
+ MANUF='FAIRCHILD',
+ PACK_TYPE='DIP',
+ PRIM_FILE='g:/cad/bris_cdslib/lib_psd14.x/cds_logic/100324#2ddip/chips/chips.pr~
+t';
+
+SECTION_NUMBER 6
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2_I26@BRIS_CDS_LOGIC.100324-DIP(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page2_i26@bris_cds_logic.\100324-dip\(c~
+hips)',
+ PATH='I26',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE2',
+ XY='(-1000,700)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='bris_cds_logic',
+ SIZE='1',
+ PL_COMMENTS='-',
+ OL_COMMENTS='-',
+ KL_COMMENTS='-',
+ MANUF='FAIRCHILD',
+ PACK_TYPE='DIP',
+ PRIM_FILE='g:/cad/bris_cdslib/lib_psd14.x/cds_logic/100324#2ddip/chips/chips.pr~
+t';
+
+PART_NAME
+ U10 'TEN-5_DIP-TRACO,48V/5V':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3_I55@BRIS_CDS_SPECIAL.TEN-5(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page3_i55@bris_cds_special.\ten-5\(chip~
+s)',
+ PATH='I55',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE3',
+ XY='(-4400,-1100)',
+ VER='1',
+ ROT='0',
+ VALUE='48V/5V',
+ MANUF='TRACO',
+ CDS_LIB='bris_cds_special',
+ PACK_TYPE='DIP',
+ PRIM_FILE='g:/cad/bris_cdslib/lib_psd14.x/cds_special/ten#2d5/chips/chips.prt';
+
+PART_NAME
+ VR1 'LD1086_DDPAK-D2T25,STM':;
+
+SECTION_NUMBER 1
+ '@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1_I69@BRIS_CDS_ANALOGUE.LD1086(CHIPS)':
+ C_PATH='@uob_hep_pc005a_lib.qpll(sch_1):page1_i69@bris_cds_analogue.ld1086(chip~
+s)',
+ PATH='I69',
+ DRAWING='@UOB_HEP_PC005A_LIB.QPLL(SCH_1):PAGE1',
+ XY='(-4650,3400)',
+ VER='1',
+ ROT='0',
+ VALUE='D2T25',
+ PACK_TYPE='DDPAK',
+ MANUF='STM',
+ CDS_LIB='bris_cds_analogue',
+ PHYS_DES_PREFIX='VR',
+ SIZE='1',
+ OL_COMMENTS='-',
+ KL_COMMENTS='-',
+ PL_COMMENTS='-',
+ PART_NAME='LD1086',
+ PRIM_FILE='g:/cad/bris_cdslib/lib_psd14.x/cds_analogue/ld1086/chips/chips.prt';
+
+END.

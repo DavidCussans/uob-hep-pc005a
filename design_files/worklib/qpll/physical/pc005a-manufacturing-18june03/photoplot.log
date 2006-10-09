@@ -1,0 +1,1140 @@
+(------------------------------------------------------------)
+(                                                            )
+(        ARTWORK LOG                                         )
+(                                                            )
+(        Drawing    : pc005-unplaced-f.brd                   )
+(        Date/Time  : Wed Jun 11 08:47:36 2003               )
+(                                                            )
+(------------------------------------------------------------)
+
+
+ ---- Photoplot outline rectangle not found ... using drawing extents
+
+
+Wed Jun 11 08:47:36 2003				Page     1
+
+Photoplot log file
+Results from parameter file ...
+
+DEVICE-TYPE           GERBER_RS274X
+OUTPUT-UNITS          INCHES
+FILM-SIZE             24000 16000
+FORMAT                5.3
+ABORT-ON-ERROR        NO
+SCALE                 1
+SUPPRESS-LEAD-ZEROES  YES
+SUPPRESS-TRAIL-ZEROES NO
+SUPPRESS-EQUAL        YES
+UNDEF-APT-CONT        NO
+
+ WARNING: Generating english output data from a metric database
+ may cause slight roundoff error of coordinates in output file.
+
+
+
+================================================================
+     PROCESSING FILM < TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined Line Width                0.0000
+  Mirror Code                         NONE
+  Rotate Angle                        NONE
+  Offset X:                           0.0000
+  Offset Y:                           0.0000
+  Plot Negative                       NO
+  Suppress Unconnected Internal Pads  NO
+
+	WARNING: Film contains DRC error(s).
+	WARNING: Segment with same start and end points at
+	(-107.6243, -5.9499) will be ignored.  Increasing output
+	accuracy may allow segment to be generated.
+
+	WARNING: Segment with same start and end points at
+	(-122.3001, -7.8743) will be ignored.  Increasing output
+	accuracy may allow segment to be generated.
+
+	WARNING: Segment with same start and end points at
+	(-102.8149, -10.9000) will be ignored.  Increasing output
+	accuracy may allow segment to be generated.
+
+	WARNING: Segment with same start and end points at
+	(66.1110, -26.0140) will be ignored.  Increasing output
+	accuracy may allow segment to be generated.
+
+	WARNING: Segment with same start and end points at
+	(-117.7660, 8.2500) will be ignored.  Increasing output
+	accuracy may allow segment to be generated.
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00591                                  DARK 
+  CIRCLE     0.01024                                  DARK 
+  CIRCLE     0.01575                                  DARK 
+  CIRCLE     0.01969                                  DARK 
+  CIRCLE     0.03150                                  DARK 
+  CIRCLE     0.03600                                  DARK 
+  CIRCLE     0.05500                                  DARK 
+  CIRCLE     0.06000                                  DARK 
+  CIRCLE     0.06400                                  DARK 
+  CIRCLE     0.06800                                  DARK 
+  CIRCLE     0.07600                                  DARK 
+  CIRCLE     0.07874                                  DARK 
+  CIRCLE     0.08800                                  DARK 
+  CIRCLE     0.09600                                  DARK 
+  CIRCLE     0.19000                                  DARK 
+  SQUARE     0.05500                     0.000 NO     DARK 
+  SQUARE     0.06000                     0.000 NO     DARK 
+  SQUARE     0.06400                     0.000 NO     DARK 
+  SQUARE     0.07600                     0.000 NO     DARK 
+  SQUARE     0.14961                     0.000 NO     DARK 
+  RECTANGLE  0.00984     x 0.01772       0.000 NO     DARK 
+  RECTANGLE  0.00984     x 0.01772      90.000 NO     DARK 
+  RECTANGLE  0.02500     x 0.03000      90.000 NO     DARK 
+  RECTANGLE  0.02500     x 0.05000      90.000 NO     DARK 
+  RECTANGLE  0.02756     x 0.03543       0.000 NO     DARK 
+  RECTANGLE  0.02800     x 0.05000       0.000 NO     DARK 
+  RECTANGLE  0.02800     x 0.05000      90.000 NO     DARK 
+  RECTANGLE  0.04000     x 0.06800       0.000 NO     DARK 
+  RECTANGLE  0.04000     x 0.06800      90.000 NO     DARK 
+  RECTANGLE  0.04900     x 0.03000       0.000 NO     DARK 
+  RECTANGLE  0.05000     x 0.02500       0.000 NO     DARK 
+  RECTANGLE  0.05000     x 0.02500      90.000 NO     DARK 
+  RECTANGLE  0.07000     x 0.09000      90.000 NO     DARK 
+  RECTANGLE  0.08000     x 0.14500       0.000 NO     DARK 
+  RECTANGLE  0.09055     x 0.16535       0.000 NO     DARK 
+  RECTANGLE  0.10000     x 0.09000       0.000 NO     DARK 
+  RECTANGLE  0.10000     x 0.09000      90.000 NO     DARK 
+  RECTANGLE  0.16700     x 0.15000       0.000 NO     DARK 
+  RECTANGLE  0.16700     x 0.15000      90.000 NO     DARK 
+  RECTANGLE  0.35000     x 0.42000       0.000 NO     DARK 
+
+
+
+================================================================
+     PROCESSING FILM < VCC.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined Line Width                0.0000
+  Mirror Code                         NONE
+  Rotate Angle                        NONE
+  Offset X:                           0.0000
+  Offset Y:                           0.0000
+  Plot Negative                       YES
+  Suppress Unconnected Internal Pads  NO
+
+	WARNING: No Photoplot Outline was found,
+negative shape outline will be determined by Board Outline
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00591                                  DARK 
+  CIRCLE     0.04400                                  CLEAR
+  CIRCLE     0.07500                                  CLEAR
+  CIRCLE     0.07600                                  CLEAR
+  CIRCLE     0.08000                                  CLEAR
+  CIRCLE     0.08400                                  CLEAR
+  CIRCLE     0.09200                                  CLEAR
+  CIRCLE     0.10400                                  CLEAR
+  CIRCLE     0.18000                                  CLEAR
+  CIRCLE     0.21000                                  CLEAR
+  SQUARE     0.08000                     0.000 NO     CLEAR
+
+
+
+================================================================
+     PROCESSING FILM < MIDDLE1.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined Line Width                0.0000
+  Mirror Code                         NONE
+  Rotate Angle                        NONE
+  Offset X:                           0.0000
+  Offset Y:                           0.0000
+  Plot Negative                       NO
+  Suppress Unconnected Internal Pads  NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00591                                  DARK 
+  CIRCLE     0.03200                                  DARK 
+  CIRCLE     0.05500                                  DARK 
+  CIRCLE     0.05600                                  DARK 
+  CIRCLE     0.06000                                  DARK 
+  CIRCLE     0.06400                                  DARK 
+  CIRCLE     0.07200                                  DARK 
+  CIRCLE     0.08400                                  DARK 
+  CIRCLE     0.09600                                  DARK 
+  CIRCLE     0.18500                                  DARK 
+  SQUARE     0.05500                     0.000 NO     DARK 
+
+
+
+================================================================
+     PROCESSING FILM < MIDDLE2.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined Line Width                0.0000
+  Mirror Code                         NONE
+  Rotate Angle                        NONE
+  Offset X:                           0.0000
+  Offset Y:                           0.0000
+  Plot Negative                       NO
+  Suppress Unconnected Internal Pads  NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.03200                                  DARK 
+  CIRCLE     0.05500                                  DARK 
+  CIRCLE     0.05600                                  DARK 
+  CIRCLE     0.06000                                  DARK 
+  CIRCLE     0.06400                                  DARK 
+  CIRCLE     0.07200                                  DARK 
+  CIRCLE     0.08400                                  DARK 
+  CIRCLE     0.09600                                  DARK 
+  CIRCLE     0.18500                                  DARK 
+  SQUARE     0.05500                     0.000 NO     DARK 
+
+
+
+================================================================
+     PROCESSING FILM < GND.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined Line Width                0.0000
+  Mirror Code                         NONE
+  Rotate Angle                        NONE
+  Offset X:                           0.0000
+  Offset Y:                           0.0000
+  Plot Negative                       YES
+  Suppress Unconnected Internal Pads  NO
+
+	WARNING: No thermal flash for padstack "VIA36RD0-4D". Regular pad used.
+	WARNING: No Photoplot Outline was found,
+negative shape outline will be determined by Board Outline
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00591                                  DARK 
+  CIRCLE     0.03200                                  DARK 
+  CIRCLE     0.04400                                  CLEAR
+  CIRCLE     0.07500                                  CLEAR
+  CIRCLE     0.07600                                  CLEAR
+  CIRCLE     0.08000                                  CLEAR
+  CIRCLE     0.08400                                  CLEAR
+  CIRCLE     0.09200                                  CLEAR
+  CIRCLE     0.10400                                  CLEAR
+  CIRCLE     0.18000                                  CLEAR
+  CIRCLE     0.21000                                  CLEAR
+  SQUARE     0.08000                     0.000 NO     CLEAR
+
+
+
+================================================================
+     PROCESSING FILM < BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined Line Width                0.0000
+  Mirror Code                         NONE
+  Rotate Angle                        NONE
+  Offset X:                           0.0000
+  Offset Y:                           0.0000
+  Plot Negative                       NO
+  Suppress Unconnected Internal Pads  NO
+
+	WARNING: Segment with same start and end points at
+	(59.2640, -27.3890) will be ignored.  Increasing output
+	accuracy may allow segment to be generated.
+
+	WARNING: Segment with same start and end points at
+	(70.7360, -25.8890) will be ignored.  Increasing output
+	accuracy may allow segment to be generated.
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00591                                  DARK 
+  CIRCLE     0.01024                                  DARK 
+  CIRCLE     0.03150                                  DARK 
+  CIRCLE     0.03600                                  DARK 
+  CIRCLE     0.05500                                  DARK 
+  CIRCLE     0.06000                                  DARK 
+  CIRCLE     0.06400                                  DARK 
+  CIRCLE     0.06800                                  DARK 
+  CIRCLE     0.07600                                  DARK 
+  CIRCLE     0.08800                                  DARK 
+  CIRCLE     0.09600                                  DARK 
+  CIRCLE     0.19000                                  DARK 
+  SQUARE     0.05500                     0.000 NO     DARK 
+  SQUARE     0.06000                     0.000 NO     DARK 
+  SQUARE     0.06400                     0.000 NO     DARK 
+  SQUARE     0.07600                     0.000 NO     DARK 
+  RECTANGLE  0.02800     x 0.05000       0.000 NO     DARK 
+  RECTANGLE  0.02800     x 0.05000      90.000 NO     DARK 
+  RECTANGLE  0.04000     x 0.06800       0.000 NO     DARK 
+  RECTANGLE  0.04000     x 0.06800      90.000 NO     DARK 
+
+
+
+================================================================
+     PROCESSING FILM < topsilk.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined Line Width                0.2000
+  Mirror Code                         NONE
+  Rotate Angle                        NONE
+  Offset X:                           0.0000
+  Offset Y:                           0.0000
+  Plot Negative                       NO
+  Suppress Unconnected Internal Pads  NO
+
+	WARNING: 0 width line found at X:-131.4450 Y:-29.9200
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-127.1046 Y:-31.5944
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-129.0000 Y:-26.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-129.0000 Y:-20.5000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-130.0000 Y:-11.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: Multiple 0 width lines; all will be treated the same as the first.
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-130.1830 Y:-17.8575
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-128.0000 Y:-6.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-126.0000 Y:-6.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-132.2500 Y:8.2500
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-119.3800 Y:-36.2700
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-123.0000 Y:-26.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-122.5000 Y:-23.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-121.8650 Y:-15.5830
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-121.5000 Y:-13.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-117.5000 Y:-15.1660
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-120.0000 Y:-8.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-119.5000 Y:-10.5000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-124.0000 Y:-6.5000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-121.5000 Y:3.5000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-121.0000 Y:0.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-118.0000 Y:-2.5000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-122.5000 Y:7.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-121.5000 Y:16.5000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-120.5038 Y:20.3114
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-114.5000 Y:-6.5000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-114.5000 Y:-10.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-114.0000 Y:-0.5000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-109.5000 Y:4.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-116.5000 Y:6.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-113.0000 Y:9.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-111.5000 Y:12.5000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-116.0000 Y:20.5000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-104.0000 Y:-27.5000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-110.0950 Y:-23.9400
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-108.0000 Y:-19.5000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-104.5000 Y:-15.5000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-109.0000 Y:-15.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-110.3684 Y:-7.2157
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-103.0000 Y:0.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-109.5000 Y:-1.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-107.5000 Y:0.5000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-103.5000 Y:8.5000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-96.0000 Y:-14.5000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-99.5000 Y:-7.5000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-99.0000 Y:-9.5000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-98.5000 Y:-4.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-94.0000 Y:-1.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-91.0000 Y:-27.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-93.5000 Y:-6.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-92.0000 Y:16.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-79.5000 Y:-26.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-84.5000 Y:-26.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-85.0000 Y:1.5000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-73.9450 Y:-40.8890
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-76.0000 Y:-25.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-73.0280 Y:-32.2180
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-75.5000 Y:-10.5000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-66.5000 Y:-32.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-55.4450 Y:-43.0940
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-49.0000 Y:4.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-49.0000 Y:-4.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-47.0000 Y:-2.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-47.8650 Y:12.3060
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-46.0000 Y:6.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-45.5000 Y:13.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-35.0000 Y:-6.5000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-38.0000 Y:0.5000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-38.0000 Y:6.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-41.5000 Y:13.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-22.0000 Y:-33.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-20.0000 Y:-27.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-16.5000 Y:-34.5000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-15.9106 Y:-26.2182
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-12.0000 Y:-17.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-15.9106 Y:-16.4962
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-14.0000 Y:4.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-17.0000 Y:8.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-7.0000 Y:-31.2500
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-2.5000 Y:-5.5000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-6.5000 Y:12.5000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-5.5000 Y:15.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:5.0000 Y:-34.5000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-2.5000 Y:-24.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:3.0000 Y:-9.5000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-1.0000 Y:-0.5000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:1.5000 Y:20.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:4.5000 Y:21.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:9.0000 Y:-13.5000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:8.0000 Y:-7.5000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:9.0000 Y:20.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:16.7900 Y:21.4340
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:30.0000 Y:-45.5000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:40.4210 Y:-34.0280
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:37.7116 Y:-38.5904
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:37.0000 Y:-3.5000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:39.5000 Y:1.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:40.0000 Y:9.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:38.0000 Y:12.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:44.1390 Y:-36.4680
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:43.6556 Y:-31.0344
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:50.3443 Y:-26.0486
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:47.5000 Y:-17.5000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:54.2180 Y:-28.8890
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:52.5000 Y:-0.5000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:52.5000 Y:8.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:52.5000 Y:16.5000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:63.1390 Y:-36.4680
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:62.5930 Y:-26.0140
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:58.2820 Y:-24.7500
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:65.0000 Y:21.5000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:66.6570 Y:-22.7640
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:75.9180 Y:-3.7500
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:77.3330 Y:12.1150
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:79.7500 Y:20.4250
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:85.0000 Y:-15.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:87.0000 Y:9.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:85.0000 Y:4.4450
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:87.3266 Y:18.1996
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:94.5000 Y:-15.5000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:90.5000 Y:21.5000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:100.5000 Y:-3.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:101.0000 Y:0.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:99.0000 Y:11.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:102.0000 Y:14.5000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:101.5000 Y:21.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:109.0400 Y:-43.9340
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:106.5000 Y:11.5000
+	WARNING: ... using undefined line width of 0.2000
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00787                                  DARK 
+  CIRCLE     0.03937                                  DARK 
+
+
+
+================================================================
+     PROCESSING FILM < bottomsilk.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined Line Width                0.2000
+  Mirror Code                         NONE
+  Rotate Angle                        NONE
+  Offset X:                           0.0000
+  Offset Y:                           0.0000
+  Plot Negative                       NO
+  Suppress Unconnected Internal Pads  NO
+
+	WARNING: text composed of 0 width lines found at X:-130.7500 Y:8.2500
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-119.3800 Y:-36.2700
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-104.0000 Y:-27.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-110.0950 Y:-26.4800
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-105.5000 Y:-14.5000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-105.5000 Y:-4.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-96.0000 Y:-27.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-99.5000 Y:-10.5000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-94.0000 Y:-16.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-86.5000 Y:-10.5000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-94.0000 Y:-3.5000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-75.3800 Y:-36.2700
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-55.4450 Y:-43.0940
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-63.5000 Y:-40.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-39.2180 Y:5.3890
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-39.2180 Y:-0.1110
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-39.2180 Y:10.8890
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-14.5000 Y:21.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-7.0000 Y:-32.7500
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-3.5000 Y:5.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-5.0000 Y:10.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:0.5000 Y:-13.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:-1.5000 Y:-6.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:16.7900 Y:21.4340
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:29.4600 Y:-43.9340
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:28.5000 Y:12.5000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:40.0000 Y:-35.5000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:36.0000 Y:16.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:43.0000 Y:-26.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:46.0000 Y:-7.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:46.0000 Y:20.9450
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:51.0000 Y:-33.5000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:52.5000 Y:-22.5000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:52.5000 Y:8.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:60.0000 Y:-30.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:61.5000 Y:-19.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:65.0000 Y:14.2500
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:68.5000 Y:-29.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:70.0000 Y:-18.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:77.0000 Y:-1.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:85.0000 Y:-15.5000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:86.5000 Y:8.5000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:94.5000 Y:-15.5000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:101.0000 Y:-2.0000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:103.0000 Y:-0.5000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:97.5000 Y:4.5000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:101.0000 Y:18.5000
+	WARNING: ... using undefined line width of 0.2000
+
+	WARNING: text composed of 0 width lines found at X:109.0400 Y:-43.9340
+	WARNING: ... using undefined line width of 0.2000
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00787                                  DARK 
+
+
+
+================================================================
+     PROCESSING FILM < topsoldermask.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined Line Width                0.0000
+  Mirror Code                         NONE
+  Rotate Angle                        NONE
+  Offset X:                           0.0000
+  Offset Y:                           0.0000
+  Plot Negative                       NO
+  Suppress Unconnected Internal Pads  NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.04200                                  DARK 
+  CIRCLE     0.06600                                  DARK 
+  CIRCLE     0.07000                                  DARK 
+  CIRCLE     0.07400                                  DARK 
+  CIRCLE     0.07500                                  DARK 
+  CIRCLE     0.08000                                  DARK 
+  CIRCLE     0.08200                                  DARK 
+  CIRCLE     0.09400                                  DARK 
+  CIRCLE     0.10200                                  DARK 
+  CIRCLE     0.19600                                  DARK 
+  SQUARE     0.06600                     0.000 NO     DARK 
+  SQUARE     0.07000                     0.000 NO     DARK 
+  SQUARE     0.07500                     0.000 NO     DARK 
+  SQUARE     0.08000                     0.000 NO     DARK 
+  SQUARE     0.08200                     0.000 NO     DARK 
+  SQUARE     0.15551                     0.000 NO     DARK 
+  RECTANGLE  0.01575     x 0.02362       0.000 NO     DARK 
+  RECTANGLE  0.01575     x 0.02362      90.000 NO     DARK 
+  RECTANGLE  0.03000     x 0.05500      90.000 NO     DARK 
+  RECTANGLE  0.03100     x 0.03600      90.000 NO     DARK 
+  RECTANGLE  0.03346     x 0.04134       0.000 NO     DARK 
+  RECTANGLE  0.03400     x 0.05600       0.000 NO     DARK 
+  RECTANGLE  0.03400     x 0.05600      90.000 NO     DARK 
+  RECTANGLE  0.04600     x 0.07400       0.000 NO     DARK 
+  RECTANGLE  0.04600     x 0.07400      90.000 NO     DARK 
+  RECTANGLE  0.05500     x 0.03000       0.000 NO     DARK 
+  RECTANGLE  0.05500     x 0.03000      90.000 NO     DARK 
+  RECTANGLE  0.05500     x 0.03600       0.000 NO     DARK 
+  RECTANGLE  0.07600     x 0.09600      90.000 NO     DARK 
+  RECTANGLE  0.08600     x 0.15100       0.000 NO     DARK 
+  RECTANGLE  0.09646     x 0.17126       0.000 NO     DARK 
+  RECTANGLE  0.10600     x 0.09600       0.000 NO     DARK 
+  RECTANGLE  0.10600     x 0.09600      90.000 NO     DARK 
+  RECTANGLE  0.17700     x 0.16000       0.000 NO     DARK 
+  RECTANGLE  0.17700     x 0.16000      90.000 NO     DARK 
+  RECTANGLE  0.35600     x 0.42600       0.000 NO     DARK 
+
+
+
+================================================================
+     PROCESSING FILM < bottomsoldermask.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined Line Width                0.0000
+  Mirror Code                         NONE
+  Rotate Angle                        NONE
+  Offset X:                           0.0000
+  Offset Y:                           0.0000
+  Plot Negative                       NO
+  Suppress Unconnected Internal Pads  NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.04200                                  DARK 
+  CIRCLE     0.06600                                  DARK 
+  CIRCLE     0.07000                                  DARK 
+  CIRCLE     0.07400                                  DARK 
+  CIRCLE     0.07500                                  DARK 
+  CIRCLE     0.08000                                  DARK 
+  CIRCLE     0.08200                                  DARK 
+  CIRCLE     0.09400                                  DARK 
+  CIRCLE     0.10200                                  DARK 
+  CIRCLE     0.19600                                  DARK 
+  SQUARE     0.06600                     0.000 NO     DARK 
+  SQUARE     0.07000                     0.000 NO     DARK 
+  SQUARE     0.07500                     0.000 NO     DARK 
+  SQUARE     0.08000                     0.000 NO     DARK 
+  SQUARE     0.08200                     0.000 NO     DARK 
+  RECTANGLE  0.03400     x 0.05600       0.000 NO     DARK 
+  RECTANGLE  0.03400     x 0.05600      90.000 NO     DARK 
+  RECTANGLE  0.04600     x 0.07400       0.000 NO     DARK 
+  RECTANGLE  0.04600     x 0.07400      90.000 NO     DARK 
+
+
+
+================================================================
+     PROCESSING FILM < drillfigure.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined Line Width                0.0000
+  Mirror Code                         NONE
+  Rotate Angle                        NONE
+  Offset X:                           0.0000
+  Offset Y:                           0.0000
+  Plot Negative                       NO
+  Suppress Unconnected Internal Pads  NO
+
+	WARNING: text composed of 0 width lines found at X:-110.3307 Y:-63.5875
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-97.3307 Y:-63.5875
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-102.7559 Y:26.9125
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-84.3307 Y:-63.5875
+	WARNING: ... ignored!
+
+	WARNING: rectangle composed of 0 width lines found at X:-84.3273 Y:44.0785
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-72.9100 Y:117.8274
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-37.0833 Y:124.9648
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-71.3307 Y:-63.5875
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-51.6502 Y:46.0597
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-51.6502 Y:53.1971
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-51.6502 Y:60.3345
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-51.6502 Y:67.4719
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-51.6502 Y:74.6093
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-51.6502 Y:81.7467
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-51.6502 Y:88.8841
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-51.6502 Y:96.0215
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-51.6502 Y:103.1589
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-51.6502 Y:110.2963
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-53.7559 Y:-12.5875
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-51.6502 Y:117.8274
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-37.0833 Y:131.4648
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-25.6660 Y:46.0597
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-25.6660 Y:53.1971
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-25.6660 Y:60.3345
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-25.6660 Y:67.4719
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-25.6660 Y:74.6093
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-25.6660 Y:81.7467
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-25.6660 Y:88.8841
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-25.6660 Y:96.0215
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-25.6660 Y:103.1589
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-25.6660 Y:110.2963
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-25.6660 Y:117.8274
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:-21.8307 Y:32.9125
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:0.3182 Y:46.0597
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:0.3182 Y:53.1971
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:0.3182 Y:60.3345
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:0.3182 Y:67.4719
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:0.3182 Y:74.6093
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:0.3182 Y:81.7467
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:0.3182 Y:88.8841
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:0.3182 Y:96.0215
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:0.3182 Y:103.1589
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:0.3182 Y:110.2963
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:0.3182 Y:117.8274
+	WARNING: ... ignored!
+
+	WARNING: text composed of 0 width lines found at X:123.7441 Y:-12.5875
+	WARNING: ... ignored!
+
+
+
+  APERTURES USED:  NONE

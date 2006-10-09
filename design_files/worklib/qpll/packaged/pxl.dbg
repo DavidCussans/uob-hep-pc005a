@@ -1,0 +1,1078 @@
+Log File: C:\DOCUME~1\phdgc\LOCALS~1\Temp\sog.
+Markers File: C:\DOCUME~1\phdgc\LOCALS~1\Temp\sog.1
+Debug File: C:\DOCUME~1\phdgc\LOCALS~1\Temp\sog.3
+     Debug[0] := TRUE
+Elapsed time since start = (00:00:00)
+
+ **************************************************************
+ *  End processing project file and command line  (00:00:00)  *
+ **************************************************************
+
+DDB_INFO: Merging part rows for PPT 'HEADER2X4'.
+DDB_INFO: Merging part rows for PPT 'SK-MDR-14'.
+DDB_INFO: Merging part rows for PPT 'SK-SMA-PCB'.
+DDB_INFO: Merging part rows for PPT 'SK-SMB-PCB'.
+DDB_INFO: Merging part rows for PPT 'SOLDER-BRIDGE'.
+DDB_INFO: Merging part rows for PPT 'INDUCTOR'.
+DDB_INFO: Merging part rows for PPT 'RESISTOR'.
+DDB_INFO: Merging part rows for PPT 'RESISTOR-NET-4I'.
+DDB_INFO: Merging part rows for PPT 'RESISTOR-NET-8I'.
+DDB_INFO: Merging part rows for PPT 'TRANSISTOR-PNP'.
+DDB_INFO: Merging part rows for PPT '100EL14'.
+DDB_INFO: Merging part rows for PPT '100ELT23'.
+DDB_INFO: Merging part rows for PPT 'DS92LV16'.
+DDB_INFO: Merging part rows for PPT 'ICS8705'.
+DDB_INFO: Merging part rows for PPT 'OSC-DIL8'.
+DDB_INFO: Merging part rows for PPT 'VSC7226'.
+DDB_INFO: Merging part rows for PPT 'XC2S300E'.
+DDB_INFO: Merging part rows for PPT 'XC2V250'.
+EDB info: Null connection to port error in instance page1_i2.
+EDB info: Null connection to port q2 in instance page1_i60.
+EDB info: Null connection to port \q2*  in instance page1_i60.
+EDB info: Null connection to port q3 in instance page1_i60.
+EDB info: Null connection to port \q3*  in instance page1_i60.
+EDB info: Null connection to port q4 in instance page1_i60.
+EDB info: Null connection to port \q4*  in instance page1_i60.
+EDB info: Null connection to port q5 in instance page1_i60.
+EDB info: Null connection to port \q5*  in instance page1_i60.
+EDB info: Null connection to port q6 in instance page1_i60.
+EDB info: Null connection to port \q6*  in instance page1_i60.
+EDB info: Null connection to port q7 in instance page1_i60.
+EDB info: Null connection to port \q7*  in instance page1_i60.
+EDB info: Null connection to port q8 in instance page1_i60.
+EDB info: Null connection to port \q8*  in instance page1_i60.
+EDB info: Null connection to port a2 in instance page2_i2.
+EDB info: Null connection to port a5 in instance page2_i2.
+EDB info: Null connection to port a8 in instance page2_i2.
+EDB info: Null connection to port a10 in instance page2_i2.
+EDB info: Null connection to port a11 in instance page2_i2.
+EDB info: Null connection to port a12 in instance page2_i2.
+EDB info: Null connection to port a13 in instance page2_i2.
+EDB info: Null connection to port a14 in instance page2_i2.
+EDB info: Null connection to port a15 in instance page2_i2.
+EDB info: Null connection to port a16 in instance page2_i2.
+EDB info: Null connection to port a17 in instance page2_i2.
+EDB info: Null connection to port a18 in instance page2_i2.
+EDB info: Null connection to port a19 in instance page2_i2.
+EDB info: Null connection to port a20 in instance page2_i2.
+EDB info: Null connection to port a21 in instance page2_i2.
+EDB info: Null connection to port a22 in instance page2_i2.
+EDB info: Null connection to port a23 in instance page2_i2.
+EDB info: Null connection to port a24 in instance page2_i2.
+EDB info: Null connection to port a25 in instance page2_i2.
+EDB info: Null connection to port a26 in instance page2_i2.
+EDB info: Null connection to port a27 in instance page2_i2.
+EDB info: Null connection to port a28 in instance page2_i2.
+EDB info: Null connection to port a29 in instance page2_i2.
+EDB info: Null connection to port a30 in instance page2_i2.
+EDB info: Null connection to port a31 in instance page2_i2.
+EDB info: Null connection to port a32 in instance page2_i2.
+EDB info: Null connection to port a33 in instance page2_i2.
+EDB info: Null connection to port a34 in instance page2_i2.
+EDB info: Null connection to port a36 in instance page2_i2.
+EDB info: Null connection to port a39 in instance page2_i2.
+EDB info: Null connection to port a42 in instance page2_i2.
+EDB info: Null connection to port a44 in instance page2_i2.
+EDB info: Null connection to port a45 in instance page2_i2.
+EDB info: Null connection to port a46 in instance page2_i2.
+EDB info: Null connection to port a47 in instance page2_i2.
+EDB info: Null connection to port a48 in instance page2_i2.
+EDB info: Null connection to port a49 in instance page2_i2.
+EDB info: Null connection to port a50 in instance page2_i2.
+EDB info: Null connection to port a51 in instance page2_i2.
+EDB info: Null connection to port a52 in instance page2_i2.
+EDB info: Null connection to port a53 in instance page2_i2.
+EDB info: Null connection to port a54 in instance page2_i2.
+EDB info: Null connection to port a55 in instance page2_i2.
+EDB info: Null connection to port a56 in instance page2_i2.
+EDB info: Null connection to port a57 in instance page2_i2.
+EDB info: Null connection to port a58 in instance page2_i2.
+EDB info: Null connection to port a59 in instance page2_i2.
+EDB info: Null connection to port a60 in instance page2_i2.
+EDB info: Null connection to port a61 in instance page2_i2.
+EDB info: Null connection to port a62 in instance page2_i2.
+EDB info: Null connection to port a63 in instance page2_i2.
+EDB info: Null connection to port a64 in instance page2_i2.
+EDB info: Null connection to port a65 in instance page2_i2.
+EDB info: Null connection to port a66 in instance page2_i2.
+EDB info: Null connection to port a67 in instance page2_i2.
+EDB info: Null connection to port a68 in instance page2_i2.
+EDB info: Null connection to port a2 in instance page2_i3.
+EDB info: Null connection to port a5 in instance page2_i3.
+EDB info: Null connection to port a8 in instance page2_i3.
+EDB info: Null connection to port a10 in instance page2_i3.
+EDB info: Null connection to port a11 in instance page2_i3.
+EDB info: Null connection to port a12 in instance page2_i3.
+EDB info: Null connection to port a13 in instance page2_i3.
+EDB info: Null connection to port a14 in instance page2_i3.
+EDB info: Null connection to port a15 in instance page2_i3.
+EDB info: Null connection to port a16 in instance page2_i3.
+EDB info: Null connection to port a17 in instance page2_i3.
+EDB info: Null connection to port a18 in instance page2_i3.
+EDB info: Null connection to port a19 in instance page2_i3.
+EDB info: Null connection to port a20 in instance page2_i3.
+EDB info: Null connection to port a21 in instance page2_i3.
+EDB info: Null connection to port a22 in instance page2_i3.
+EDB info: Null connection to port a23 in instance page2_i3.
+EDB info: Null connection to port a24 in instance page2_i3.
+EDB info: Null connection to port a25 in instance page2_i3.
+EDB info: Null connection to port a26 in instance page2_i3.
+EDB info: Null connection to port a27 in instance page2_i3.
+EDB info: Null connection to port a28 in instance page2_i3.
+EDB info: Null connection to port a29 in instance page2_i3.
+EDB info: Null connection to port a30 in instance page2_i3.
+EDB info: Null connection to port a31 in instance page2_i3.
+EDB info: Null connection to port a32 in instance page2_i3.
+EDB info: Null connection to port a33 in instance page2_i3.
+EDB info: Null connection to port a34 in instance page2_i3.
+EDB info: Null connection to port a36 in instance page2_i3.
+EDB info: Null connection to port a39 in instance page2_i3.
+EDB info: Null connection to port a42 in instance page2_i3.
+EDB info: Null connection to port a44 in instance page2_i3.
+EDB info: Null connection to port a45 in instance page2_i3.
+EDB info: Null connection to port a46 in instance page2_i3.
+EDB info: Null connection to port a47 in instance page2_i3.
+EDB info: Null connection to port a48 in instance page2_i3.
+EDB info: Null connection to port a49 in instance page2_i3.
+EDB info: Null connection to port a50 in instance page2_i3.
+EDB info: Null connection to port a51 in instance page2_i3.
+EDB info: Null connection to port a52 in instance page2_i3.
+EDB info: Null connection to port a53 in instance page2_i3.
+EDB info: Null connection to port a54 in instance page2_i3.
+EDB info: Null connection to port a55 in instance page2_i3.
+EDB info: Null connection to port a56 in instance page2_i3.
+EDB info: Null connection to port a57 in instance page2_i3.
+EDB info: Null connection to port a58 in instance page2_i3.
+EDB info: Null connection to port a59 in instance page2_i3.
+EDB info: Null connection to port a60 in instance page2_i3.
+EDB info: Null connection to port a61 in instance page2_i3.
+EDB info: Null connection to port a62 in instance page2_i3.
+EDB info: Null connection to port a63 in instance page2_i3.
+EDB info: Null connection to port a64 in instance page2_i3.
+EDB info: Null connection to port a65 in instance page2_i3.
+EDB info: Null connection to port a66 in instance page2_i3.
+EDB info: Null connection to port a67 in instance page2_i3.
+EDB info: Null connection to port a68 in instance page2_i3.
+EDB info: Null connection to port a9 in instance page3_i73.
+EDB info: Null connection to port a10 in instance page3_i73.
+EDB info: Null connection to port a11 in instance page3_i73.
+EDB info: Null connection to port a12 in instance page3_i73.
+EDB info: Null connection to port a13 in instance page3_i73.
+EDB info: Null connection to port a14 in instance page3_i73.
+EDB info: Null connection to port a15 in instance page3_i73.
+EDB info: Null connection to port a16 in instance page3_i73.
+EDB info: Null connection to port a17 in instance page3_i73.
+EDB info: Null connection to port a18 in instance page3_i73.
+EDB info: Null connection to port a19 in instance page3_i73.
+EDB info: Null connection to port a20 in instance page3_i73.
+EDB info: Null connection to port a21 in instance page3_i73.
+EDB info: Null connection to port a22 in instance page3_i73.
+EDB info: Null connection to port a23 in instance page3_i73.
+EDB info: Null connection to port a24 in instance page3_i73.
+EDB info: Null connection to port a25 in instance page3_i73.
+EDB info: Null connection to port a26 in instance page3_i73.
+EDB info: Null connection to port a27 in instance page3_i73.
+EDB info: Null connection to port a28 in instance page3_i73.
+EDB info: Null connection to port a29 in instance page3_i73.
+EDB info: Null connection to port a30 in instance page3_i73.
+EDB info: Null connection to port a32 in instance page3_i73.
+EDB info: Null connection to port a34 in instance page3_i73.
+EDB info: Null connection to port a43 in instance page3_i73.
+EDB info: Null connection to port a44 in instance page3_i73.
+EDB info: Null connection to port a45 in instance page3_i73.
+EDB info: Null connection to port a46 in instance page3_i73.
+EDB info: Null connection to port a47 in instance page3_i73.
+EDB info: Null connection to port a48 in instance page3_i73.
+EDB info: Null connection to port a49 in instance page3_i73.
+EDB info: Null connection to port a50 in instance page3_i73.
+EDB info: Null connection to port a51 in instance page3_i73.
+EDB info: Null connection to port a52 in instance page3_i73.
+EDB info: Null connection to port a53 in instance page3_i73.
+EDB info: Null connection to port a54 in instance page3_i73.
+EDB info: Null connection to port a55 in instance page3_i73.
+EDB info: Null connection to port a56 in instance page3_i73.
+EDB info: Null connection to port a57 in instance page3_i73.
+EDB info: Null connection to port a58 in instance page3_i73.
+EDB info: Null connection to port a59 in instance page3_i73.
+EDB info: Null connection to port a60 in instance page3_i73.
+EDB info: Null connection to port a61 in instance page3_i73.
+EDB info: Null connection to port a62 in instance page3_i73.
+EDB info: Null connection to port a63 in instance page3_i73.
+EDB info: Null connection to port a64 in instance page3_i73.
+EDB info: Null connection to port a66 in instance page3_i73.
+EDB info: Null connection to port a68 in instance page3_i73.
+EDB info: Null connection to port a9 in instance page3_i74.
+EDB info: Null connection to port a10 in instance page3_i74.
+EDB info: Null connection to port a11 in instance page3_i74.
+EDB info: Null connection to port a12 in instance page3_i74.
+EDB info: Null connection to port a13 in instance page3_i74.
+EDB info: Null connection to port a14 in instance page3_i74.
+EDB info: Null connection to port a15 in instance page3_i74.
+EDB info: Null connection to port a16 in instance page3_i74.
+EDB info: Null connection to port a17 in instance page3_i74.
+EDB info: Null connection to port a18 in instance page3_i74.
+EDB info: Null connection to port a19 in instance page3_i74.
+EDB info: Null connection to port a20 in instance page3_i74.
+EDB info: Null connection to port a21 in instance page3_i74.
+EDB info: Null connection to port a22 in instance page3_i74.
+EDB info: Null connection to port a23 in instance page3_i74.
+EDB info: Null connection to port a24 in instance page3_i74.
+EDB info: Null connection to port a25 in instance page3_i74.
+EDB info: Null connection to port a26 in instance page3_i74.
+EDB info: Null connection to port a27 in instance page3_i74.
+EDB info: Null connection to port a28 in instance page3_i74.
+EDB info: Null connection to port a29 in instance page3_i74.
+EDB info: Null connection to port a30 in instance page3_i74.
+EDB info: Null connection to port a32 in instance page3_i74.
+EDB info: Null connection to port a34 in instance page3_i74.
+EDB info: Null connection to port a43 in instance page3_i74.
+EDB info: Null connection to port a44 in instance page3_i74.
+EDB info: Null connection to port a45 in instance page3_i74.
+EDB info: Null connection to port a46 in instance page3_i74.
+EDB info: Null connection to port a47 in instance page3_i74.
+EDB info: Null connection to port a48 in instance page3_i74.
+EDB info: Null connection to port a49 in instance page3_i74.
+EDB info: Null connection to port a50 in instance page3_i74.
+EDB info: Null connection to port a51 in instance page3_i74.
+EDB info: Null connection to port a52 in instance page3_i74.
+EDB info: Null connection to port a53 in instance page3_i74.
+EDB info: Null connection to port a54 in instance page3_i74.
+EDB info: Null connection to port a55 in instance page3_i74.
+EDB info: Null connection to port a56 in instance page3_i74.
+EDB info: Null connection to port a57 in instance page3_i74.
+EDB info: Null connection to port a58 in instance page3_i74.
+EDB info: Null connection to port a59 in instance page3_i74.
+EDB info: Null connection to port a60 in instance page3_i74.
+EDB info: Null connection to port a61 in instance page3_i74.
+EDB info: Null connection to port a62 in instance page3_i74.
+EDB info: Null connection to port a63 in instance page3_i74.
+EDB info: Null connection to port a64 in instance page3_i74.
+EDB info: Null connection to port a66 in instance page3_i74.
+EDB info: Null connection to port a68 in instance page3_i74.
+
+ *************************
+ *  Loading State Files  *
+ *************************
+
+DDB_INFO: Created merged part 'RESISTOR_0603-22R,1%,VISHAY' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-0R0,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-4R7,5%,ROHM' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-10R,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-12R,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-15R,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-18R,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-22R,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-27R,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-33R,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-39R,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-47R,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-51R,5%,ROHM' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-56R,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-68R,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-75R,5%,ROHM' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-82R,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-100R,1%,ROHM' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-100R,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-120R,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-150R,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-180R,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-220R,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-270R,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-330R,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-390R,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-470R,1%,ROHM' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-470R,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-510R,1%,ROHM' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-560R,1%,ROHM' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-560R,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-680R,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-680R,1%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-750R,1%,ROHM' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-820R,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-1K0,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-1K2,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-1K5,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-1K8,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-2K2,1%,ROHM' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-2K2,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-2K7,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-3K3,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-3K9,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-4K7,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-4K7,1%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-5K6,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-5K6,1%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-6K8,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-8K2,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-10K,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-12K,1%,ROHM' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-12K,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-15K,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-18K,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-18K,1%,ROHM' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-22K,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-27K,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-33K,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-33K,1%,ROHM' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-39K,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-47K,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-56K,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-68K,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-82K,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-82K,1%,ROHM' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-100K,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-120K,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-150K,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-180K,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-220K,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-270K,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-330K,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-390K,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-470K,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-560K,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-680K,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-820K,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0402-1M0,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-0R0,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-1R5,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-2R2,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-3R3,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-4R7,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-4R7,5%,ROHM' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-6R8,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-10R,0.1%,MEGGITT E.C' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-10R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-11R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-12R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-13R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-15R,0.1%,MEGGITT E.C' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-15R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-16R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-18R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-20R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-22R,0.1%,MEGGITT E.C' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-22R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-22R,5%,ROHM' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-24R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-24R9,1%,FLINT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-27R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-27R,1%,ROHM' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-27R,5%,ROHM' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-30R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-33R,0.1%,MEGGITT E.C' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-33R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-36R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-39R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-43R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-47R,0.1%,MEGGITT E.C' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-47R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-47R,5%,ROHM' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-51R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-51R,5%,ROHM' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-56R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-62R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-68R,0.1%,MEGGITT E.C' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-68R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-75R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-82R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-91R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-100R,0.1%,MEGGITT E.C' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-100R,1%,ROHM' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-100R,5%,ROHM' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-110R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-120R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-130R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-150R,0.1%,MEGGITT E.C' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-150R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-150R,5%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-160R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-180R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-180R,1%,ROHM' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-180R,5%,ROHM' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-200R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-220R,0.1%,MEGGITT E.C' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-220R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-220R,1%,ROHM' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-220R,5%,ROHM' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-240R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-270R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-300R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-300R,1%,ROHM' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-300R,5%,ROHM' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-330R,0.1%,MEGGITT E.C' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-330R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-360R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-390R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-390R,1%,ROHM' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-390R,5%,ROHM' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-430R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-470R,0.1%,MEGGITT E.C' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-470R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-510R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-560R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-560R,1%,NEOHM' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-560R,5%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-620R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-680R,0.1%,MEGGITT E.C' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-680R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-750R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-820R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-910R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-1K0,0.1%,MEGGITT E.C' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-1K0,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-1K0,1%,ROHM' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-1K0,5%,ROHM' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-1K1,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-1K2,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-1K3,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-1K5,0.1%,MEGGITT E.C' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-1K5,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-1K6,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-1K8,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-2K0,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-2K0,1%,ROHM' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-2K0,5%,ROHM' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-2K2,0.1%,MEGGITT E.C' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-2K2,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-2K2,5%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-2K4,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-2K7,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-3K0,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-3K0,1%,ROHM' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-3K0,5%,ROHM' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-3K3,0.1%,MEGGITT E.C' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-3K3,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-3K3,5%,ROHM' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-3K6,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-3K9,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-4K3,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-4K7,0.1%,MEGGITT E.C' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-4K7,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-4K7,5%,ROHM' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-5K1,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-5K6,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-6K2,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-6K8,0.1%,MEGGITT E.C' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-6K8,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-7K5,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-8K2,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-9K1,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-10K,0.1%,MEGGITT E.C' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-10K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-10K,1%,ROHM' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-10K,5%,ROHM' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-11K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-12K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-13K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-15K,0.1%,MEGGITT E.C' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-15K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-16K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-18K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-20K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-22K,0.1%,MEGGITT E.C' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-22K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-24K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-27K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-30K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-33K,0.1%,MEGGITT E.C' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-33K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-36K,0.1%,MEGGITT E.C' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-36K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-39K,0.1%,MEGGITT E.C' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-39K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-43K,0.1%,MEGGITT E.C' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-43K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-47K,0.1%,MEGGITT E.C' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-47K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-51K,0.1%,MEGGITT E.C' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-51K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-56K,0.1%,MEGGITT E.C' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-56K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-62K,0.1%,MEGGITT E.C' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-62K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-68K,0.1%,MEGGITT E.C' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-68K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-75K,0.1%,MEGGITT E.C' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-75K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-82K,0.1%,MEGGITT E.C' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-82K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-91K,0.1%,MEGGITT E.C' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-91K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-100K,0.1%,MEGGITT E.C' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-100K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-110K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-120K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-130K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-150K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-160K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-180K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-200K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-220K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-220K,5%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-240K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-270K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-300K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-330K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-360K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-390K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-430K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-470K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-510K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-560K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-620K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-680K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-750K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-820K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-910K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0603-1M,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-0R0,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-0R0,5%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-1R0,5%,ROHM' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-1R2,5%,ROHM' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-1R5,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-2R2,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-3R3,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-4R7,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-4R7,5%,ROHM' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-6R8,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-10R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-10R,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-11R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-12R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-12R,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-13R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-15R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-15R,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-16R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-18R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-18R,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-20R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-22R,1%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-22R,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-24R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-27R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-27R,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-30R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-33R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-33R,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-36R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-39R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-39R,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-43R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-47R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-47R,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-51R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-51R,1%,ROHM' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-51R,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-56R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-56R,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-62R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-68R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-68R,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-75R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-82R,1%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-82R,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-91R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-100R,0.1%,MEGGITT HOLSWORTHY' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-100R,1%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-100R,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-105R,0.1%,MEGGITT HOLSWORTHY' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-107R,0.1%,MEGGITT HOLSWORTHY' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-110R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-120R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-120R,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-121R,0.1%,MEGGITT HOLSWORTHY' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-130R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-143R,0.1%,MEGGITT HOLSWORTHY' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-150R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-150R,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-160R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-160R,5%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-162R,0.1%,MEGGITT HOLSWORTHY' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-169R,0.1%,MEGGITT HOLSWORTHY' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-180R,1%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-180R,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-200R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-200R,5%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-220R,1%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-220R,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-240R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-240R,5%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-242R,0.1%,MEGGITT HOLSWORTHY' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-243R,0.1%,MEGGITT HOLSWORTHY' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-267R,0.1%,MEGGITT HOLSWORTHY' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-270R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-270R,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-300R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-300R,5%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-330R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-330R,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-360R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-360R,1%,ROHM' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-360R,2%,ROHM' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-365R,0.1%,MEGGITT HOLSWORTHY' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-390R,0.1%,MEGGITT HOLSWORTHY' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-390R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-390R,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-392R,0.1%,MEGGITT HOLSWORTHY' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-430R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-464R,0.1%,MEGGITT HOLSWORTHY' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-470R,1%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-470R,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-475R,0.1%,MEGGITT HOLSWORTHY' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-510R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-510R,5%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-560R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-560R,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-576R,0.1%,MEGGITT HOLSWORTHY' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-604R,0.1%,MEGGITT HOLSWORTHY' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-620R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-620R,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-680R,1%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-680R,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-732R,0.1%,MEGGITT HOLSWORTHY' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-750R,0.1%,MEGGITT HOLSWORTHY' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-750R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-820R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-820R,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-910R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-931R,0.1%,MEGGITT HOLSWORTHY' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-1K0,0.1%,MEGGITT HOLSWORTHY' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-1K0,1%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-1K0,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-1K1,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-1K13,0.1%,MEGGITT HOLSWORTHY' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-1K2,1%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-1K2,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-1K27,0.1%,MEGGITT HOLSWORTHY' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-1K3,0.1%,MEGGITT HOLSWORTHY' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-1K3,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-1K5,0.1%,MEGGITT HOLSWORTHY' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-1K5,1%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-1K5,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-1K6,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-1K62,0.1%,MEGGITT HOLSWORTHY' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-1K74,0.1%,MEGGITT HOLSWORTHY' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-1K8,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-1K8,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-1K82,0.1%,MEGGITT HOLSWORTHY' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-1K87,0.1%,MEGGITT HOLSWORTHY' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-1K91,0.1%,MEGGITT HOLSWORTHY' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-2K0,0.1%,MEGGITT HOLSWORTHY' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-2K0,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-2K2,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-2K2,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-2K37,0.1%,MEGGITT HOLSWORTHY' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-2K4,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-2K43,0.1%,MEGGITT HOLSWORTHY' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-2K7,1%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-2K7,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-2K87,0.1%,MEGGITT HOLSWORTHY' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-3K0,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-3K32,0.1%,MEGGITT HOLSWORTHY' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-3K3,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-3K3,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-3K57,0.1%,MEGGITT HOLSWORTHY' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-3K6,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-3K9,1%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-3K9,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-3K92,0.1%,MEGGITT HOLSWORTHY' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-4K3,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-4K7,1%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-4K7,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-4K99,0.1%,MEGGITT HOLSWORTHY' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-5K1,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-5K11,0.1%,MEGGITT HOLSWORTHY' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-5K6,1%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-5K6,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-6K2,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-6K2,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-6K8,1%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-6K8,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-7K5,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-8K2,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-8K2,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-9K1,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-10K,0.1%,MEGGITT HOLSWORTHY' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-10K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-10K,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-11K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-12K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-12K,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-12K1,0.1%,MEGGITT HOLSWORTHY' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-13K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-15K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-15K,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-15K8,1%,MEGGITT HOLSWORTHY' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-16K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-18K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-18K,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-20K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-22K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-22K,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-22K1,0.1%,MEGGITT HOLSWORTHY' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-24K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-27K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-27K,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-30K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-33K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-33K,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-36K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-39K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-39K,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-43K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-47K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-47K,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-47K5,0.1%,MEGGITT HOLSWORTHY' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-51K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-56K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-56K,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-62K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-68K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-68K,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-75K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-82K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-82K,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-91K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-1OOK,0.1%,MEGGITT HOLSWORTHY' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-1OOK,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-1OOK,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-110K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-120K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-120K,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-130K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-150K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-150K,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-160K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-180K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-180K,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-200K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-220K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-220K,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-240K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-270K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-270K,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-300K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-330K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-330K,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-360K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-390K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-390K,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-430K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-470K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-470K,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-510K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-560K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-560K,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-620K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-680K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-680K,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-750K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-820K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-820K,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-910K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-1M,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_0805-1M,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-0R0,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-0R0,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-1R0,5%,ROHM' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-4R7,5%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-10R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-10R,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-12R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-12R,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-15R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-15R,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-18R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-18R,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-22R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-22R,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-27R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-27R,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-33R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-33R,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-39R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-39R,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-47R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-47R,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-51R,1%,BEYSCHLAG' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-56R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-56R,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-68R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-68R,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-82R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-82R,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-100R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-100R,1%,PHICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-100R,1%,ROHM' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-100R,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-120R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-120R,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-150R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-150R,1%,PHICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-150R,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-180R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-180R,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-220R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-220R,1%,PHICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-220R,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-270R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-270R,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-330R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-330R,1%,PHICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-330R,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-390R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-390R,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-470R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-470R,1%,PHICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-470R,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-560R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-560R,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-680R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-680R,1%,PHICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-680R,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-820R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-820R,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-1K0,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-1K0,1%,PHICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-1K0,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-1K1,2%,WELWYN' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-1K2,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-1K2,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-1K5,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-1K5,1%,PHICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-1K5,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-1K8,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-1K8,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-2K2,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-2K2,1%,PHICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-2K2,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-2K7,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-2K7,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-3K3,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-3K3,1%,PHICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-3K3,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-3K9,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-3K9,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-4K7,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-4K7,1%,PHICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-4K7,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-5K6,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-5K6,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-6K8,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-6K8,1%,PHICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-6K8,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-8K2,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-8K2,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-10K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-10K,1%,PHICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-10K,1%,ROHM' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-10K,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-12K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-12K,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-15K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-15K,1%,PHICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-15K,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-18K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-18K,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-22K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-22K,1%,PHICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-22K,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-27K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-27K,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-33K,1%,BEYSCHLAG' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-33K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-33K,1%,PHICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-33K,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-39K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-39K,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-47K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-47K,1%,PHICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-47K,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-56K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-56K,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-68K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-68K,1%,PHICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-68K,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-82K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-82K,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-100K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-100K,1%,PHICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-1OOK,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-120K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-120K,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-150K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-150K,1%,PHICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-150K,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-180K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-180K,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-220K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-220K,1%,PHICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-220K,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-270K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-270K,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-330K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-330K,1%,PHICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-330K,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-390K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-390K,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-470K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-470K,1%,PHICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-470K,1%,ROHM' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-470K,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-560K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-560K,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-680K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-680K,1%,PHICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-680K,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-820K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-820K,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-1M0,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-1M0,1%,PHICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-1M0,1%,ROHM' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-1M0,5%,CAT' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_1206-10M,5%,ROHM' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_2010-470R,1%,PHILIPS PASSIVES' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_2512-0.0025R,5%,VISHAY' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_MCF-22R,5%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_MCF-51R,5%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_MCF-56R,5%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_MCF-75R,5%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_MCF-100R,5%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_MCF-120R,5%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_MCF-330R,5%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_MCF-470R,5%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_MCF-1K0,5%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_MCF-2K2,5%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_MCF-2K7,5%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_MCF-3K3,5%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_MCF-4K7,5%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_MCF-6K8,5%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_MCF-10K,5%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_MCF-15K,5%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_MCF-47K,5%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_MF25-10R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_MF25-12R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_MF25-22R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_MF25-27R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_MF25-47R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_MF25-51R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_MF25-56R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_MF25-82R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_MF25-100R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_MF25-120R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_MF25-130R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_MF25-150R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_MF25-200R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_MF25-220R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_MF25-270R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_MF25-330R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_MF25-390R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_MF25-470R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_MF25-510R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_MF25-560R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_MF25-680R,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_MF25-1K0,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_MF25-1K2,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_MF25-2K0,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_MF25-2K2,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_MF25-2K7,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_MF25-3K0,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_MF25-3K3,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_MF25-3K6,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_MF25-3K9,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_MF25-4K3,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_MF25-6K8,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_MF25-8K2,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_MF25-10K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_MF25-20K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_MF25-39K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_MF25-68K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_MF25-100K,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_MF25-1M0,1%,MULTICOMP' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_MRS25-10M,1%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_OARS-0.003R,1%,TT ELECTRONICS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_OARS-0.005R,1%,TT ELECTRONICS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_OARS-0.010R,1%,TT ELECTRONICS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_RC55-100R,0.1%,WELWYN' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_ROX1S-82R,5%,NEOHM' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_ROX2S-12R,5%,NEOHM' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_ROX3S-82K,5%,NEOHM' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_VR37-1M2,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_VR37-1M5,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_VR37-1M8,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_VR37-2M2,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_VR37-2M7,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_VR37-3M3,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_VR37-3M9,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_VR37-4M7,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_VR37-5M6,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_VR37-6M8,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_VR37-8M2,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_VR37-10M,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_VR37-15M,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_VR37-22M,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_VR37-33M,5%,PHILIPS' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'RESISTOR_W21-7R5,5%,WELWYN' for PPT 'RESISTOR'.
+DDB_INFO: Created merged part 'INDUCTOR_SMD-600N,PULSE' for PPT 'INDUCTOR'.
+DDB_INFO: Created merged part 'INDUCTOR_SMD-900N,PULSE' for PPT 'INDUCTOR'.
+DDB_INFO: Created merged part 'INDUCTOR_PTH-3U,EPCOS' for PPT 'INDUCTOR'.
+DDB_INFO: Created merged part 'INDUCTOR_PTH-100U,SIEMENS' for PPT 'INDUCTOR'.
+DDB_INFO: Created merged part 'INDUCTOR_PTH-100U,FERROPERM' for PPT 'INDUCTOR'.
+DDB_INFO: Created merged part 'INDUCTOR_SMD-0.22U,MEGGIT' for PPT 'INDUCTOR'.
+DDB_INFO: Created merged part 'INDUCTOR_SMD-1.0U,COILCRAFT' for PPT 'INDUCTOR'.
+DDB_INFO: Created merged part 'INDUCTOR_SMD-1.0U,MEGGIT' for PPT 'INDUCTOR'.
+DDB_INFO: Created merged part 'INDUCTOR_SMD-3.3U,COILCRAFT' for PPT 'INDUCTOR'.
+DDB_INFO: Created merged part 'INDUCTOR_SMD-4.7U,MEC' for PPT 'INDUCTOR'.
+DDB_INFO: Created merged part 'INDUCTOR_SMD-6.8U,COILTRONICS' for PPT 'INDUCTOR'.
+DDB_INFO: Created merged part 'INDUCTOR_SMD-7.0U,COILTRONICS' for PPT 'INDUCTOR'.
+DDB_INFO: Created merged part 'INDUCTOR_SMD-1M,SIEMENS' for PPT 'INDUCTOR'.
+DDB_INFO: Created merged part 'INDUCTOR_0402-1000R,MURATA' for PPT 'INDUCTOR'.
+DDB_INFO: Created merged part 'INDUCTOR_0603-100NH,EPCOS' for PPT 'INDUCTOR'.
+DDB_INFO: Created merged part 'INDUCTOR_0603-301,TDK' for PPT 'INDUCTOR'.
+DDB_INFO: Created merged part 'INDUCTOR_1608-3.3U,COILCRAFT' for PPT 'INDUCTOR'.
+DDB_INFO: Created merged part 'INDUCTOR_2220-HF70ACC575018T,TDK' for PPT 'INDUCTOR'.
+DDB_INFO: Created merged part 'INDUCTOR_2220-HF70ACC575032T,TDK' for PPT 'INDUCTOR'.
+DDB_INFO: Created merged part 'INDUCTOR_2828-100U,TDK' for PPT 'INDUCTOR'.
+DDB_INFO: Created merged part 'INDUCTOR_2828-68U,TDK' for PPT 'INDUCTOR'.
+DDB_INFO: Created merged part '100ELT23_SOIC-MOTOROLA' for PPT '100ELT23'.
+DDB_INFO: Created merged part '100ELT23_SOIC-SYNERGY' for PPT '100ELT23'.
+DDB_INFO: Created merged part 'SK-SMA-PCB_STR-JOHNSON' for PPT 'SK-SMA-PCB'.
+DDB_INFO: Created merged part 'SK-SMA-PCB_RT-ANG-JOHNSON' for PPT 'SK-SMA-PCB'.
+DDB_INFO: Created merged part 'SK-SMA-PCB_EDGE-JOHNSON' for PPT 'SK-SMA-PCB'.
+DDB_INFO: Created merged part 'SK-SMA-PCB_STR-RS' for PPT 'SK-SMA-PCB'.
+Elapsed time since start = (00:00:03)
+
+ *****************************************
+ *  End loading State Files  (00:00:00)  *
+ *****************************************
+
+
+ ****************************************
+ *  Starting to assign physical parts.  *
+ ****************************************
+
+Elapsed time since start = (00:00:03)
+
+ ***********************************************
+ *  End assigning physical parts.  (00:00:00)  *
+ ***********************************************
+
+
+ ***************
+ *  Packaging  *
+ ***************
+
+Elapsed time since start = (00:00:03)
+
+ *******************************
+ *  End packaging  (00:00:00)  *
+ *******************************
+
+DDB_INFO: State file for design QPLL successfully written.
+DDB_INFO: Pst files for design QPLL successfully written.
+
+ *********************************
+ *  Packager-XL execution done.  *
+ *********************************
+

@@ -1,0 +1,29 @@
+G04 ================== begin FILE IDENTIFICATION RECORD ==================*
+G04 Layout Name:  E:\qpll-only-UOB-HEP-PC005A\worklib\qpll\physical\pc005-placed-e.brd*
+G04 Film Name:    bottompaste*
+G04 File Format:  Gerber RS274X*
+G04 File Origin:  -unreleased*
+G04 Origin Date:  Mon Jun 30 09:44:21 2003*
+G04 ================== end FILE IDENTIFICATION RECORD ====================*
+%FSLAX53Y53*MOIN*%
+%IR0*IPPOS*OFA0.00000B0.00000*MIA0B0*SFA1.00000B1.00000*%
+%ADD11R,.045X.025*%
+%ADD10R,.025X.045*%
+G75*
+%LPD*%
+G75*
+G54D10*
+X-4189Y-423D03*
+X-4119D03*
+X-4189Y-344D03*
+X-4119D03*
+X-3805Y-394D03*
+X-3735D03*
+X-3380Y-315D03*
+X-3450D03*
+G54D11*
+X-3671Y-468D03*
+Y-398D03*
+Y-280D03*
+Y-350D03*
+M02*

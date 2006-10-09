@@ -1,0 +1,146 @@
+
+
+    Cadence Design Systems, Inc.
+    Packager-XL 14.2-p007 WIN32 December 20, 2001 12:00:00 IST
+    (C) Copyright 1994, Cadence Design Systems, Inc.
+
+    Run on Tue Jun 10 22:43:05 2003
+
+
+ **********************************************
+ *  Processing project file and command line  *
+ **********************************************
+
+
+
+    ANNOTATE  'BODY' 'PIN'
+    COMP_DEF_PROP  'ALT_SYMBOLS' 'JEDEC_TYPE' 'NC_PINS' 'MERGE_NC_PINS'
+                   'POWER_GROUP' 'POWER_PINS' 'MERGE_POWER_PINS' 'PINCOUNT'
+    COMP_INST_PROP  'GROUP' 'ROOM' 'REUSE_INSTANCE' 'REUSE_ID' 'REUSE_NAME'
+    DEBUG    0
+    DEFAULT_PHYS_DES_PREFIX U
+    FEEDBACK  'OFF'
+    MAX_ERRORS 999
+    NET_NAME_CHARS   @  -  !  #  %  &  (  )  *  .  /  :  ?  [  ]  ^  _  `  +
+                     =  >  0  1  2  3  4  5  6  7  8  9
+    NET_NAME_LENGTH 31
+    NUM_OLD_VERSIONS 3
+    OPTIMIZE OFF
+    REUSE_REFDES ON
+    OPF_OPTIMIZATION OFF
+    HARD_LOC_SEC OFF
+    FORCE_PTF_ENTRY OFF
+    REGENERATE_PHYSICAL_NET_NAME OFF
+    FILTER_ECS_FROM_XNET ON
+    OUTPUT  'ON'
+    PACKAGE_PROP  'GROUP' 'ROOM'
+    PART_TYPE_LENGTH 31
+    PPT  g:\cad\bris_cdslib\lib_psd14.x/cds_analogue/cds_analogue.ptf 
+         g:\cad\bris_cdslib\lib_psd14.x/cds_connectors/cds_connectors.ptf 
+         g:\cad\bris_cdslib\lib_psd14.x/cds_discrete/cds_discrete.ptf 
+         g:\cad\bris_cdslib\lib_psd14.x/cds_logic/cds_logic.ptf 
+         g:\cad\bris_cdslib\lib_psd14.x/cds_pld/cds_pld.ptf 
+         g:\cad\bris_cdslib\lib_psd14.x/cds_special/cds_special.ptf 
+         g:\cad\ral_cdslib\lib_psd14.x/cds_analogue/cds_analogue.ptf 
+         g:\cad\ral_cdslib\lib_psd14.x/cds_connectors/cds_connectors.ptf 
+         g:\cad\ral_cdslib\lib_psd14.x/cds_discrete/cds_discrete.ptf 
+         g:\cad\ral_cdslib\lib_psd14.x/cds_logic/cds_logic.ptf 
+         g:\cad\ral_cdslib\lib_psd14.x/cds_memory/cds_memory.ptf 
+         g:\cad\ral_cdslib\lib_psd14.x/cds_pld/cds_pld.ptf 
+         g:\cad\ral_cdslib\lib_psd14.x/cds_special/cds_special.ptf 
+         g:\cad\ral_cdslib\lib_psd14.x/cds_switches/cds_switches.ptf 
+    REF_DES_LENGTH 31
+    REPACKAGE OFF
+    ELECTRICAL_CONSTRAINTS OFF
+    OVERWRITE_CONSTRAINTS OFF
+    RUN_DIR ./worklib/qpll/packaged/
+    STRICT_PACKAGE_PROP  'REUSE_INSTANCE'
+    USE_LIBRARY_PPT ON
+    USE_STATE ON
+    WARNINGS ON
+    LIBRARY  'bris_cds_standard' 'bris_cds_switches' 'cds_analogue'
+             'bris_cds_analogue' 'cds_connectors' 'bris_cds_connectors'
+             'cds_discrete' 'bris_cds_discrete' 'cds_logic' 'bris_cds_logic'
+             'cds_memory' 'bris_cds_memory' 'cds_pld' 'bris_cds_pld'
+             'cds_special' 'bris_cds_special' 'cds_standard' 'cds_switches'
+             'uob_hep_pc005a_lib'
+    CDSPROP_FILE 
+    VIEW_PTF part_table
+    VIEW_PACKAGER packaged
+    VIEW_CONSTRAINTS constraints
+    DESIGN_LIBRARY uob_hep_pc005a_lib
+    DESIGN_NAME qpll
+    VIEW_CONFIG_PHYSICAL cfg_package
+    SD_SUFFIX_SEPARATOR _
+
+ **************************************************************
+ *  End processing project file and command line  (00:00:00)  *
+ **************************************************************
+
+
+Creating Configuration "cfg_package" for Design "qpll"
+
+Loading C:\Cadence\PSD_14.2\share\cdssetup\cdsprop.tmf.
+Loading C:\Cadence\PSD_14.2\share\cdssetup\cdsprop.paf.
+Loading g:/cad/bris_cdslib/lib_psd14.x/cds_analogue/cds_analogue.ptf.
+Loading g:/cad/bris_cdslib/lib_psd14.x/cds_connectors/cds_connectors.ptf.
+Loading g:/cad/bris_cdslib/lib_psd14.x/cds_discrete/cds_discrete.ptf.
+Loading g:/cad/bris_cdslib/lib_psd14.x/cds_logic/cds_logic.ptf.
+Loading g:/cad/bris_cdslib/lib_psd14.x/cds_pld/cds_pld.ptf.
+Loading g:/cad/bris_cdslib/lib_psd14.x/cds_special/cds_special.ptf.
+Loading g:/cad/ral_cdslib/lib_psd14.x/cds_analogue/cds_analogue.ptf.
+Loading g:/cad/ral_cdslib/lib_psd14.x/cds_connectors/cds_connectors.ptf.
+Loading g:/cad/ral_cdslib/lib_psd14.x/cds_discrete/cds_discrete.ptf.
+Loading g:/cad/ral_cdslib/lib_psd14.x/cds_logic/cds_logic.ptf.
+Loading g:/cad/ral_cdslib/lib_psd14.x/cds_memory/cds_memory.ptf.
+Loading g:/cad/ral_cdslib/lib_psd14.x/cds_pld/cds_pld.ptf.
+Loading g:/cad/ral_cdslib/lib_psd14.x/cds_special/cds_special.ptf.
+Loading g:/cad/ral_cdslib/lib_psd14.x/cds_switches/cds_switches.ptf.
+
+ *********************************
+ *  Loading the design database  *
+ *********************************
+
+Loading occurrence properties from ./worklib/qpll/opf/props.opf.
+
+ *************************
+ *  Loading State Files  *
+ *************************
+
+Loading ./worklib/qpll/packaged/pxl.state. 
+
+ *****************************************
+ *  End loading State Files  (00:00:00)  *
+ *****************************************
+
+
+ ****************************************
+ *  Starting to assign physical parts.  *
+ ****************************************
+
+
+ ***********************************************
+ *  End assigning physical parts.  (00:00:00)  *
+ ***********************************************
+
+
+ ***************
+ *  Packaging  *
+ ***************
+
+
+ *******************************
+ *  End packaging  (00:00:00)  *
+ *******************************
+
+
+No errors detected
+No warnings detected
+    Start time   22:43:05
+    End time     22:43:10
+    Elapsed time  0:00:05
+
+ *********************************
+ *  Packager-XL execution done.  *
+ *********************************
+
